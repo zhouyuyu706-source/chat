@@ -1,0 +1,27 @@
+
+/* Class = "NSTextFieldCell"; title = "00:00"; ObjectID = "78U-cA-2f2"; */
+"78U-cA-2f2.title" = "00:00";
+
+/* Class = "NSButtonCell"; title = "Send message"; ObjectID = "Bjm-hd-lQU"; */
+"Bjm-hd-lQU.title" = "发消息";
+
+/* Class = "NSButtonCell"; title = "Go back to conversations"; ObjectID = "M07-cf-bjZ"; */
+"M07-cf-bjZ.title" = "返回会话";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TwL-yO-BXI"; */
+"TwL-yO-BXI.title" = "盒子";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record message"; ObjectID = "dEq-nq-Ae8"; */
+"dEq-nq-Ae8.ibShadowedToolTip" = "录制信息";
+
+/* Class = "NSTextFieldCell"; title = "Recording"; ObjectID = "kIq-PG-Ymw"; */
+"kIq-PG-Ymw.title" = "录音";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record message"; ObjectID = "oFb-RQ-trc"; */
+"oFb-RQ-trc.ibShadowedToolTip" = "录制信息";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Go to conversations"; ObjectID = "tf8-hV-8xd"; */
+"tf8-hV-8xd.ibShadowedToolTip" = "前往会话";
+
+/* Class = "NSButtonCell"; title = "Record a message"; ObjectID = "zTC-Gf-lAV"; */
+"zTC-Gf-lAV.title" = "录制信息";

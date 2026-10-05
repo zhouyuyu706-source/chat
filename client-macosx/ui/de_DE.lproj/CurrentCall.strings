@@ -1,0 +1,93 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hang up"; ObjectID = "2cB-dz-KYg"; */
+"2cB-dz-KYg.ibShadowedToolTip" = "Auflegen";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4xt-xs-LVn"; */
+"4xt-xs-LVn.title" = "Feld";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DSf-SJ-l6k"; */
+"DSf-SJ-l6k.title" = "Feld";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "GBy-HF-JeP"; */
+"GBy-HF-JeP.title" = "Bezeichner";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "KCp-bZ-69S"; */
+"KCp-bZ-69S.title" = "Feld";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hang up"; ObjectID = "Kjq-iM-NBL"; */
+"Kjq-iM-NBL.ibShadowedToolTip" = "Auflegen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Mute Video"; ObjectID = "LVS-yZ-98V"; */
+"LVS-yZ-98V.ibShadowedToolTip" = "Video ausschalten";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select video device"; ObjectID = "Vcv-ia-VEy"; */
+"Vcv-ia-VEy.ibShadowedToolTip" = "Kamera auswählen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Share"; ObjectID = "ZGn-Tc-sg3"; */
+"ZGn-Tc-sg3.ibShadowedToolTip" = "Freigeben";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable plugins"; ObjectID = "YtG-ob-etP"; */
+"YtG-ob-etP.ibShadowedToolTip" = "Plugins einschalten";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedMultipleValuesPlaceholder" = "Eine Nachricht senden";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedNoSelectionPlaceholder" = "Eine Nachricht senden";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedNotApplicablePlaceholder" = "Eine Nachricht senden";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record"; ObjectID = "QYT-0n-4sw"; */
+"QYT-0n-4sw.ibShadowedToolTip" = "Aufzeichnen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "add contact to call"; ObjectID = "Vhk-fx-6RW"; */
+"Vhk-fx-6RW.ibShadowedToolTip" = "Kontakt zum Anruf hinzufügen";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YGj-SP-ikj"; */
+"YGj-SP-ikj.title" = "Textzelle";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hold"; ObjectID = "anb-Y8-JQi"; */
+"anb-Y8-JQi.ibShadowedToolTip" = "In die Warteschleife schalten";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Send a message"; ObjectID = "d4g-hS-EMn"; */
+"d4g-hS-EMn.placeholderString" = "Eine Nachricht senden";
+
+/* Class = "NSTextFieldCell"; placeholderString = "State"; ObjectID = "dPt-JY-yxV"; */
+"dPt-JY-yxV.placeholderString" = "Stand";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle chat"; ObjectID = "fmp-x4-Pef"; */
+"fmp-x4-Pef.ibShadowedToolTip" = "Chat umschalten";
+
+/* Class = "NSTextFieldCell"; title = "person Id"; ObjectID = "hKi-Ay-ex5"; */
+"hKi-Ay-ex5.title" = "ID der Person";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hfc-s5-yWK"; */
+"hfc-s5-yWK.title" = "Feld";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send a file"; ObjectID = "ngO-WV-cXD"; */
+"ngO-WV-cXD.ibShadowedToolTip" = "Eine Datei senden";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Pick up"; ObjectID = "qgD-3D-nD5"; */
+"qgD-3D-nD5.ibShadowedToolTip" = "Antwort";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Answer with audio only"; ObjectID = "MYC-Kz-Eq6"; */
+"MYC-Kz-Eq6.ibShadowedToolTip" = "Answer with audio only";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send"; ObjectID = "rqa-be-VIB"; */
+"rqa-be-VIB.ibShadowedToolTip" = "Senden";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select audio output device"; ObjectID = "Yma-O2-Ljp"; */
+"Yma-O2-Ljp.ibShadowedToolTip" = "Audio-Ausgabegerät wählen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select audio input device"; ObjectID = "aMU-l3-xFT"; */
+"aMU-l3-xFT.ibShadowedToolTip" = "Audio-Eingabegerät wählen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Mute microphone"; ObjectID = "N0A-rb-6rf"; */
+"N0A-rb-6rf.ibShadowedToolTip" = "Mikrofon stummschalten";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Person name"; ObjectID = "ues-20-34k"; */
+"ues-20-34k.placeholderString" = "Name der Person";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Type a message"; ObjectID = "Qs4-0k-em5"; */
+"Qs4-0k-em5.ibShadowedIsNilPlaceholder" = "Geben Sie eine Nachricht ein";

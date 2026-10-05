@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Hálózati hiba történt az exportálás során";
+
+/* Button Action */
+"Accept" = "Elfogadás";
+
+/* Button Action */
+"Cancel" = "Mégse";
+
+/* Welcome title */
+"Add a SIP account" = "SIP-fiók hozzáadása";
+
+/* Contextual menu action */
+"Add to contacts" = "Hozzáadás a kapcsolatokhoz";
+
+/* Backup error */
+"An error occured during the backup" = "Hiba történt az biztonsági mentés során";
+
+/* Error shown to the user */
+"An error occured during the export" = "Hiba történt az exportálás során";
+
+/* Peer busy message */
+"appears to be busy." = "valószínűleg elfoglalt.";
+
+/* Error audio permission */
+"Audio permission not granted" = "A hang engedélyét nem adták meg";
+
+/* Backup account */
+"Backup your account" = "Biztonsági másolat készítése a fiókjáról";
+
+/* Contextual menu action */
+"Block contact" = "Kapcsolat letiltása";
+
+/* Contextual menu action */
+"Remove conversation" = "Beszélgetés törlése";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Figyelmeztetés! Ez a művelet eltávolítja ezt a fiókot az eszközön!\nMegjegyzés: ez a művelet nem vonható vissza. A regisztrált neved is elveszhet!";
+
+/* File transfer canceled label */
+"Canceled" = "Törölve";
+
+/* Contextual menu entry */
+"Stream file" = "Fájl-adatfolyam";
+
+/* Contextual menu action */
+"Clear conversation" = "Beszélgetés törlése";
+
+/* No comment provided by engineer. */
+"Copy" = "Másolás";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Nem sikerült üzenetet felvétel hívás közben";
+
+/* Welcome title */
+"Create a new account" = "Új fiók létrehozása";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Találkozási pont létrehozása";
+
+/* Backup enter password */
+"Enter account password" = "Adja meg a fiók jelszavát";
+
+/* File transfer failed label */
+"Failed" = "Sikertelen";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Az fiók átvitel nem sikerült. Törölje a fiókot, vagy az újrapróbálkozáshoz az Rendben gombbal.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "A kikeresés meghiúsult";
+
+/* Text shown to the user */
+"ID: " = "Azonosító:";
+
+/* link account title */
+"Import from backup" = "Importálás biztonsági másolatból";
+
+/* link account title */
+"Import from other device" = "Importálás más eszközről";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Bejövő hívás a következőtől: %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Bejövő üzenet a következőtől: %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Érvénytelen felhasználónév";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Érvénytelen felhasználónév.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Új fiók létrehozásához navigáljon a beállításokhoz";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Nincs elérhető fiókot";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "A jelszavak nem egyeznek.";
+
+/* Indication for user */
+"Password is too short" = "A jelszó túl rövid";
+
+/* Indication for user */
+"Passwords don't match" = "A jelszók nem egyeznek";
+
+/* Contextual menu action */
+"Place audio call" = "Hanghívás";
+
+/* Contextual menu action */
+"Place video call" = "Videohívás";
+
+/* Recording view explanation label */
+"Press to start recording" = "Nyomja meg ezt a gombot a felvétel elindításához";
+
+/* Record message title */
+"Record a message" = "Üzenet felvétele";
+
+/* Button Action */
+"Refuse" = "Elutasítás";
+
+/* Text shown to the user */
+"Registered name: " = "Bejegyzett név:";
+
+/* Remove account alert title */
+"Remove account" = "Fiók eltávolítása";
+
+/* export account button title */
+"Select archive" = "Fiók archívum kijelölése…";
+
+/* Send button title */
+"Send" = "Küldés";
+
+/* Notification message */
+"Send you a contact request" = "Kapcsolatfelvétel kérelme";
+
+/* No comment provided by engineer. */
+"Share" = "Megosztás ";
+
+/* Contextual menu entry */
+"Share screen" = "Képernyő megosztása";
+
+/* Sign In */
+"Sign In" = "Bejelentkezés";
+
+/* Record message title */
+"Stop recording" = "Felvétel leállítása";
+
+/* File transfer successful label */
+"Success" = "Sikeres";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Szöveges műveletek";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "A beírt felhasználónév elérhető";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "A beírt felhasználónév nem érhető el";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "A megadott jelszó nem oldja fel ezt a fiókot";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Fiók áttelepítés szükséges";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Ez az Ön azonosítója.\nMásolja és ossza meg a barátaival!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Ez az Ön Jami azonosítója.\nMásolja ki, és ossza meg barátaival!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "A folyamat befejezéséhez meg kell nyitnia a Jami-t az új eszközön. Hozzon létre egy új fiókot az „Eszköz összekapcsolása fiókhoz” opcióval. A PIN-kódja 10 percig érvényes.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Adja meg a fiók jelszavát az áttelepítés folytatásához";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "nem csatlakoztatható";
+
+/* Error video permission */
+"Video permission not granted" = "A videó engedélyét nem adták meg";
+
+/* Welcome title */
+"Welcome to Jami" = "Üdvözli a Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Szeretne üzenetet hagyni?";
+
+/* Password button title */
+"Change password" = "Jelszó megváltoztatása";
+
+/* Password button title */
+"Create password" = "Jelszó létrehozása";
+
+/* Device revocation title */
+"Revoke Device" = "Eszköz visszavonása";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Figyelmeztetés: Ez a művelet nem vonható vissza";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Az eszköz visszavonása sikertelen. Kérjük, ellenőrizze a jelszót és próbálja újra.";
+
+/* Device revocation error */
+"Device revocation failed" = "Az eszköz visszavonása sikertelen";
+
+/* Edit Sip Account Action*/
+"Done" = "Kész";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Fiók szerkesztése";
+
+/* Conference action */
+"Minimize participant" = "Résztvevő kis méretűre állítása";
+
+/* Conference action */
+"Maximize participant" = "Résztvevő teljes méretűvé tétele";
+
+/* Conference action */
+"Hangup" = "Hívás befejezése";
+
+/* Conference action */
+"Mute audio" = "Mikrofon elnémítása";
+
+/* Conference action */
+"Set moderator" = "Moderátor beállítása";
+
+/* Conference action */
+"Unmute audio" = "Mikrofon némítás feloldása";
+
+/* Conference action */
+"Unset moderator" = "Moderátor megszüntetése";
+
+/* Conference name */
+"Me" = "Én";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Válassz egy felhasználónevet fiókja";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Találkozási pont neve kiválasztása";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Keressen új vagy meglévő kapcsolatok között";
+
+/* conference tooltip Minimize */
+"Minimize" = "Kis méret";
+
+/* conference tooltip Expand */
+"Expand" = "Kibontás";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Mikrofon elnémítása";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Hívás befejezése";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Moderátor beállítása";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Mikrofon elnémítva";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Konferenciaszervező";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderátor";
+
+/* drop files */
+"Drop files to send" = "Húzza ide a feltölteni kívánt fájlokat";
+
+/* Contextual menu for message */
+"Show in Finder" = "Megjelenítés a keresőben";
+
+/* Contextual menu for message */
+"Open" = "Megnyitás";
+
+/* Contextual menu for message */
+"Delete" = "Törlés";
+
+/* Contextual menu for message */
+"Quick Look" = "Gyorsnézet";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Fényképtárhoz hozzáadása";
+
+/* Contextual menu for message */
+"Resend" = "Újraküldés";
+
+/* In call status info */
+"Wants to talk to you" = "Szeretne Önnel beszélni";
+
+/* In call status info */
+"Incoming audio call" = "Bejövő hanghívás";
+
+/* In call status info */
+"Incoming video call" = "Bejövő videohívás";
+
+/* share button tooltip */
+"Stop screen sharing" = "Képernyőmegosztás leállítása";
+
+/* share button tooltip */
+"Stop file streaming" = "Fájl-adatfolyam leállítása";
+
+/* share button tooltip */
+"Share" = "Megosztás ";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "Várjuk, hogy a(z) %@ csatlakozzon a beszélgetés összehangolásához.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Üdv!\nSzeretne csatlakozni a beszélgetéshez?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ kérelmet küldött Önnek egy beszélgetésre.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Elfogadta a beszélgetési kérelmet.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ nincs a kapcsolataiban.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Küldjön neki kapcsolatfelvételi kérelmet, hogy együtt képes legyenek megosztani. ";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ még nem elfogadta kapcsolattartási kérelmét.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ el kell fogadnia a kapcsolatfelvételi kérelmét, hogy válaszoljon.";

@@ -1,0 +1,45 @@
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "1Sx-Et-CDM"; */
+"1Sx-Et-CDM.title" = "Cuenta";
+
+/* Class = "NSTextFieldCell"; title = "RingID"; ObjectID = "8WI-fC-Due"; */
+"8WI-fC-Due.title" = "RingID";
+
+/* Class = "NSTextFieldCell"; title = "Bootstrap server"; ObjectID = "B6b-iB-REZ"; */
+"B6b-iB-REZ.title" = "Servidor Bootstrap";
+
+/* Class = "NSTextFieldCell"; title = "Permissions"; ObjectID = "EDd-FX-wcz"; */
+"EDd-FX-wcz.title" = "Permisos";
+
+/* Class = "NSButtonCell"; title = "Register name"; ObjectID = "G8M-go-xvD"; */
+"G8M-go-xvD.title" = "Registrar nombre";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name or nickname..."; ObjectID = "HN3-i9-zmw"; */
+"HN3-i9-zmw.placeholderString" = "Nombre o apodo...";
+
+/* Class = "NSButtonCell"; title = "Auto-answer calls"; ObjectID = "OeY-na-0YT"; */
+"OeY-na-0YT.title" = "Respuesta automática de llamadas";
+
+/* Class = "NSButtonCell"; title = "Allow calls from peers in your call history"; ObjectID = "PaC-xE-SHA"; */
+"PaC-xE-SHA.title" = "Permitir llamadas de personas registradas en tu historial de llamadas";
+
+/* Class = "NSTextFieldCell"; title = "Alias"; ObjectID = "Wzq-V2-YLU"; */
+"Wzq-V2-YLU.title" = "Alias";
+
+/* Class = "NSButtonCell"; title = "Use custom user-agent"; ObjectID = "ddk-1G-0jU"; */
+"ddk-1G-0jU.title" = "Usar user-agent personalizado";
+
+/* Class = "NSTextFieldCell"; title = "Blockchain server"; ObjectID = "fSU-Pc-Y5a"; */
+"fSU-Pc-Y5a.title" = "Servidor de la cadena de bloques";
+
+/* Class = "NSButtonCell"; title = "Allow calls from peers in your contact list"; ObjectID = "fX7-9W-XFl"; */
+"fX7-9W-XFl.title" = "Permitir llamadas de la lista de contactos";
+
+/* Class = "NSButtonCell"; title = "Allow calls from unknown peers"; ObjectID = "kmI-jb-aal"; */
+"kmI-jb-aal.title" = "Permitir llamadas de desconocidos";
+
+/* Class = "NSButtonCell"; title = "Upnp enabled"; ObjectID = "lHI-bz-ddQ"; */
+"lHI-bz-ddQ.title" = "UPNP habilitado";
+
+/* Class = "NSTextFieldCell"; title = "Registered Name"; ObjectID = "sBB-y7-xhL"; */
+"sBB-y7-xhL.title" = "Nombre registrado";

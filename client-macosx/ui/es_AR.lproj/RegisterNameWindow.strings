@@ -1,0 +1,51 @@
+
+/* Class = "NSTextFieldCell"; title = "Other users can use it instead of your ID"; ObjectID = "9gi-0u-67t"; */
+"9gi-0u-67t.title" = "Otras usuarios pueden usarlo en lugar de tu ID.";
+
+/* Class = "NSTextFieldCell"; title = "An error occured during your username registration"; ObjectID = "Aeh-tK-RjX"; */
+"Aeh-tK-RjX.title" = "Ocurrió un error al registrar tu usuario";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "JWw-7m-ywL"; */
+"JWw-7m-ywL.title" = "Ventana";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedIsNilPlaceholder" = "Ingresá contraseña...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedMultipleValuesPlaceholder" = "Ingresá contraseña...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedNoSelectionPlaceholder" = "Ingresá contraseña...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedNotApplicablePlaceholder" = "Ingresá contraseña...";
+
+/* Class = "NSTextFieldCell"; title = "Just a moment..."; ObjectID = "YIN-YL-JBs"; */
+"YIN-YL-JBs.title" = "Espere un momento...";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter username..."; ObjectID = "bdC-Uc-Qhs"; */
+"bdC-Uc-Qhs.placeholderString" = "Ingresá nombre de usuario...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cbA-c2-LlV"; */
+"cbA-c2-LlV.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "egF-LJ-khJ"; */
+"egF-LJ-khJ.title" = "Contraseña";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "eoS-s7-b3w"; */
+"eoS-s7-b3w.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "fOn-FV-2x8"; */
+"fOn-FV-2x8.title" = "Okay";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "lT3-Bh-MnL"; */
+"lT3-Bh-MnL.title" = "Registrar";
+
+/* Class = "NSTextFieldCell"; title = "Username"; ObjectID = "lo5-ei-wHM"; */
+"lo5-ei-wHM.title" = "Nombre de usuario";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter password..."; ObjectID = "nFA-uz-WjI"; */
+"nFA-uz-WjI.placeholderString" = "Ingresá contraseña...";
+
+/* Class = "NSTextFieldCell"; title = "Register a public username "; ObjectID = "tje-EZ-ZPI"; */
+"tje-EZ-ZPI.title" = "Registrá un nombre de usuario público";

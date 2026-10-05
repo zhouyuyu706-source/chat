@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Dışa aktarma esnasında bir ağ hatası oluştu";
+
+/* Button Action */
+"Accept" = "Kabul et";
+
+/* Button Action */
+"Cancel" = "İptal";
+
+/* Welcome title */
+"Add a SIP account" = "Bir SIP hesabı ekle";
+
+/* Contextual menu action */
+"Add to contacts" = "Kişilere ekle";
+
+/* Backup error */
+"An error occured during the backup" = "Yedekleme esnasında bir hata oluştu";
+
+/* Error shown to the user */
+"An error occured during the export" = "Dışa aktarma esnasında bir hata oluştu";
+
+/* Peer busy message */
+"appears to be busy." = "Meşgul görünüyor.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Ses izni verilmedi";
+
+/* Backup account */
+"Backup your account" = "Hesabınızı yedekleyin";
+
+/* Contextual menu action */
+"Block contact" = "Kişiyi engelle";
+
+/* Contextual menu action */
+"Remove conversation" = "Konuşma sil";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "\"Kaldır\"a tıklayarak bu aygıttaki bu hesabı kaldıracaksınız! Bu eylem geri alınamaz. Ayrıca kayıtlı adınız yitebilir.";
+
+/* File transfer canceled label */
+"Canceled" = "İptal edildi";
+
+/* Contextual menu entry */
+"Stream file" = "Stream file";
+
+/* Contextual menu action */
+"Clear conversation" = "Konuşmayı temizle";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopyala";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Çağrı sırasında ileti kaydedilemedi";
+
+/* Welcome title */
+"Create a new account" = "Yeni bir hesap oluştur";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Bir buluşma noktası oluştur";
+
+/* Backup enter password */
+"Enter account password" = "Hesap parolanızı girin";
+
+/* File transfer failed label */
+"Failed" = "Başarısız";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Hesabınız taşınırken hata oluştu. Tamam'a yeniden tıklayabilir veya hesabınızı silebilirsiniz.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Bakma başarısız";
+
+/* Text shown to the user */
+"ID: " = "Kimlik:";
+
+/* link account title */
+"Import from backup" = "Yedekten içe aktarın";
+
+/* link account title */
+"Import from other device" = "Diğer aygıttan içe aktar";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "%@'den gelen arama";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "%@'den gelen ileti";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Geçersiz kullanıcı adı";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Geçersiz kullanıcı adı.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Yeni bir hesap oluşturmak için tercihlere gidin";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Hesap yok";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Parola ve doğrulama uyuşmuyor";
+
+/* Indication for user */
+"Password is too short" = "Parola çok kısa";
+
+/* Indication for user */
+"Passwords don't match" = "Parolalar uyuşmuyor";
+
+/* Contextual menu action */
+"Place audio call" = "Sesli arama yeri ";
+
+/* Contextual menu action */
+"Place video call" = "Görüntülü arama yeri";
+
+/* Recording view explanation label */
+"Press to start recording" = "Kaydı başlatmak için basın";
+
+/* Record message title */
+"Record a message" = "Bir mesaj kaydet";
+
+/* Button Action */
+"Refuse" = "Geri Çevir";
+
+/* Text shown to the user */
+"Registered name: " = "Kayıtlı Ad:";
+
+/* Remove account alert title */
+"Remove account" = "Hesabı Kaldır";
+
+/* export account button title */
+"Select archive" = "Arşiv seçin";
+
+/* Send button title */
+"Send" = "Gönder";
+
+/* Notification message */
+"Send you a contact request" = "İletişim isteği gönderin";
+
+/* No comment provided by engineer. */
+"Share" = "Paylaş";
+
+/* Contextual menu entry */
+"Share screen" = "Ekranı paylaş";
+
+/* Sign In */
+"Sign In" = "Oturum Aç";
+
+/* Record message title */
+"Stop recording" = "Kaydı durdur";
+
+/* File transfer successful label */
+"Success" = "Başarılı";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Metin Eylemleri";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Girilen kullanıcı adı uygun";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Girilen kullanıcı adı uygun değil";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Girdiğiniz parola bu hesabı açmaz";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Bu hesabın taşınması gerekli";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Bu sizin kimliğiniz.\nKopyalayın ve arkadaşlarınızla paylaşın!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Bu sizin Jami kullanıcı adınız.\nKopyalayın ve arkadaşlarınızla paylaşın!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Süreci tamamlamak için yeni aygıtta Jami'yi açmanız ve \"Bu aygıtı hesaba bağla\"yı seçmelisiniz. Pininiz 10 dakikalığına geçerlidir.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Taşıma işlemini sürdürmek için bu hesapta kullanılan parolayı girmelisiniz.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Katılımı olanaksız";
+
+/* Error video permission */
+"Video permission not granted" = "Görüntü izni verilmedi";
+
+/* Welcome title */
+"Welcome to Jami" = "Jami'ye Hoşgeldiniz";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Bir ileti bırakmak ister misiniz?";
+
+/* Password button title */
+"Change password" = "Parolayı değiştir";
+
+/* Password button title */
+"Create password" = "Parola oluştur";
+
+/* Device revocation title */
+"Revoke Device" = "Aygıtı Kaldır";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Dikkat! Bu işlem geri alınamaz!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Aygıt iptali başarısız oldu. Lütfen parolanızı denetleyip yeniden deneyin.";
+
+/* Device revocation error */
+"Device revocation failed" = "Aygıt iptali başarısız oldu";
+
+/* Edit Sip Account Action*/
+"Done" = "Tamam";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Hesabı Düzenle";
+
+/* Conference action */
+"Minimize participant" = "Katılımcıyı küçült";
+
+/* Conference action */
+"Maximize participant" = "Katılımcıyı büyüt";
+
+/* Conference action */
+"Hangup" = "Kapat";
+
+/* Conference action */
+"Mute audio" = "Sesi kapat";
+
+/* Conference action */
+"Set moderator" = "Oturum başkanı ayarla";
+
+/* Conference action */
+"Unmute audio" = "Sesi aç";
+
+/* Conference action */
+"Unset moderator" = "Oturum başkanı ayarını kaldır";
+
+/* Conference name */
+"Me" = "Ben";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Hesabınız için kullanıcı adı seçin";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Buluşma noktanız için bir ad seçin";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Yeni veya var olan kişiyi ara";
+
+/* conference tooltip Minimize */
+"Minimize" = "En küçük";
+
+/* conference tooltip Expand */
+"Expand" = "Expand";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Sesi kapat";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Kapat";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Oturum başkanı ayarla";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Audio muted";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Conference Organiser";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderatör";
+
+/* drop files */
+"Drop files to send" = "Drop files to send";
+
+/* Contextual menu for message */
+"Show in Finder" = "Show in Finder";
+
+/* Contextual menu for message */
+"Open" = "Açık";
+
+/* Contextual menu for message */
+"Delete" = "Sil";
+
+/* Contextual menu for message */
+"Quick Look" = "Quick Look";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Add to Photos Library";
+
+/* Contextual menu for message */
+"Resend" = "Yeniden gönder";
+
+/* In call status info */
+"Wants to talk to you" = "Wants to talk to you";
+
+/* In call status info */
+"Incoming audio call" = "Incoming audio call";
+
+/* In call status info */
+"Incoming video call" = "Incoming video call";
+
+/* share button tooltip */
+"Stop screen sharing" = "Stop screen sharing";
+
+/* share button tooltip */
+"Stop file streaming" = "Stop file streaming";
+
+/* share button tooltip */
+"Share" = "Paylaş";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "We are waiting for %@ connects to synchronize the conversation.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hello, \nWould you like to join the conversation?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ has sent you a request for a conversation.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Görüşme isteğini kabul ettiniz.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ is not in your contacts.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Send him/her a contact request to be able to exchange together.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ has not yet accepted your contact request.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ must accept your contact request to answer you.";

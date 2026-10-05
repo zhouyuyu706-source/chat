@@ -1,0 +1,54 @@
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Confirm..."; ObjectID = "5Qf-em-tN4"; */
+"5Qf-em-tN4.placeholderString" = "تایید...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedIsNilPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedMultipleValuesPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedNoSelectionPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedNotApplicablePlaceholder" = "گذرواژه...";
+
+/* Class = "NSTextFieldCell"; title = "Where"; ObjectID = "9h8-GU-av4"; */
+"9h8-GU-av4.title" = "کجا";
+
+/* Class = "NSTextFieldCell"; title = "Choose where to backup your account."; ObjectID = "KYZ-TW-44Y"; */
+"KYZ-TW-44Y.title" = "انتخاب کنید که میخواهید کجا از حساب خود پشتیبانی بگیرید";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "پنجره";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "VN1-A3-RIh"; */
+"VN1-A3-RIh.title" = "خب";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cSU-aD-OwX"; */
+"cSU-aD-OwX.title" = "لغو";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedIsNilPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedMultipleValuesPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedNoSelectionPlaceholder" = "گذرواژه...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedNotApplicablePlaceholder" = "گذرواژه...";
+
+/* Class = "NSTextFieldCell"; title = "An error occured during the backup"; ObjectID = "e7n-Ev-bK7"; */
+"e7n-Ev-bK7.title" = "خطایی هنگام پشتیبان گیری رخ داده است";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "rW5-Il-5YD"; */
+"rW5-Il-5YD.title" = "خب";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "vwh-K9-3O9"; */
+"vwh-K9-3O9.title" = "گذرواژه";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Password..."; ObjectID = "xqz-Uz-hqU"; */
+"xqz-Uz-hqU.placeholderString" = "گذرواژه...";

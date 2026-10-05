@@ -1,0 +1,54 @@
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Confirm..."; ObjectID = "5Qf-em-tN4"; */
+"5Qf-em-tN4.placeholderString" = "Megerősítés…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedIsNilPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedMultipleValuesPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedNoSelectionPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Password..."; ObjectID = "5cX-yS-4Sl"; */
+"5cX-yS-4Sl.ibShadowedNotApplicablePlaceholder" = "Jelszó…";
+
+/* Class = "NSTextFieldCell"; title = "Where"; ObjectID = "9h8-GU-av4"; */
+"9h8-GU-av4.title" = "Ahol";
+
+/* Class = "NSTextFieldCell"; title = "Choose where to backup your account."; ObjectID = "KYZ-TW-44Y"; */
+"KYZ-TW-44Y.title" = "Fiók biztonsági mentés kiválasztása.";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Ablak";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "VN1-A3-RIh"; */
+"VN1-A3-RIh.title" = "Rendben";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cSU-aD-OwX"; */
+"cSU-aD-OwX.title" = "Mégse";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedIsNilPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedMultipleValuesPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedNoSelectionPlaceholder" = "Jelszó…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Password..."; ObjectID = "ccf-Bx-Qq8"; */
+"ccf-Bx-Qq8.ibShadowedNotApplicablePlaceholder" = "Jelszó…";
+
+/* Class = "NSTextFieldCell"; title = "An error occured during the backup"; ObjectID = "e7n-Ev-bK7"; */
+"e7n-Ev-bK7.title" = "Hiba történt az biztonsági mentés során";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "rW5-Il-5YD"; */
+"rW5-Il-5YD.title" = "Rendben";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "vwh-K9-3O9"; */
+"vwh-K9-3O9.title" = "Jelszó";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Password..."; ObjectID = "xqz-Uz-hqU"; */
+"xqz-Uz-hqU.placeholderString" = "Jelszó…";

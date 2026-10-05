@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Verkkovirhe viennin aikana";
+
+/* Button Action */
+"Accept" = "Hyväksy";
+
+/* Button Action */
+"Cancel" = "Peruuta";
+
+/* Welcome title */
+"Add a SIP account" = "Lisää SIP-tunnus";
+
+/* Contextual menu action */
+"Add to contacts" = "Lisää yhteystietoihin";
+
+/* Backup error */
+"An error occured during the backup" = "Virhe varmuuskopioinnin aikana";
+
+/* Error shown to the user */
+"An error occured during the export" = "Viennin aikana tapahtui virhe";
+
+/* Peer busy message */
+"appears to be busy." = "näyttää olevan kiireinen.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Äänioikeutta ei myönnetty";
+
+/* Backup account */
+"Backup your account" = "Varmuuskopioi tilisi";
+
+/* Contextual menu action */
+"Block contact" = "Estä yhteystieto";
+
+/* Contextual menu action */
+"Remove conversation" = "Poista keskustelu";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Painamalla \"OK\"-painiketta poistat tämän tunnuksen tästä laitteesta! Tätä toimintoa ei voi kumota. Rekisteröity nimesi voi myös kadota.";
+
+/* File transfer canceled label */
+"Canceled" = "Peruttu";
+
+/* Contextual menu entry */
+"Stream file" = "Suoratoista tiedosto";
+
+/* Contextual menu action */
+"Clear conversation" = "Tyhjennä keskustelu";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopioi";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Viestiä ei voitu tallentaa puhelun aikana";
+
+/* Welcome title */
+"Create a new account" = "Uuden tilin luominen";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Luo tapaamispaikka";
+
+/* Backup enter password */
+"Enter account password" = "Syötä käyttäjätunnuksen salasana";
+
+/* File transfer failed label */
+"Failed" = "Epäonnistui";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Tilisi siirtäminen epäonnistui. Voit yrittää uudelleen painamalla Ok tai poistaa tilisi.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Kirjautumisessa tapahtui virhe";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Tuo varmuuskopiosta";
+
+/* link account title */
+"Import from other device" = "Tuo toisesta laitteesta";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Saapuva puhelu %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Saapuva %@viesti";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Käyttäjätunnus ei kelpaa";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Virheellinen käyttäjänimi.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Luo uusi tili siirtymällä asetuksiin";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Ei tunnusta saatavilla";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Salasana ei täsmää tunnuksen kanssa. ";
+
+/* Indication for user */
+"Password is too short" = "Salasana on liian lyhyt";
+
+/* Indication for user */
+"Passwords don't match" = "Salasanat eivät täsmää";
+
+/* Contextual menu action */
+"Place audio call" = "Aloita äänipuhelu";
+
+/* Contextual menu action */
+"Place video call" = "Aloita videopuhelu";
+
+/* Recording view explanation label */
+"Press to start recording" = "Aloita tallennus painamalla";
+
+/* Record message title */
+"Record a message" = "Viestin tallentaminen";
+
+/* Button Action */
+"Refuse" = "Kieltäydy";
+
+/* Text shown to the user */
+"Registered name: " = "Rekisteröity nimi:";
+
+/* Remove account alert title */
+"Remove account" = "Poista tili";
+
+/* export account button title */
+"Select archive" = "Valitse paketti";
+
+/* Send button title */
+"Send" = "Lähetä";
+
+/* Notification message */
+"Send you a contact request" = "Lähetää sinulle yhteyspyynnön";
+
+/* No comment provided by engineer. */
+"Share" = "Jako";
+
+/* Contextual menu entry */
+"Share screen" = "Jaa näyttö";
+
+/* Sign In */
+"Sign In" = "Kirjaudu sisään";
+
+/* Record message title */
+"Stop recording" = "Lopeta tallennus";
+
+/* File transfer successful label */
+"Success" = "Onnistui";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Tekstitoiminnot";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Käyttäjänimi on käytettävissä";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Käyttäjänimi ei ole käytettävissä";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Antamasi salasana ei avaa tämän tunnuksen salaisuuksia";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Tämä tili on siirrettävä";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Tämä on ID:si.\nKopioi ja jaa se ystäviesi kesken!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Tämä on sinun Jami käyttäjätunnus.\nKopioi ja jaa se ystäviesi kanssa!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Prosessin loppuun saattamiseksi sinun on avattava Jami uudessa laitteessa ja valittava vaihtoehto \"Yhdistä tämä laite tunnukseen\". PIN on voimassa 10 minuuttia";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Jos haluat jatkaa siirtoa, sinun on annettava salasana, jota käytettiin tässä tilissä.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Liittymätön";
+
+/* Error video permission */
+"Video permission not granted" = "Videolupaa ei myönnetty";
+
+/* Welcome title */
+"Welcome to Jami" = "Tervetuloa Jamiin";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Haluaisitko jättää viestin?";
+
+/* Password button title */
+"Change password" = "Vaihda salasana";
+
+/* Password button title */
+"Create password" = "Luo salasana";
+
+/* Device revocation title */
+"Revoke Device" = "Peruuta laite";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Huomio! Tätä toimintoa ei voi kumota!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Laitteen kumoaminen epäonnistui. Tarkista salasanasi ja yritä uudelleen.";
+
+/* Device revocation error */
+"Device revocation failed" = "Laitteen kumoaminen epäonnistui";
+
+/* Edit Sip Account Action*/
+"Done" = "Valmis";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Muokkaa tunnusta";
+
+/* Conference action */
+"Minimize participant" = "Pienennä osallistuja";
+
+/* Conference action */
+"Maximize participant" = "Laajenna osallistuja";
+
+/* Conference action */
+"Hangup" = "Katkaistu";
+
+/* Conference action */
+"Mute audio" = "Vaimenna ääni";
+
+/* Conference action */
+"Set moderator" = "Aseta valvoja";
+
+/* Conference action */
+"Unmute audio" = "Poista mykistys";
+
+/* Conference action */
+"Unset moderator" = "Poista valvoja";
+
+/* Conference name */
+"Me" = "Minä";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Valitse tilillesi käyttäjänimi";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Valitse tapaamispaikan nimi";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Etsi uusi tai olemassaoleva yhteystieto";
+
+/* conference tooltip Minimize */
+"Minimize" = "Pienennä";
+
+/* conference tooltip Expand */
+"Expand" = "Laajenna";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Vaimenna ääni";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Katkaistu";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Aseta valvoja";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Ääni mykistetty";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Kokouksen järjestäjä";
+
+/* conference state tooltip moderator */
+"Moderator" = "Valvoja";
+
+/* drop files */
+"Drop files to send" = "Pudota lähetettävät tiedostot";
+
+/* Contextual menu for message */
+"Show in Finder" = "Näytä Finderissa";
+
+/* Contextual menu for message */
+"Open" = "Avaa";
+
+/* Contextual menu for message */
+"Delete" = "Poista";
+
+/* Contextual menu for message */
+"Quick Look" = "Nopea vilkaisu";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Lisää kuvia kirjastoon";
+
+/* Contextual menu for message */
+"Resend" = "Uudelleen";
+
+/* In call status info */
+"Wants to talk to you" = "Haluaa puhua kanssasi";
+
+/* In call status info */
+"Incoming audio call" = "Saapuva äänipuhelu";
+
+/* In call status info */
+"Incoming video call" = "Saapuva videopuhelu";
+
+/* share button tooltip */
+"Stop screen sharing" = "Lopeta näytön jakaminen";
+
+/* share button tooltip */
+"Stop file streaming" = "Lopeta suoratoisto";
+
+/* share button tooltip */
+"Share" = "Jako";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "Odotamme, että %@ tahdistaa keskustelun.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hei,\nHaluatko liittyä keskusteluun?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ on lähettänyt sinulle keskustelupyynnön.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Olet hyväksynyt keskustelupyynnön.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ ei ole yhteystiedoissasi.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Lähetä hänelle yhteydenottopyyntö, jotta hän voi vaihtaa tietoja.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ ei ole vielä hyväksynyt yhteydenottopyyntöäsi.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ on hyväksyttävä yhteydenottopyyntösi vastatakseen sinulle.";

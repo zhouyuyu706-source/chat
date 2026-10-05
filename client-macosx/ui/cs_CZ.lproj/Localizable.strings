@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Při exportování došlo k chybě sítě";
+
+/* Button Action */
+"Accept" = "Přijmout";
+
+/* Button Action */
+"Cancel" = "Zrušit";
+
+/* Welcome title */
+"Add a SIP account" = "Přidat účet SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "Přidat do kontaktů";
+
+/* Backup error */
+"An error occured during the backup" = "Při zálohování došlo k chybě";
+
+/* Error shown to the user */
+"An error occured during the export" = "Při exportování došlo k chybě";
+
+/* Peer busy message */
+"appears to be busy." = "Zdá se, že kontakt je zaneprázdněn.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Oprávnění zvuku nebyla udělena.";
+
+/* Backup account */
+"Backup your account" = "Zálohujte svůj účet.";
+
+/* Contextual menu action */
+"Block contact" = "Blokovat spojení";
+
+/* Contextual menu action */
+"Remove conversation" = "Odstranit konverzaci";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Kliknutím na „OK“ odstraníte tento účet na tomto zařízení! Tento krok nelze vrátit zpět. Vámi zaregistrované jméno může být ztraceno!";
+
+/* File transfer canceled label */
+"Canceled" = "Zrušeno";
+
+/* Contextual menu entry */
+"Stream file" = "Stream file";
+
+/* Contextual menu action */
+"Clear conversation" = "Vyprázdnit konverzaci";
+
+/* No comment provided by engineer. */
+"Copy" = "Zkopírovat";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Nebylo možné nahrát zprávu během hovoru.";
+
+/* Welcome title */
+"Create a new account" = "Vytvořit nový účet";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Vytvořit místo schůzky";
+
+/* Backup enter password */
+"Enter account password" = "Zadejte heslo k účtu.";
+
+/* File transfer failed label */
+"Failed" = "Hovor selhal";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Nepodařilo se přestěhovat váš účet. Můžete to zkusit ještě jednou stisknutím OK nebo svůj účet smazat.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Vyhledávání selhalo";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Importovat ze zálohy";
+
+/* link account title */
+"Import from other device" = "Importovat z jiného zařízení";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Příchozí hovor od %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Příchozí zpráva od %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Neplatné uživatelské jméno";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Neplatné uživatelské jméno";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Přejděte do předvoleb pro vytvoření nového účtu.";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Není dostupný žádný účet.";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Heslo a jeho potvrzení se neshodují";
+
+/* Indication for user */
+"Password is too short" = "Heslo je příliš krátké";
+
+/* Indication for user */
+"Passwords don't match" = "Hesla se neshodují";
+
+/* Contextual menu action */
+"Place audio call" = "Uskutečnit audio hovor";
+
+/* Contextual menu action */
+"Place video call" = "Uskutečnit video hovor";
+
+/* Recording view explanation label */
+"Press to start recording" = "Stiskněte pro začátek nahrávání.";
+
+/* Record message title */
+"Record a message" = "Nahrát zprávu";
+
+/* Button Action */
+"Refuse" = "Odmítnout";
+
+/* Text shown to the user */
+"Registered name: " = "Registrované jméno";
+
+/* Remove account alert title */
+"Remove account" = "Odstranit účet";
+
+/* export account button title */
+"Select archive" = "Vybrat archiv";
+
+/* Send button title */
+"Send" = "Odeslat";
+
+/* Notification message */
+"Send you a contact request" = "Poslat vám žádost o kontakt";
+
+/* No comment provided by engineer. */
+"Share" = "Sdílet";
+
+/* Contextual menu entry */
+"Share screen" = "Sdílet obrazovku";
+
+/* Sign In */
+"Sign In" = "Přidat se";
+
+/* Record message title */
+"Stop recording" = "Zastavit nahrávání";
+
+/* File transfer successful label */
+"Success" = "Úspěch";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Textové činnosti";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Zadané uživatelské jméno je dostupné";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Zadané uživatelské jméno není dostupné";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Vámi zadané heslo neodemkne tento účet";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Tento účet musí být převeden.";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Toto je vaše ID.\nZkopírujte je a sdílejte je se svými přáteli!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Toto je vaše uživatelské jméno pro Jami.\nZkopírujte je a sdílejte je se svými přáteli!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Pro dokončení tohoto postupu otevřete Jami na novém zařízení a vyberte volbu „Připojit toto zařízení k účtu“. Váš PIN zůstává platný 10 minut.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Pro převedení je potřeba zadat heslo k tomuto účtu.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Nepřipojitelný";
+
+/* Error video permission */
+"Video permission not granted" = "Oprávnění videa nebyla udělena.";
+
+/* Welcome title */
+"Welcome to Jami" = "Vítejte v Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Přejete si nechat zprávu_";
+
+/* Password button title */
+"Change password" = "Změnit heslo";
+
+/* Password button title */
+"Create password" = "Vytvořit heslo";
+
+/* Device revocation title */
+"Revoke Device" = "Odebrat zařízení";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Pozor! Tento krok nelze vrátit zpět.";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Odebrání zařízení selhalo. Prosím zkontrolujte své heslo a zkuste to znovu.";
+
+/* Device revocation error */
+"Device revocation failed" = "Odebrání zařízení selhalo.";
+
+/* Edit Sip Account Action*/
+"Done" = "Hotovo";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Upravit účet";
+
+/* Conference action */
+"Minimize participant" = "Minimalizovat účastníka";
+
+/* Conference action */
+"Maximize participant" = "Maximalizovat účastníka";
+
+/* Conference action */
+"Hangup" = "Zavěsit";
+
+/* Conference action */
+"Mute audio" = "Ztlumit zvuk";
+
+/* Conference action */
+"Set moderator" = "Set moderator";
+
+/* Conference action */
+"Unmute audio" = "Unmute audio";
+
+/* Conference action */
+"Unset moderator" = "Unset moderator";
+
+/* Conference name */
+"Me" = "Já";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Zvolte si uživatelské jméno ke svému účtu";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Zvolte si název své schůzky.";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Hledat nový nebo existující kontakt";
+
+/* conference tooltip Minimize */
+"Minimize" = "Zmenšit";
+
+/* conference tooltip Expand */
+"Expand" = "Expand";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Ztlumit zvuk";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Zavěsit";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Set moderator";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Audio muted";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Conference Organiser";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderator";
+
+/* drop files */
+"Drop files to send" = "Drop files to send";
+
+/* Contextual menu for message */
+"Show in Finder" = "Show in Finder";
+
+/* Contextual menu for message */
+"Open" = "Otevřít";
+
+/* Contextual menu for message */
+"Delete" = "Odstranit";
+
+/* Contextual menu for message */
+"Quick Look" = "Quick Look";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Add to Photos Library";
+
+/* Contextual menu for message */
+"Resend" = "Resend";
+
+/* In call status info */
+"Wants to talk to you" = "Wants to talk to you";
+
+/* In call status info */
+"Incoming audio call" = "Incoming audio call";
+
+/* In call status info */
+"Incoming video call" = "Incoming video call";
+
+/* share button tooltip */
+"Stop screen sharing" = "Stop screen sharing";
+
+/* share button tooltip */
+"Stop file streaming" = "Stop file streaming";
+
+/* share button tooltip */
+"Share" = "Sdílet";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "We are waiting for %@ connects to synchronize the conversation.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hello, \nWould you like to join the conversation?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ has sent you a request for a conversation.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "You have accepted the conversation request.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ is not in your contacts.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Send him/her a contact request to be able to exchange together.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ has not yet accepted your contact request.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ must accept your contact request to answer you.";

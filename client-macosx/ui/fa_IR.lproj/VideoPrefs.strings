@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Device"; ObjectID = "170-NP-CSP"; */
+"170-NP-CSP.title" = "دستگاه";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "4bq-ls-mCp"; */
+"4bq-ls-mCp.title" = "اندازه";
+
+/* Class = "NSTextFieldCell"; title = "Rate"; ObjectID = "5Im-df-jdd"; */
+"5Im-df-jdd.title" = "نرخ";
+
+/* Class = "NSButtonCell"; title = "Enable hardware acceleration"; ObjectID = "e7y-eV-Gsz"; */
+"e7y-eV-Gsz.title" = "فعال‌سازی شتاب‌دهی سخت‌افزاری";

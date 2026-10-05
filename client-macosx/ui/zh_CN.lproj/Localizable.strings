@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "导出时发生网络错误";
+
+/* Button Action */
+"Accept" = "接听";
+
+/* Button Action */
+"Cancel" = "取消";
+
+/* Welcome title */
+"Add a SIP account" = "添加 SIP 账户";
+
+/* Contextual menu action */
+"Add to contacts" = "加入通讯录";
+
+/* Backup error */
+"An error occured during the backup" = "备份时发生错误";
+
+/* Error shown to the user */
+"An error occured during the export" = "导出时发生错误";
+
+/* Peer busy message */
+"appears to be busy." = "好像繁忙中。";
+
+/* Error audio permission */
+"Audio permission not granted" = "未取得音频权限";
+
+/* Backup account */
+"Backup your account" = "备份您的账户";
+
+/* Contextual menu action */
+"Block contact" = "屏蔽联系人";
+
+/* Contextual menu action */
+"Remove conversation" = "移除会话";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "点击“确认”将从此设备上删除该账户！此操作无法撤销。同时，您也会失去您的注册用户名。";
+
+/* File transfer canceled label */
+"Canceled" = "已取消";
+
+/* Contextual menu entry */
+"Stream file" = "流文件";
+
+/* Contextual menu action */
+"Clear conversation" = "清除会话";
+
+/* No comment provided by engineer. */
+"Copy" = "复制";
+
+/* Recording view explanation label */
+"Could not record message during call" = "通话中无法录制信息";
+
+/* Welcome title */
+"Create a new account" = "新建账户";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "创建集合点";
+
+/* Backup enter password */
+"Enter account password" = "输入账户密码";
+
+/* File transfer failed label */
+"Failed" = "失败";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "账户迁移失败。请点击“确定”重试，或删除您的账户。";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "无法进行查找";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "从备份文件导入";
+
+/* link account title */
+"Import from other device" = "从其他设备导入";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "来电：%@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "来自 %@ 的新信息";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "非法用户名";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "无效用户名。";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "前往偏好设置以创建新账户";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "没有可用账户";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "密码与确认密码不匹配。";
+
+/* Indication for user */
+"Password is too short" = "密码过短";
+
+/* Indication for user */
+"Passwords don't match" = "密码不匹配";
+
+/* Contextual menu action */
+"Place audio call" = "发起语音通话";
+
+/* Contextual menu action */
+"Place video call" = "发起视频通话";
+
+/* Recording view explanation label */
+"Press to start recording" = "按下开始录音";
+
+/* Record message title */
+"Record a message" = "录制信息";
+
+/* Button Action */
+"Refuse" = "拒接";
+
+/* Text shown to the user */
+"Registered name: " = "注册名称：";
+
+/* Remove account alert title */
+"Remove account" = "移除账户";
+
+/* export account button title */
+"Select archive" = "选择归档";
+
+/* Send button title */
+"Send" = "发送";
+
+/* Notification message */
+"Send you a contact request" = "向您发送了添加联系人请求";
+
+/* No comment provided by engineer. */
+"Share" = "共享";
+
+/* Contextual menu entry */
+"Share screen" = "共享屏幕";
+
+/* Sign In */
+"Sign In" = "注册";
+
+/* Record message title */
+"Stop recording" = "停止录制";
+
+/* File transfer successful label */
+"Success" = "成功";
+
+/* No comment provided by engineer. */
+"Text Actions" = "文本操作";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "该用户名可用";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "该用户名不可用";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "您输入的密码无法解锁该账户";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "该账户需迁移";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "这是您的ID。\n复制并分享给您的朋友吧！";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "这是您的Jami用户名。\n复制并分享给您的朋友吧！";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "要完成该操作，您需在新设备上打开 Jami，在选项中选择“关联此设备到账户”进行设置。您的 PIN 码有效期为 10 分钟。";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "若要进行迁移，您需要输入此账户的密码。";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "无法加入";
+
+/* Error video permission */
+"Video permission not granted" = "未取得视频权限";
+
+/* Welcome title */
+"Welcome to Jami" = "欢迎来到Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "您想要留言吗？";
+
+/* Password button title */
+"Change password" = "更改密码";
+
+/* Password button title */
+"Create password" = "创建密码";
+
+/* Device revocation title */
+"Revoke Device" = "吊销设备";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "注意！此操作无法取消！";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "设备吊销失败。请检查您的密码并重试。";
+
+/* Device revocation error */
+"Device revocation failed" = "设备吊销失败";
+
+/* Edit Sip Account Action*/
+"Done" = "完成";
+
+/* Edit Sip Account Action */
+"Edit Account" = "编辑账户";
+
+/* Conference action */
+"Minimize participant" = "最小化参与者";
+
+/* Conference action */
+"Maximize participant" = "最大化参与者";
+
+/* Conference action */
+"Hangup" = "挂断";
+
+/* Conference action */
+"Mute audio" = "静音";
+
+/* Conference action */
+"Set moderator" = "设置管理员";
+
+/* Conference action */
+"Unmute audio" = "取消静音";
+
+/* Conference action */
+"Unset moderator" = "取消设置管理员";
+
+/* Conference name */
+"Me" = "我";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "为您的账户创建一个用户名";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "为您的集合点选择一个名称";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "搜索已有联系人或新联系人";
+
+/* conference tooltip Minimize */
+"Minimize" = "最小化";
+
+/* conference tooltip Expand */
+"Expand" = "展开";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "静音";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "挂断";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "设置管理员";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "已静音";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "会议组织者";
+
+/* conference state tooltip moderator */
+"Moderator" = "管理员";
+
+/* drop files */
+"Drop files to send" = "释放文件以发送";
+
+/* Contextual menu for message */
+"Show in Finder" = "在Finder中显示";
+
+/* Contextual menu for message */
+"Open" = "打开";
+
+/* Contextual menu for message */
+"Delete" = "删除";
+
+/* Contextual menu for message */
+"Quick Look" = "快速预览";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "加入至照片图库";
+
+/* Contextual menu for message */
+"Resend" = "重发";
+
+/* In call status info */
+"Wants to talk to you" = "想要与您对话";
+
+/* In call status info */
+"Incoming audio call" = "语音来电";
+
+/* In call status info */
+"Incoming video call" = "视频来电";
+
+/* share button tooltip */
+"Stop screen sharing" = "停止屏幕共享";
+
+/* share button tooltip */
+"Stop file streaming" = "停止文件流";
+
+/* share button tooltip */
+"Share" = "共享";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "We are waiting for %@ connects to synchronize the conversation.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hello, \nWould you like to join the conversation?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ has sent you a request for a conversation.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "You have accepted the conversation request.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ is not in your contacts.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Send him/her a contact request to be able to exchange together.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ has not yet accepted your contact request.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ must accept your contact request to answer you.";

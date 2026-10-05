@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Med izvažanjem se je pojavila omrežna napaka";
+
+/* Button Action */
+"Accept" = "Sprejmi";
+
+/* Button Action */
+"Cancel" = "Prekliči";
+
+/* Welcome title */
+"Add a SIP account" = "Dodaj SIP račun";
+
+/* Contextual menu action */
+"Add to contacts" = "Dodaj med stike";
+
+/* Backup error */
+"An error occured during the backup" = "Med varnostnim kopiranjem je prišlo do napake";
+
+/* Error shown to the user */
+"An error occured during the export" = "Med izvažanjem se je zgodila napaka";
+
+/* Peer busy message */
+"appears to be busy." = "je videti zaseden.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Dovoljenje za zvok ni podano";
+
+/* Backup account */
+"Backup your account" = "Varnostno kopiraj svoj račun";
+
+/* Contextual menu action */
+"Block contact" = "Blokiraj stik";
+
+/* Contextual menu action */
+"Remove conversation" = "Odstrani pogovor";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "S klikom na \"V redu\" boste odstranili račun s te naprave! Tega dejanja ni mogoče razveljaviti. Poleg tega lahko izgubite svoje registrirano ime.";
+
+/* File transfer canceled label */
+"Canceled" = "Preklicano";
+
+/* Contextual menu entry */
+"Stream file" = "Stream file";
+
+/* Contextual menu action */
+"Clear conversation" = "Počisti pogovor";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopiraj";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Med klicem nisem mogel posneti sporočila";
+
+/* Welcome title */
+"Create a new account" = "Ustvari nov račun";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Ustvari točko srečevanja";
+
+/* Backup enter password */
+"Enter account password" = "Vnesite geslo računa";
+
+/* File transfer failed label */
+"Failed" = "Neuspelo";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Selitev računa ni uspela. Lahko poskusite ponovno s pritiskom na V redu ali brisanjem svojega računa.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Pregled ni uspel";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Uvozi iz rezervne kopije";
+
+/* link account title */
+"Import from other device" = "Uvozi z druge naprave";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Dohodni klic od %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Dohodno sporočilo od %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Neveljavno uporabniško ime";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Napačno uporabniško ime";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Pojdite v nastavitve, da ustvarite nov račun";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Ni računa";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Gesli se razlikujeta!";
+
+/* Indication for user */
+"Password is too short" = "Geslo je prekratko";
+
+/* Indication for user */
+"Passwords don't match" = "Gesli nista enaki";
+
+/* Contextual menu action */
+"Place audio call" = "Ustvari zvočni klic";
+
+/* Contextual menu action */
+"Place video call" = "Ustvari video klic";
+
+/* Recording view explanation label */
+"Press to start recording" = "Pritisnite za začetek snemanja";
+
+/* Record message title */
+"Record a message" = "Posnemi sporočilo";
+
+/* Button Action */
+"Refuse" = "Zavrni";
+
+/* Text shown to the user */
+"Registered name: " = "Registrirano ime:";
+
+/* Remove account alert title */
+"Remove account" = "Odstrani račun";
+
+/* export account button title */
+"Select archive" = "Izberite arhiv";
+
+/* Send button title */
+"Send" = "Pošlji";
+
+/* Notification message */
+"Send you a contact request" = "Pošlji vam zahtevek za stik";
+
+/* No comment provided by engineer. */
+"Share" = "Deli";
+
+/* Contextual menu entry */
+"Share screen" = "Deli zaslon";
+
+/* Sign In */
+"Sign In" = "Vpis";
+
+/* Record message title */
+"Stop recording" = "Zaustavi snemanje";
+
+/* File transfer successful label */
+"Success" = "Uspeh";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Dejanja z besedilom";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Vneseno uporabniško ime je na voljo";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Vneseni uporabnik ni na voljo";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Vnesšeno geslo ne odklepa tega računa";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Ta račun je potrebno seliti";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "To je vaš ID.\nKopirajte ga in delite s prijatelji!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "To je vaše Jami uporabniško ime.\nKopirajte ga in delite s prijatelji!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Za dokončanje postopka morate odpreti Jami na novi napravi in izbrati opcijo \"Poveži to napravo z računom\". Vaš PIN je veljaven 10 minut.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Za nadaljevanje selitve morate vnesti geslo, ki je bilo uporabljeno za ta račun.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Ne-pridružljiv";
+
+/* Error video permission */
+"Video permission not granted" = "Dovoljenje za video ni podano";
+
+/* Welcome title */
+"Welcome to Jami" = "Dobrodošli v Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Bi radi pustili sporočilo?";
+
+/* Password button title */
+"Change password" = "Sprememba gesla";
+
+/* Password button title */
+"Create password" = "Ustvarite geslo";
+
+/* Device revocation title */
+"Revoke Device" = "Odstrani napravo";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Pozor! Tega dejanja ni mogoče razveljaviti!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Odstranitev naprave ni uspela. Preverite geslo in poskusite znova.";
+
+/* Device revocation error */
+"Device revocation failed" = "Odstranjevanje naprave ni uspelo";
+
+/* Edit Sip Account Action*/
+"Done" = "Opravljeno";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Uredi račun";
+
+/* Conference action */
+"Minimize participant" = "Najmanj sodelujočih";
+
+/* Conference action */
+"Maximize participant" = "Največ sodelujočih";
+
+/* Conference action */
+"Hangup" = "Prekini";
+
+/* Conference action */
+"Mute audio" = "Utišaj zvok";
+
+/* Conference action */
+"Set moderator" = "Set moderator";
+
+/* Conference action */
+"Unmute audio" = "Unmute audio";
+
+/* Conference action */
+"Unset moderator" = "Unset moderator";
+
+/* Conference name */
+"Me" = "Jaz";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Izberite uporabniško ime za vaš račun";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Izberite ime za točko srečevanja";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Iskanje novega ali obstoječega stika";
+
+/* conference tooltip Minimize */
+"Minimize" = "Minimaliziraj";
+
+/* conference tooltip Expand */
+"Expand" = "Expand";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Utišaj zvok";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Prekini";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Set moderator";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Audio muted";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Conference Organiser";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderator";
+
+/* drop files */
+"Drop files to send" = "Drop files to send";
+
+/* Contextual menu for message */
+"Show in Finder" = "Show in Finder";
+
+/* Contextual menu for message */
+"Open" = "Open";
+
+/* Contextual menu for message */
+"Delete" = "Izbriši";
+
+/* Contextual menu for message */
+"Quick Look" = "Quick Look";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Add to Photos Library";
+
+/* Contextual menu for message */
+"Resend" = "Resend";
+
+/* In call status info */
+"Wants to talk to you" = "Wants to talk to you";
+
+/* In call status info */
+"Incoming audio call" = "Incoming audio call";
+
+/* In call status info */
+"Incoming video call" = "Incoming video call";
+
+/* share button tooltip */
+"Stop screen sharing" = "Stop screen sharing";
+
+/* share button tooltip */
+"Stop file streaming" = "Stop file streaming";
+
+/* share button tooltip */
+"Share" = "Deli";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "We are waiting for %@ connects to synchronize the conversation.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hello, \nWould you like to join the conversation?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ has sent you a request for a conversation.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "You have accepted the conversation request.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ is not in your contacts.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Send him/her a contact request to be able to exchange together.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ has not yet accepted your contact request.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ must accept your contact request to answer you.";

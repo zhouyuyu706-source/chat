@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Si è verificato un errore di rete durante l'esportazione";
+
+/* Button Action */
+"Accept" = "Accetta";
+
+/* Button Action */
+"Cancel" = "Annulla";
+
+/* Welcome title */
+"Add a SIP account" = "Aggiungi un account SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "Aggiungi alla rubrica";
+
+/* Backup error */
+"An error occured during the backup" = "Si è verificato un errore durante il backup";
+
+/* Error shown to the user */
+"An error occured during the export" = "Si è verificato un errore durante l'esportazione";
+
+/* Peer busy message */
+"appears to be busy." = "sembra essere occupato.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Permesso audio non consentito";
+
+/* Backup account */
+"Backup your account" = "Backup il tuo account";
+
+/* Contextual menu action */
+"Block contact" = "Blocca contatto";
+
+/* Contextual menu action */
+"Remove conversation" = "Rimuovi conversazione";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Facendo clic su \"OK\" rimuoverai questo account su questo dispositivo! Questa azione non può essere annullata. Inoltre, il nome registrato potrebbe andare perso.";
+
+/* File transfer canceled label */
+"Canceled" = "Annullato";
+
+/* Contextual menu entry */
+"Stream file" = "Condividi file";
+
+/* Contextual menu action */
+"Clear conversation" = "Cancella conversazione";
+
+/* No comment provided by engineer. */
+"Copy" = "Copia";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Impossibile registrare il messaggio durante la chiamata";
+
+/* Welcome title */
+"Create a new account" = "Crea un nuovo account";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Crea un punto di riunione";
+
+/* Backup enter password */
+"Enter account password" = "Inserire la password dell'account";
+
+/* File transfer failed label */
+"Failed" = "Errore";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Fallita la migrazione del tuo account. Puoi riprovare premendo Ok o cancella il tuo account.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Non è stato possibile eseguire la ricerca";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Importa da backup";
+
+/* link account title */
+"Import from other device" = "Importa da un altro dispositivo";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Chiamati in arrivo da %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Messaggio in arrivo da %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Nome utente non valido";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Nome utente non valido.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Passa alle preferenze per creare un nuovo account";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Nessun account disponibile";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Password e conferma non corrispondono";
+
+/* Indication for user */
+"Password is too short" = "Password troppo corta";
+
+/* Indication for user */
+"Passwords don't match" = "Le password non coincidono";
+
+/* Contextual menu action */
+"Place audio call" = "Metti la chiamata audio";
+
+/* Contextual menu action */
+"Place video call" = "Effettua videochiamata";
+
+/* Recording view explanation label */
+"Press to start recording" = "Premere per avviare la registrazione";
+
+/* Record message title */
+"Record a message" = "Registra un messaggio";
+
+/* Button Action */
+"Refuse" = "Rifiuto";
+
+/* Text shown to the user */
+"Registered name: " = "Nome registrato:";
+
+/* Remove account alert title */
+"Remove account" = "Rimuovi l'account";
+
+/* export account button title */
+"Select archive" = "Seleziona l'archivio";
+
+/* Send button title */
+"Send" = "Invia";
+
+/* Notification message */
+"Send you a contact request" = "Invia una richiesta di contatto";
+
+/* No comment provided by engineer. */
+"Share" = "Condividi";
+
+/* Contextual menu entry */
+"Share screen" = "Condividi schermo";
+
+/* Sign In */
+"Sign In" = "Registrati";
+
+/* Record message title */
+"Stop recording" = "Ferma la registrazione";
+
+/* File transfer successful label */
+"Success" = "Successo";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Azioni testo";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Il nome utente inserito è disponibile";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Il nome utente inserito non è disponibile";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "La password che hai inserito non sblocca questo account";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Questo account deve essere migrato";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Questo è il tuo ID\nCopialo e condividilo con i tuoi amici!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Questo è il tuo nome utente Jami. \nCopia e condividi con i tuoi amici!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Per completare il processo, devi aprire Jami sul nuovo dispositivo e scegliere l'opzione \"Collega questo dispositivo a un account\". Il tuo pin è valido per 10 minuti.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Per procedere con la migrazione, è necessario inserire una password utilizzata per questo account.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Peer non raggiungibile";
+
+/* Error video permission */
+"Video permission not granted" = "Autorizzazione video non concessa";
+
+/* Welcome title */
+"Welcome to Jami" = "Benvenuto in Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Vuoi lasciare un messaggio?";
+
+/* Password button title */
+"Change password" = "Cambia password";
+
+/* Password button title */
+"Create password" = "Crea password";
+
+/* Device revocation title */
+"Revoke Device" = "Revoca dispositivo";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Attenzione! Questa azione è irreversibile!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Revoca del dispositivo non riuscita. Controlla la password e riprova.";
+
+/* Device revocation error */
+"Device revocation failed" = "Revoca del dispositivo non riuscita";
+
+/* Edit Sip Account Action*/
+"Done" = "Fatto";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Modifica l'account";
+
+/* Conference action */
+"Minimize participant" = "Riduci a icona il partecipante";
+
+/* Conference action */
+"Maximize participant" = "Massimizza partecipante";
+
+/* Conference action */
+"Hangup" = "Aggancia";
+
+/* Conference action */
+"Mute audio" = "Disattiva microfono";
+
+/* Conference action */
+"Set moderator" = "Metti un moderatore";
+
+/* Conference action */
+"Unmute audio" = "Attiva microfono";
+
+/* Conference action */
+"Unset moderator" = "Rimuovi moderatore";
+
+/* Conference name */
+"Me" = "Io";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Scegli un nome utente per il tuo account";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Scegli un nome per il tuo punto di riunione";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Cerca contatto nuovo o esistente";
+
+/* conference tooltip Minimize */
+"Minimize" = "Minimizza";
+
+/* conference tooltip Expand */
+"Expand" = "Espandi";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Disattiva microfono";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Aggancia";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Metti un moderatore";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Microfono disattivato";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Organizzatore della conferenza";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderatore";
+
+/* drop files */
+"Drop files to send" = "Trascina qui i file da inviare";
+
+/* Contextual menu for message */
+"Show in Finder" = "Mostra in Finder";
+
+/* Contextual menu for message */
+"Open" = "Apri";
+
+/* Contextual menu for message */
+"Delete" = "Elimina";
+
+/* Contextual menu for message */
+"Quick Look" = "Sguardo veloce";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Aggiungi alla raccolta foto";
+
+/* Contextual menu for message */
+"Resend" = "Invia di nuovo";
+
+/* In call status info */
+"Wants to talk to you" = "Vuole parlare con te";
+
+/* In call status info */
+"Incoming audio call" = "Chiamata vocale in arrivo";
+
+/* In call status info */
+"Incoming video call" = "Videochiamata in arrivo";
+
+/* share button tooltip */
+"Stop screen sharing" = "Ferma condivisione schermo";
+
+/* share button tooltip */
+"Stop file streaming" = "Ferma condivisione file";
+
+/* share button tooltip */
+"Share" = "Condividi";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "In attesa che %@ si connetta per sincronizzare la conversazione.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Ciao, \nVuoi partecipare alla conversazione?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ ti ha inviato una richiesta di conversazione.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Hai accettato la richiesta di conversazione.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ non è nei tuoi contatti.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Mandagli una richiesta di contatto per poter conversare insieme.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ non ha ancora accettato la tua richiesta di contatto.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ deve accettare la tua richiesta di contatto per risponderti.";

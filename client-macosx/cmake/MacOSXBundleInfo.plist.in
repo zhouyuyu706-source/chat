@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleExecutable</key>
+    <string>${MACOSX_BUNDLE_EXECUTABLE_NAME}</string>
+    <key>CFBundleGetInfoString</key>
+    <string>${MACOSX_BUNDLE_INFO_STRING}</string>
+    <key>CFBundleIconFile</key>
+    <string>${MACOSX_BUNDLE_ICON_FILE}</string>
+    <key>CFBundleIdentifier</key>
+    <string>${MACOSX_BUNDLE_GUI_IDENTIFIER}</string>
+    <key>SUEnableAutomaticChecks</key>
+    <false/>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleLongVersionString</key>
+    <string>${MACOSX_BUNDLE_LONG_VERSION_STRING}</string>
+    <key>CFBundleName</key>
+    <string>Zova</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>${MACOSX_BUNDLE_SHORT_VERSION_STRING}</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.13</string>
+    <key>CFBundleVersion</key>
+    <string>${MACOSX_BUNDLE_BUNDLE_VERSION}</string>
+    <key>CSResourcesFileMapped</key>
+    <true/>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.social-networking</string>
+    <key>LSRequiresCarbon</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>${MACOSX_BUNDLE_COPYRIGHT}</string>
+    <key>NSHighResolutionCapable</key>
+    <string>True</string>
+    <key>NSMainNibFile</key>
+    <string>${MACOSX_BUNDLE_NSMAIN_NIB_FILE}</string>
+    <key>NSPrincipalClass</key>
+    <string>${MACOSX_BUNDLE_NSPRINCIPAL_CLASS}</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Zova 需要使用摄像头进行视频通话和录制视频</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Zova 需要使用麦克风进行通话和录制语音</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Zova 需要访问相册以设置头像和发送图片</string>
+    <key>CFBundleURLTypes</key>
+        <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>Ring ID</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>ring</string>
+            </array>
+       </dict>
+       </array>
+</dict>
+</plist>

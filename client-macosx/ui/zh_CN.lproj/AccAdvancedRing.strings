@@ -1,0 +1,126 @@
+
+/* Class = "NSButtonCell"; title = "Allow incoming calls from unknown contacts"; ObjectID = "1Xr-BO-Pu3"; */
+"1Xr-BO-Pu3.title" = "允许未知联系人的来电";
+
+/* Class = "NSButtonCell"; title = "UPnP"; ObjectID = "25Q-c1-ld3"; */
+"25Q-c1-ld3.title" = "UPnP";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "538-we-FTp"; */
+"538-we-FTp.title" = "盒子";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7eU-EP-4br"; */
+"7eU-EP-4br.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "TURN address"; ObjectID = "8mv-Ia-GM4"; */
+"8mv-Ia-GM4.title" = "TURN 地址";
+
+/* Class = "NSTextFieldCell"; title = "Call settings"; ObjectID = "BIS-Ft-yJn"; */
+"BIS-Ft-yJn.title" = "呼叫设置";
+
+/* Class = "NSTextFieldCell"; title = "Discovery settings"; ObjectID = "Va3-Un-lCL"; */
+"Va3-Un-lCL.title" = "发现设置";
+
+/* Class = "NSButtonCell"; title = "Make this account discoverable on local network"; ObjectID = "rdZ-JB-96s"; */
+"rdZ-JB-96s.title" = "使该账户可在本地网络中被发现";
+
+/* Class = "NSButtonCell"; title = "Enable local moderators"; ObjectID = "BCQ-xd-1zb"; */
+"BCQ-xd-1zb.title" = "启用本地会议主持人";
+
+/* Class = "NSButtonCell"; title = "Discover peers on local network"; ObjectID = "n3E-PI-JHj"; */
+"n3E-PI-JHj.title" = "在本地网络中发现对端";
+
+/* Class = "NSButtonCell"; title = "Auto answer calls"; ObjectID = "DSe-Cs-oD6"; */
+"DSe-Cs-oD6.title" = "自动接听来电";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EyV-Io-d3f"; */
+"EyV-Io-d3f.title" = "文字气泡";
+
+/* Class = "NSTextFieldCell"; title = "Name server"; ObjectID = "ID3-Sv-gYY"; */
+"ID3-Sv-gYY.title" = "名称服务器";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "K0z-NH-3Cq"; */
+"K0z-NH-3Cq.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "User certificate"; ObjectID = "LWs-a2-E7f"; */
+"LWs-a2-E7f.title" = "用户证书";
+
+/* Class = "NSTextFieldCell"; title = "Audio codecs"; ObjectID = "Q4t-zo-brK"; */
+"Q4t-zo-brK.title" = "音频编码";
+
+/* Class = "NSTextFieldCell"; title = "Security"; ObjectID = "Qxp-I4-A7W"; */
+"Qxp-I4-A7W.title" = "安全";
+
+/* Class = "NSButtonCell"; title = "Enable proxy"; ObjectID = "VyP-8T-aNA"; */
+"VyP-8T-aNA.title" = "使用代理";
+
+/* Class = "NSTextFieldCell"; title = "Video codecs"; ObjectID = "Wrh-zD-uh5"; */
+"Wrh-zD-uh5.title" = "视频编码";
+
+/* Class = "NSTextFieldCell"; title = "TURN realm"; ObjectID = "XU0-bl-lDD"; */
+"XU0-bl-lDD.title" = "TURN 域";
+
+/* Class = "NSTextFieldCell"; title = "STUN address"; ObjectID = "YE4-ry-u07"; */
+"YE4-ry-u07.title" = "STUN 地址";
+
+/* Class = "NSTextFieldCell"; title = "Bootstrap"; ObjectID = "YJM-iQ-0lE"; */
+"YJM-iQ-0lE.title" = "初始服务器";
+
+/* Class = "NSTextFieldCell"; title = "Private key password"; ObjectID = "YcX-lE-8ug"; */
+"YcX-lE-8ug.title" = "私钥密码";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Ywo-5x-8kh"; */
+"Ywo-5x-8kh.title" = "盒子";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZNe-H0-dJk"; */
+"ZNe-H0-dJk.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "Address"; ObjectID = "ZqB-gt-yFt"; */
+"ZqB-gt-yFt.title" = "地址：";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "eGX-gk-Zxp"; */
+"eGX-gk-Zxp.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "TURN username"; ObjectID = "eMG-uY-bpH"; */
+"eMG-uY-bpH.title" = "TURN 用户名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "g8T-u3-MS3"; */
+"g8T-u3-MS3.title" = "文字气泡";
+
+/* Class = "NSTextFieldCell"; title = "TURN password"; ObjectID = "gUl-Px-cIJ"; */
+"gUl-Px-cIJ.title" = "TURN 密码";
+
+/* Class = "NSTextFieldCell"; title = "CA certificate"; ObjectID = "k7i-pK-JXp"; */
+"k7i-pK-JXp.title" = "颁发机构证书";
+
+/* Class = "NSButtonCell"; title = "Use STUN"; ObjectID = "nqX-Vu-UuA"; */
+"nqX-Vu-UuA.title" = "使用STUN";
+
+/* Class = "NSButtonCell"; title = "Custom ringtone"; ObjectID = "qFq-Yh-2JL"; */
+"qFq-Yh-2JL.title" = "自定义铃声";
+
+/* Class = "NSTextFieldCell"; title = "Connectivity"; ObjectID = "sVe-iG-OCw"; */
+"sVe-iG-OCw.title" = "连接性";
+
+/* Class = "NSTextFieldCell"; title = "Private key"; ObjectID = "soR-nF-ybe"; */
+"soR-nF-ybe.title" = "私钥";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "sy5-OH-wyB"; */
+"sy5-OH-wyB.title" = "盒子";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "vYi-gW-MrY"; */
+"vYi-gW-MrY.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "OpenDHT configuration"; ObjectID = "xJT-ij-69q"; */
+"xJT-ij-69q.title" = "OpenDHT 配置";
+
+/* Class = "NSButtonCell"; title = "Use TURN"; ObjectID = "zPJ-cO-neQ"; */
+"zPJ-cO-neQ.title" = "使用 TURN";
+
+/* Class = "NSButtonCell"; title = "Enable rendezvous point: turn your account into a conference room"; ObjectID = "2cZ-SI-nbz"; */
+"2cZ-SI-nbz.title" = "启用集合点：将您的账户变成会议室";
+
+/* Class = "NSButtonCell"; title = "Add default moderator"; ObjectID = "RKw-pg-2N8"; */
+"RKw-pg-2N8.title" = "添加默认会议主持人";
+
+/* Class = "NSTextFieldCell"; title = "You do not have default moderators"; ObjectID = "g2o-3r-Dx7"; */
+"g2o-3r-Dx7.title" = "您没有默认会议主持人";

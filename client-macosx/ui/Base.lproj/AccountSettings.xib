@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="15705" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="15705"/>
+        <capability name="System colors introduced in macOS 10.14" minToolsVersion="10.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="AccountSettingsVC">
+            <connections>
+                <outlet property="containerView" destination="FE5-WQ-UWb" id="otG-mf-CBG"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView wantsLayer="YES" id="Hz6-mo-xeY">
+            <rect key="frame" x="0.0" y="0.0" width="820" height="828"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="aFy-fN-0gJ">
+                    <rect key="frame" x="0.0" y="0.0" width="820" height="828"/>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" imagePosition="only" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="VZg-RO-juK">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <scrollView wantsLayer="YES" borderType="none" autohidesScrollers="YES" horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" hasHorizontalScroller="NO" hasVerticalScroller="NO" usesPredominantAxisScrolling="NO" horizontalScrollElasticity="none" findBarPosition="aboveHorizontalRuler" translatesAutoresizingMaskIntoConstraints="NO" id="FE5-WQ-UWb">
+                    <rect key="frame" x="0.0" y="0.0" width="820" height="828"/>
+                    <clipView key="contentView" copiesOnScroll="NO" id="AS0-K7-DN3" customClass="CenteredClipView">
+                        <rect key="frame" x="0.0" y="0.0" width="820" height="828"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view translatesAutoresizingMaskIntoConstraints="NO" id="kLY-tq-1VN">
+                                <rect key="frame" x="0.0" y="0.0" width="820" height="828"/>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="kLY-tq-1VN" firstAttribute="top" secondItem="AS0-K7-DN3" secondAttribute="top" id="4CT-Hj-pCH"/>
+                            <constraint firstAttribute="trailing" secondItem="kLY-tq-1VN" secondAttribute="trailing" id="6GS-uR-GPw"/>
+                            <constraint firstAttribute="bottom" secondItem="kLY-tq-1VN" secondAttribute="bottom" id="fVJ-2P-P8O"/>
+                            <constraint firstItem="kLY-tq-1VN" firstAttribute="leading" secondItem="AS0-K7-DN3" secondAttribute="leading" id="lhW-c7-4Wl"/>
+                        </constraints>
+                        <color key="backgroundColor" name="alternatingContentBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </clipView>
+                    <edgeInsets key="contentInsets" left="0.0" right="0.0" top="20" bottom="0.0"/>
+                    <scroller key="horizontalScroller" hidden="YES" wantsLayer="YES" verticalHuggingPriority="750" horizontal="YES" id="raF-h3-PC0">
+                        <rect key="frame" x="-100" y="-100" width="670" height="16"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </scroller>
+                    <scroller key="verticalScroller" hidden="YES" wantsLayer="YES" verticalHuggingPriority="750" doubleValue="1" horizontal="NO" id="Pt7-JA-8ml">
+                        <rect key="frame" x="-100" y="-100" width="16" height="768"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </scroller>
+                </scrollView>
+                <button toolTip="Back" horizontalHuggingPriority="750" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="cyq-zN-98i" customClass="HoverButton">
+                    <rect key="frame" x="5" y="766" width="32" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="32" id="XcV-yi-oBH"/>
+                        <constraint firstAttribute="width" constant="32" id="zzo-rZ-gMc"/>
+                    </constraints>
+                    <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="ic_arrow_back" imagePosition="overlaps" alignment="center" transparent="YES" imageScaling="proportionallyDown" id="Xsh-Ml-mxa">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="color" keyPath="imageHoverDarkColor">
+                            <color key="value" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="imageColor">
+                            <color key="value" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="imageInsets">
+                            <integer key="value" value="2"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="imageDarkColor">
+                            <color key="value" red="0.93725490196078431" green="0.93725490196078431" blue="0.93725490196078431" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="imageIncreaseOnHover">
+                            <integer key="value" value="2"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="imageHoverColor">
+                            <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="openAccountSettings:" target="-1" id="9qG-1H-U0l"/>
+                    </connections>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="FE5-WQ-UWb" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" id="0TU-rV-Feb"/>
+                <constraint firstItem="aFy-fN-0gJ" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" id="9IA-A3-i70"/>
+                <constraint firstItem="cyq-zN-98i" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="30" id="DSp-Zd-np2"/>
+                <constraint firstItem="FE5-WQ-UWb" firstAttribute="centerX" secondItem="Hz6-mo-xeY" secondAttribute="centerX" id="Eod-1m-b43"/>
+                <constraint firstAttribute="trailing" secondItem="FE5-WQ-UWb" secondAttribute="trailing" id="Eoo-Ln-11S"/>
+                <constraint firstItem="FE5-WQ-UWb" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" id="K1o-6r-aG8"/>
+                <constraint firstItem="aFy-fN-0gJ" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" id="PGe-DE-2vR"/>
+                <constraint firstAttribute="bottom" secondItem="FE5-WQ-UWb" secondAttribute="bottom" id="V1A-Qu-x4s"/>
+                <constraint firstAttribute="bottom" secondItem="aFy-fN-0gJ" secondAttribute="bottom" id="ewE-um-z1z"/>
+                <constraint firstAttribute="trailing" secondItem="aFy-fN-0gJ" secondAttribute="trailing" id="hQ8-KI-Kkz"/>
+                <constraint firstItem="cyq-zN-98i" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="5" id="m4c-u7-L7d"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="267.5"/>
+        </customView>
+    </objects>
+    <resources>
+        <image name="ic_arrow_back" width="72" height="72"/>
+    </resources>
+</document>

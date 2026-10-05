@@ -1,0 +1,93 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hang up"; ObjectID = "2cB-dz-KYg"; */
+"2cB-dz-KYg.ibShadowedToolTip" = "Kapat";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4xt-xs-LVn"; */
+"4xt-xs-LVn.title" = "Kutu";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DSf-SJ-l6k"; */
+"DSf-SJ-l6k.title" = "Kutu";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "GBy-HF-JeP"; */
+"GBy-HF-JeP.title" = "Etiket";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "KCp-bZ-69S"; */
+"KCp-bZ-69S.title" = "Kutu";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hang up"; ObjectID = "Kjq-iM-NBL"; */
+"Kjq-iM-NBL.ibShadowedToolTip" = "Kapat";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Mute Video"; ObjectID = "LVS-yZ-98V"; */
+"LVS-yZ-98V.ibShadowedToolTip" = "Görüntüyü kapat";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select video device"; ObjectID = "Vcv-ia-VEy"; */
+"Vcv-ia-VEy.ibShadowedToolTip" = "Görüntü aygıtını seçin";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Share"; ObjectID = "ZGn-Tc-sg3"; */
+"ZGn-Tc-sg3.ibShadowedToolTip" = "Paylaş";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable plugins"; ObjectID = "YtG-ob-etP"; */
+"YtG-ob-etP.ibShadowedToolTip" = "Eklentileri etkinleştir";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedMultipleValuesPlaceholder" = "Bir ileti gönder";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedNoSelectionPlaceholder" = "Bir ileti gönder";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Send a message"; ObjectID = "NRc-5f-Ujc"; */
+"NRc-5f-Ujc.ibShadowedNotApplicablePlaceholder" = "Bir ileti gönder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record"; ObjectID = "QYT-0n-4sw"; */
+"QYT-0n-4sw.ibShadowedToolTip" = "Kaydet";
+
+/* Class = "NSButton"; ibShadowedToolTip = "add contact to call"; ObjectID = "Vhk-fx-6RW"; */
+"Vhk-fx-6RW.ibShadowedToolTip" = "Add contact to call";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YGj-SP-ikj"; */
+"YGj-SP-ikj.title" = "İleti Hücresi";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hold"; ObjectID = "anb-Y8-JQi"; */
+"anb-Y8-JQi.ibShadowedToolTip" = "Beklet";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Send a message"; ObjectID = "d4g-hS-EMn"; */
+"d4g-hS-EMn.placeholderString" = "Bir ileti gönder";
+
+/* Class = "NSTextFieldCell"; placeholderString = "State"; ObjectID = "dPt-JY-yxV"; */
+"dPt-JY-yxV.placeholderString" = "Durum";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle chat"; ObjectID = "fmp-x4-Pef"; */
+"fmp-x4-Pef.ibShadowedToolTip" = "Konuşmayı aç/kapat";
+
+/* Class = "NSTextFieldCell"; title = "person Id"; ObjectID = "hKi-Ay-ex5"; */
+"hKi-Ay-ex5.title" = "kişi kimliği";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hfc-s5-yWK"; */
+"hfc-s5-yWK.title" = "Kutu";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send a file"; ObjectID = "ngO-WV-cXD"; */
+"ngO-WV-cXD.ibShadowedToolTip" = "Dosya gönder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Pick up"; ObjectID = "qgD-3D-nD5"; */
+"qgD-3D-nD5.ibShadowedToolTip" = "Yanıtla";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Answer with audio only"; ObjectID = "MYC-Kz-Eq6"; */
+"MYC-Kz-Eq6.ibShadowedToolTip" = "Answer with audio only";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send"; ObjectID = "rqa-be-VIB"; */
+"rqa-be-VIB.ibShadowedToolTip" = "Gönder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select audio output device"; ObjectID = "Yma-O2-Ljp"; */
+"Yma-O2-Ljp.ibShadowedToolTip" = "ses çıkış aygıtını seçin";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select audio input device"; ObjectID = "aMU-l3-xFT"; */
+"aMU-l3-xFT.ibShadowedToolTip" = "ses giriş aygıtını seçin";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Mute microphone"; ObjectID = "N0A-rb-6rf"; */
+"N0A-rb-6rf.ibShadowedToolTip" = "Mikrofon sessiz";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Person name"; ObjectID = "ues-20-34k"; */
+"ues-20-34k.placeholderString" = "Kişi adı";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Type a message"; ObjectID = "Qs4-0k-em5"; */
+"Qs4-0k-em5.ibShadowedIsNilPlaceholder" = "Bir ileti yaz";

@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Во время экспорта произошла ошибка сети";
+
+/* Button Action */
+"Accept" = "Принять";
+
+/* Button Action */
+"Cancel" = "Отмена";
+
+/* Welcome title */
+"Add a SIP account" = "Добавить аккаунт SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "Добавить в контакты";
+
+/* Backup error */
+"An error occured during the backup" = "Во время создания резервной копии произошла ошибка";
+
+/* Error shown to the user */
+"An error occured during the export" = "Во время экспорта произошла ошибка";
+
+/* Peer busy message */
+"appears to be busy." = "кажется занят.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Нет прав доступа к аудио";
+
+/* Backup account */
+"Backup your account" = "Создайте резервную копию";
+
+/* Contextual menu action */
+"Block contact" = "Заблокировать контакт";
+
+/* Contextual menu action */
+"Remove conversation" = "Удалить диалог";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Нажатие \"ОК\" удалит данный аккаунт на данном устройстве! Это действие невозможно отменить. Также вы можете потерять зарегистрированное имя!";
+
+/* File transfer canceled label */
+"Canceled" = "Отменено";
+
+/* Contextual menu entry */
+"Stream file" = "Передавать файл";
+
+/* Contextual menu action */
+"Clear conversation" = "Очистить разговор";
+
+/* No comment provided by engineer. */
+"Copy" = "Копировать";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Не удалось записать сообщение во время звонка";
+
+/* Welcome title */
+"Create a new account" = "Создать новый аккаунт";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Создайте точку встречи";
+
+/* Backup enter password */
+"Enter account password" = "Введите пароль вашего аккаунта";
+
+/* File transfer failed label */
+"Failed" = "Сбой";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Не удалось перенести ваш аккаунт. Вы можете либо попробовать снова, нажав Оk, либо удалить ваш аккаунт.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Не удалось осуществить поиск";
+
+/* Text shown to the user */
+"ID: " = "ID:";
+
+/* link account title */
+"Import from backup" = "Импортировать из резервной копии";
+
+/* link account title */
+"Import from other device" = "Импортировать с другого устройства";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Входящий вызов от %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Входящее сообщение от %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Недопустимое имя пользователя";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Недопустимое имя пользователя";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Зайдите в настройки, чтобы создать аккаунт";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Нет аккаунтов";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Пароль и подтверждение не совпадают.";
+
+/* Indication for user */
+"Password is too short" = "Пароль слишком короткий";
+
+/* Indication for user */
+"Passwords don't match" = "Пароли не совпадают";
+
+/* Contextual menu action */
+"Place audio call" = "Сделать аудиозвонок";
+
+/* Contextual menu action */
+"Place video call" = "Сделать видеозвонок";
+
+/* Recording view explanation label */
+"Press to start recording" = "Нажмите, чтобы начать запись";
+
+/* Record message title */
+"Record a message" = "Запись сообщения ";
+
+/* Button Action */
+"Refuse" = "Отказать";
+
+/* Text shown to the user */
+"Registered name: " = "Зарегистрированное имя:";
+
+/* Remove account alert title */
+"Remove account" = "Удаление учетной записи";
+
+/* export account button title */
+"Select archive" = "Выберите архив";
+
+/* Send button title */
+"Send" = "Отправить";
+
+/* Notification message */
+"Send you a contact request" = "Отправил Вам запрос на добавление в контакты";
+
+/* No comment provided by engineer. */
+"Share" = "Поделиться";
+
+/* Contextual menu entry */
+"Share screen" = "Транслировать экран";
+
+/* Sign In */
+"Sign In" = "Войти";
+
+/* Record message title */
+"Stop recording" = "Остановить запись";
+
+/* File transfer successful label */
+"Success" = "Успешно";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Действия с Текстом";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Указанное имя пользователя доступно";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Указанное имя пользователя недоступно";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Введенный пароль не подходит к этому аккаунту";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Этот аккаунт должен быть перенесен";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Это ваш ID.\nСкопируйте и поделитесь им с Вашими друзьями!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Это ваше имя пользователя Jami.\nСкопируйте и поделитесь им со своими друзьями!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Для завершения процесса вам нужно открыть Jami на новом устройстве и выбрать \"Привязать это устройство к аккаунту\". Ваш PIN действителен в течение 10 минут.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Для продолжения миграции необходимо ввести пароль, который использовался для этой учетной записи.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Недоступен";
+
+/* Error video permission */
+"Video permission not granted" = "Нет прав доступа к видео";
+
+/* Welcome title */
+"Welcome to Jami" = "Добро пожаловать в Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Хотите оставить сообщение?";
+
+/* Password button title */
+"Change password" = "Изменить пароль";
+
+/* Password button title */
+"Create password" = "Создать пароль";
+
+/* Device revocation title */
+"Revoke Device" = "Отозвать устройство";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Внимание! Это действие не может быть отменено!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Ошибка отзыва устройства. Пожалуйста, проверьте ваш пароль и попробуйте снова.";
+
+/* Device revocation error */
+"Device revocation failed" = "Ошибка отзыва устройства";
+
+/* Edit Sip Account Action*/
+"Done" = "Готово";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Изменить аккаунт";
+
+/* Conference action */
+"Minimize participant" = "Минимизация участника";
+
+/* Conference action */
+"Maximize participant" = "Максимизировать участника";
+
+/* Conference action */
+"Hangup" = "Повесить трубку";
+
+/* Conference action */
+"Mute audio" = "Отключить звук";
+
+/* Conference action */
+"Set moderator" = "Установить модератора";
+
+/* Conference action */
+"Unmute audio" = "Включить звук";
+
+/* Conference action */
+"Unset moderator" = "Отменить установку модератора";
+
+/* Conference name */
+"Me" = "Я";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Выберите имя пользователя для вашей учётной записи";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Выберите название для места встречи";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Поиск нового или существующего контакта";
+
+/* conference tooltip Minimize */
+"Minimize" = "Свернуть";
+
+/* conference tooltip Expand */
+"Expand" = "Расширить";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Отключить звук";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Повесить трубку";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Установить модератора";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Звук отключен";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Организатор конференции";
+
+/* conference state tooltip moderator */
+"Moderator" = "Модератор";
+
+/* drop files */
+"Drop files to send" = "Перетащите файлы для отправки";
+
+/* Contextual menu for message */
+"Show in Finder" = "Показать в Finder";
+
+/* Contextual menu for message */
+"Open" = "Открыть";
+
+/* Contextual menu for message */
+"Delete" = "Удалить";
+
+/* Contextual menu for message */
+"Quick Look" = "Быстрый обзор";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Добавить фотографии в библиотеку";
+
+/* Contextual menu for message */
+"Resend" = "Отправить повторно";
+
+/* In call status info */
+"Wants to talk to you" = "Хочет поговорить с вами!";
+
+/* In call status info */
+"Incoming audio call" = "Входящий аудио звонок";
+
+/* In call status info */
+"Incoming video call" = "Входящий видео звонок";
+
+/* share button tooltip */
+"Stop screen sharing" = "Остановить совместное использование экрана";
+
+/* share button tooltip */
+"Stop file streaming" = "Остановить потоковую передачу файла";
+
+/* share button tooltip */
+"Share" = "Поделиться";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "Мы ожидаем пока %@ подключиться для синхронизации беседы.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Привет,\nХотели бы вы присоединиться к беседе?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ отправил вам запрос на беседу.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Вы приняли запрос на беседу.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ отсутствует в ваших контактах.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Отправьте ему/ей запрос на контакт, чтобы обмениваться.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ еще не принял ваш запрос на контакт.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ должен принять ваш запрос, чтобы ответить вам.";

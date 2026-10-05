@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="14490.70"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="RingWizardLinkAccountVC">
+            <connections>
+                <outlet property="errorContainer" destination="B0P-LC-JmW" id="lKa-Nb-o79"/>
+                <outlet property="fileButton" destination="gR3-2L-BlK" id="9CB-3U-Izb"/>
+                <outlet property="filePathContainer" destination="Ve0-g4-7SX" id="hvZ-yn-Lbt"/>
+                <outlet property="helpArchiveFileContainer" destination="M1j-Dr-kfj" id="S9g-pn-iVd"/>
+                <outlet property="helpPINContainer" destination="FI2-Q8-dc7" id="OHg-wo-QaV"/>
+                <outlet property="initialContainer" destination="jR6-WY-o19" id="zJs-xD-OjK"/>
+                <outlet property="linkButton" destination="xmI-fH-GpH" id="pWU-MH-4Up"/>
+                <outlet property="loadingContainer" destination="1O6-eM-Cg5" id="AnP-jD-EcD"/>
+                <outlet property="passwordTextField" destination="VeW-tY-k3K" id="gGe-V6-tzm"/>
+                <outlet property="pinContainer" destination="A6D-qI-ZDb" id="xCK-FP-gRJ"/>
+                <outlet property="pinTextField" destination="BFR-6z-UlF" id="bZs-kY-zUW"/>
+                <outlet property="progressBar" destination="MPY-UO-4Bq" id="giG-ll-HSq"/>
+                <outlet property="view" destination="kG1-xB-0op" id="Inm-vF-gDB"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView id="kG1-xB-0op">
+            <rect key="frame" x="0.0" y="0.0" width="453" height="201"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <point key="canvasLocation" x="334" y="754"/>
+        </customView>
+        <popover behavior="t" id="FI2-Q8-dc7" userLabel="Help PIN container">
+            <connections>
+                <outlet property="contentViewController" destination="mSv-u1-Hvk" id="8QY-x6-ynn"/>
+            </connections>
+        </popover>
+        <popover behavior="t" id="M1j-Dr-kfj" userLabel="Help archive file container">
+            <connections>
+                <outlet property="contentViewController" destination="RJp-dy-UIe" id="swQ-5X-I7m"/>
+            </connections>
+        </popover>
+        <viewController id="RJp-dy-UIe" userLabel="Popover View Controller archive">
+            <connections>
+                <outlet property="view" destination="TUh-Kb-Ooa" id="ZjR-pP-jAl"/>
+            </connections>
+        </viewController>
+        <view id="B0P-LC-JmW">
+            <rect key="frame" x="0.0" y="0.0" width="338" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hwa-xK-TuM">
+                    <rect key="frame" x="-2" y="-3" width="342" height="38"/>
+                    <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="center" title="An error occured, please check your password and pin." id="DyG-SJ-U1Q">
+                        <font key="font" metaFont="system" size="15"/>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="daZ-Bz-vsM">
+                    <rect key="frame" x="244" y="13" width="80" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="68" id="vNb-db-X99"/>
+                    </constraints>
+                    <buttonCell key="cell" type="push" title="OK" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="t12-O0-kcf">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                        <string key="keyEquivalent" base64-UTF8="YES">
+DQ
+</string>
+                    </buttonCell>
+                    <connections>
+                        <action selector="dismissViewWithError:" target="-2" id="SD1-Bf-SLK"/>
+                    </connections>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="Hwa-xK-TuM" firstAttribute="centerX" secondItem="B0P-LC-JmW" secondAttribute="centerX" id="EXE-nk-eq0"/>
+                <constraint firstAttribute="trailing" secondItem="daZ-Bz-vsM" secondAttribute="trailing" constant="20" id="eDD-r2-zZa"/>
+                <constraint firstItem="Hwa-xK-TuM" firstAttribute="top" secondItem="B0P-LC-JmW" secondAttribute="top" constant="25" id="f6v-ep-e13"/>
+                <constraint firstAttribute="bottom" secondItem="daZ-Bz-vsM" secondAttribute="bottom" constant="20" id="jqw-Jx-f5O"/>
+                <constraint firstItem="Hwa-xK-TuM" firstAttribute="width" secondItem="B0P-LC-JmW" secondAttribute="width" id="sGQ-zX-CyS"/>
+            </constraints>
+            <point key="canvasLocation" x="-12" y="401"/>
+        </view>
+        <view id="jR6-WY-o19" userLabel="Second step">
+            <rect key="frame" x="0.0" y="0.0" width="399" height="162"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <stackView distribution="fill" orientation="vertical" alignment="leading" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kfI-nE-fou">
+                    <rect key="frame" x="20" y="66" width="359" height="91"/>
+                    <subviews>
+                        <stackView distribution="fill" orientation="horizontal" alignment="centerY" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ve0-g4-7SX">
+                            <rect key="frame" x="0.0" y="66" width="359" height="25"/>
+                            <subviews>
+                                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="XJh-69-hJQ">
+                                    <rect key="frame" x="-2" y="0.0" width="76" height="25"/>
+                                    <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="right" title="Import archive file" id="kXa-FL-Enf">
+                                        <font key="font" metaFont="system"/>
+                                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                    </textFieldCell>
+                                </textField>
+                                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="gR3-2L-BlK" userLabel="File button">
+                                    <rect key="frame" x="74" y="-5" width="262" height="32"/>
+                                    <buttonCell key="cell" type="push" title="Select file" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="XJE-cy-nfQ">
+                                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                        <font key="font" metaFont="system"/>
+                                    </buttonCell>
+                                    <connections>
+                                        <action selector="pickBackupFile:" target="-2" id="Qzv-2L-2Ez"/>
+                                    </connections>
+                                </button>
+                                <button horizontalHuggingPriority="750" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="RUb-Ti-5Wa">
+                                    <rect key="frame" x="336" y="-2" width="25" height="25"/>
+                                    <buttonCell key="cell" type="help" bezelStyle="helpButton" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="fAO-vt-wCG">
+                                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                        <font key="font" metaFont="system"/>
+                                    </buttonCell>
+                                    <connections>
+                                        <action selector="showArchiveFileHelp:" target="-2" id="jB7-Xj-lSX"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="rTQ-Os-ikS"/>
+                            </constraints>
+                            <visibilityPriorities>
+                                <integer value="1000"/>
+                                <integer value="1000"/>
+                                <integer value="1000"/>
+                            </visibilityPriorities>
+                            <customSpacing>
+                                <real value="3.4028234663852886e+38"/>
+                                <real value="3.4028234663852886e+38"/>
+                                <real value="3.4028234663852886e+38"/>
+                            </customSpacing>
+                        </stackView>
+                        <stackView distribution="fill" orientation="horizontal" alignment="centerY" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="A6D-qI-ZDb">
+                            <rect key="frame" x="0.0" y="33" width="359" height="25"/>
+                            <subviews>
+                                <textField verticalHuggingPriority="750" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Nms-13-N3F">
+                                    <rect key="frame" x="-2" y="0.0" width="76" height="25"/>
+                                    <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="right" title="Enter your PIN" id="3ik-rY-Gig">
+                                        <font key="font" metaFont="system"/>
+                                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                    </textFieldCell>
+                                </textField>
+                                <textField verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="BFR-6z-UlF">
+                                    <rect key="frame" x="80" y="2" width="250" height="22"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="250" id="kcJ-06-hbr"/>
+                                    </constraints>
+                                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" alignment="left" placeholderString="" bezelStyle="round" id="5pW-QD-iHi">
+                                        <font key="font" metaFont="system"/>
+                                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                    </textFieldCell>
+                                    <connections>
+                                        <binding destination="-2" name="value" keyPath="self.pinValue" id="vVf-hg-sWk">
+                                            <dictionary key="options">
+                                                <bool key="NSContinuouslyUpdatesValue" value="YES"/>
+                                                <string key="NSMultipleValuesPlaceholder">PIN</string>
+                                                <string key="NSNoSelectionPlaceholder">PIN</string>
+                                                <string key="NSNotApplicablePlaceholder">PIN</string>
+                                                <string key="NSNullPlaceholder">PIN</string>
+                                            </dictionary>
+                                        </binding>
+                                        <outlet property="nextKeyView" destination="VeW-tY-k3K" id="fgI-rk-Nuk"/>
+                                    </connections>
+                                </textField>
+                                <button horizontalHuggingPriority="750" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="fLL-gK-4t4">
+                                    <rect key="frame" x="336" y="-2" width="25" height="25"/>
+                                    <buttonCell key="cell" type="help" bezelStyle="helpButton" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="pwF-hR-gRN">
+                                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                        <font key="font" metaFont="system"/>
+                                    </buttonCell>
+                                    <connections>
+                                        <action selector="showPINHelp:" target="-2" id="ydM-Gx-cxG"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="Huz-H2-tfD"/>
+                            </constraints>
+                            <visibilityPriorities>
+                                <integer value="1000"/>
+                                <integer value="1000"/>
+                                <integer value="1000"/>
+                            </visibilityPriorities>
+                            <customSpacing>
+                                <real value="3.4028234663852886e+38"/>
+                                <real value="3.4028234663852886e+38"/>
+                                <real value="3.4028234663852886e+38"/>
+                            </customSpacing>
+                        </stackView>
+                        <stackView distribution="fill" orientation="horizontal" alignment="centerY" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="eRS-t6-ZLT">
+                            <rect key="frame" x="0.0" y="0.0" width="330" height="25"/>
+                            <subviews>
+                                <textField verticalHuggingPriority="750" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="AGs-mP-zJd">
+                                    <rect key="frame" x="-2" y="0.0" width="76" height="25"/>
+                                    <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="right" title="Enter password" id="U2K-fu-INc">
+                                        <font key="font" metaFont="system"/>
+                                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                    </textFieldCell>
+                                </textField>
+                                <textField verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="VeW-tY-k3K" customClass="NSSecureTextField">
+                                    <rect key="frame" x="80" y="2" width="250" height="22"/>
+                                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" alignment="left" placeholderString="" bezelStyle="round" id="9k8-c8-GFI" customClass="NSSecureTextFieldCell">
+                                        <font key="font" metaFont="system"/>
+                                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                    </textFieldCell>
+                                    <connections>
+                                        <binding destination="-2" name="value" keyPath="self.passwordValue" id="WlR-QM-tK4">
+                                            <dictionary key="options">
+                                                <bool key="NSContinuouslyUpdatesValue" value="YES"/>
+                                                <string key="NSMultipleValuesPlaceholder">Password...</string>
+                                                <string key="NSNoSelectionPlaceholder">Password...</string>
+                                                <string key="NSNotApplicablePlaceholder">Password...</string>
+                                                <string key="NSNullPlaceholder">Password...</string>
+                                            </dictionary>
+                                        </binding>
+                                        <outlet property="nextKeyView" destination="xmI-fH-GpH" id="oQw-CE-3NA"/>
+                                    </connections>
+                                </textField>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="DX2-Ck-cnL"/>
+                            </constraints>
+                            <visibilityPriorities>
+                                <integer value="1000"/>
+                                <integer value="1000"/>
+                            </visibilityPriorities>
+                            <customSpacing>
+                                <real value="3.4028234663852886e+38"/>
+                                <real value="3.4028234663852886e+38"/>
+                            </customSpacing>
+                        </stackView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="Ve0-g4-7SX" secondAttribute="trailing" id="2D7-CI-osh"/>
+                        <constraint firstItem="AGs-mP-zJd" firstAttribute="trailing" secondItem="XJh-69-hJQ" secondAttribute="trailing" id="9LP-4A-HQC"/>
+                        <constraint firstItem="BFR-6z-UlF" firstAttribute="trailing" secondItem="VeW-tY-k3K" secondAttribute="trailing" id="DNf-sP-lt1"/>
+                        <constraint firstItem="Ve0-g4-7SX" firstAttribute="leading" secondItem="kfI-nE-fou" secondAttribute="leading" id="Hpi-fB-CYW"/>
+                        <constraint firstItem="AGs-mP-zJd" firstAttribute="trailing" secondItem="Nms-13-N3F" secondAttribute="trailing" id="Sn7-3x-ntr"/>
+                        <constraint firstItem="AGs-mP-zJd" firstAttribute="leading" secondItem="Nms-13-N3F" secondAttribute="leading" id="ViK-BC-N2Q"/>
+                        <constraint firstItem="gR3-2L-BlK" firstAttribute="trailing" secondItem="VeW-tY-k3K" secondAttribute="trailing" id="nIa-5o-p82"/>
+                        <constraint firstItem="AGs-mP-zJd" firstAttribute="leading" secondItem="XJh-69-hJQ" secondAttribute="leading" id="nu0-jI-vb3"/>
+                        <constraint firstItem="gR3-2L-BlK" firstAttribute="leading" secondItem="VeW-tY-k3K" secondAttribute="leading" id="wEx-Fc-BKx"/>
+                        <constraint firstItem="BFR-6z-UlF" firstAttribute="leading" secondItem="VeW-tY-k3K" secondAttribute="leading" id="wPI-aJ-MPO"/>
+                    </constraints>
+                    <visibilityPriorities>
+                        <integer value="1000"/>
+                        <integer value="1000"/>
+                        <integer value="1000"/>
+                    </visibilityPriorities>
+                    <customSpacing>
+                        <real value="3.4028234663852886e+38"/>
+                        <real value="3.4028234663852886e+38"/>
+                        <real value="3.4028234663852886e+38"/>
+                    </customSpacing>
+                </stackView>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="oxG-mq-q2J">
+                    <rect key="frame" x="238" y="13" width="82" height="32"/>
+                    <buttonCell key="cell" type="push" title="Cancel" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Pcj-BY-tou">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                        <string key="keyEquivalent" base64-UTF8="YES">
+Gw
+</string>
+                    </buttonCell>
+                    <connections>
+                        <action selector="dismissViewWithError:" target="-2" id="Cm7-ZN-PlJ"/>
+                    </connections>
+                </button>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="xmI-fH-GpH">
+                    <rect key="frame" x="320" y="13" width="65" height="32"/>
+                    <buttonCell key="cell" type="push" title="Link" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="8b8-bt-eAj">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                        <string key="keyEquivalent" base64-UTF8="YES">
+DQ
+</string>
+                    </buttonCell>
+                    <connections>
+                        <action selector="importRingAccount:" target="-2" id="pa7-oH-87l"/>
+                        <binding destination="-2" name="enabled" keyPath="self.pinValue.length" id="TT6-xW-5yT"/>
+                    </connections>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="kfI-nE-fou" firstAttribute="leading" secondItem="jR6-WY-o19" secondAttribute="leading" constant="20" id="18B-S8-ftj"/>
+                <constraint firstAttribute="bottom" secondItem="oxG-mq-q2J" secondAttribute="bottom" constant="20" id="ADU-Tc-q4Y"/>
+                <constraint firstItem="kfI-nE-fou" firstAttribute="top" secondItem="jR6-WY-o19" secondAttribute="top" constant="5" id="SDN-cw-n7b"/>
+                <constraint firstItem="xmI-fH-GpH" firstAttribute="leading" secondItem="oxG-mq-q2J" secondAttribute="trailing" constant="12" id="WZ5-kT-48s"/>
+                <constraint firstItem="xmI-fH-GpH" firstAttribute="bottom" secondItem="oxG-mq-q2J" secondAttribute="bottom" id="YIN-cc-lLD"/>
+                <constraint firstItem="oxG-mq-q2J" firstAttribute="top" secondItem="kfI-nE-fou" secondAttribute="bottom" constant="25" id="ZVD-8M-oF8"/>
+                <constraint firstAttribute="trailing" secondItem="kfI-nE-fou" secondAttribute="trailing" constant="20" id="bdQ-by-3XD"/>
+                <constraint firstAttribute="trailing" secondItem="xmI-fH-GpH" secondAttribute="trailing" constant="20" id="lvy-rX-kFY"/>
+                <constraint firstItem="oxG-mq-q2J" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="jR6-WY-o19" secondAttribute="leading" constant="20" symbolic="YES" id="x7p-Fo-8wW"/>
+            </constraints>
+            <point key="canvasLocation" x="615.5" y="456.5"/>
+        </view>
+        <customView id="1O6-eM-Cg5">
+            <rect key="frame" x="0.0" y="0.0" width="355" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3xI-Rl-haM">
+                    <rect key="frame" x="6" y="-12" width="344" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="340" id="Obs-3i-AVf"/>
+                    </constraints>
+                    <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="center" title="Linking..." id="zWn-4H-ODH">
+                        <font key="font" metaFont="system"/>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <progressIndicator wantsLayer="YES" maxValue="100" indeterminate="YES" style="spinning" translatesAutoresizingMaskIntoConstraints="NO" id="MPY-UO-4Bq">
+                    <rect key="frame" x="130" y="13" width="96" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="96" id="02y-8H-r8z"/>
+                    </constraints>
+                </progressIndicator>
+            </subviews>
+            <constraints>
+                <constraint firstItem="MPY-UO-4Bq" firstAttribute="top" secondItem="1O6-eM-Cg5" secondAttribute="top" constant="15" id="OP4-VR-3VN"/>
+                <constraint firstItem="3xI-Rl-haM" firstAttribute="centerX" secondItem="MPY-UO-4Bq" secondAttribute="centerX" id="P6B-ox-364"/>
+                <constraint firstItem="MPY-UO-4Bq" firstAttribute="centerX" secondItem="1O6-eM-Cg5" secondAttribute="centerX" id="dNj-L7-JD4"/>
+                <constraint firstItem="3xI-Rl-haM" firstAttribute="top" secondItem="MPY-UO-4Bq" secondAttribute="bottom" constant="8" id="yrG-4i-woc"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="-39"/>
+        </customView>
+        <customView id="3h3-dd-sYm">
+            <rect key="frame" x="0.0" y="0.0" width="350" height="138"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="Hbu-B5-EjR">
+                    <rect key="frame" x="18" y="20" width="314" height="98"/>
+                    <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="justified" id="2uK-1s-tk7">
+                        <font key="font" metaFont="smallSystem"/>
+                        <string key="title">	You can import your account from the another device, but first, you need to obtain a PIN code. 
+	To generate the PIN code, go to the account management setting of a previous device, choose the Jami account to use and select "Link another device to this account". You will get the necessary PIN to complete this form. The PIN is only valid for 10 minutes.</string>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Hbu-B5-EjR" secondAttribute="bottom" constant="20" id="XpN-O6-0N6"/>
+                <constraint firstItem="Hbu-B5-EjR" firstAttribute="top" secondItem="3h3-dd-sYm" secondAttribute="top" constant="20" id="Y1N-SW-sWw"/>
+                <constraint firstAttribute="trailing" secondItem="Hbu-B5-EjR" secondAttribute="trailing" constant="20" id="lhv-H3-i6N"/>
+                <constraint firstItem="Hbu-B5-EjR" firstAttribute="leading" secondItem="3h3-dd-sYm" secondAttribute="leading" constant="20" id="nEo-HE-IG6"/>
+            </constraints>
+            <point key="canvasLocation" x="-651" y="802.5"/>
+        </customView>
+        <customView id="TUh-Kb-Ooa">
+            <rect key="frame" x="0.0" y="0.0" width="348" height="68"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="DCW-q4-nx3">
+                    <rect key="frame" x="18" y="20" width="312" height="28"/>
+                    <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="left" id="kfe-m7-MTT">
+                        <font key="font" metaFont="smallSystem"/>
+                        <string key="title">	You can directly import your account from an archive file on your device.</string>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="DCW-q4-nx3" secondAttribute="bottom" constant="20" id="0Rp-8b-fRf"/>
+                <constraint firstItem="DCW-q4-nx3" firstAttribute="leading" secondItem="TUh-Kb-Ooa" secondAttribute="leading" constant="20" id="0px-6B-pQs"/>
+                <constraint firstAttribute="trailing" secondItem="DCW-q4-nx3" secondAttribute="trailing" constant="20" id="FDk-2p-B9C"/>
+                <constraint firstItem="DCW-q4-nx3" firstAttribute="top" secondItem="TUh-Kb-Ooa" secondAttribute="top" constant="20" id="ciM-86-3z2"/>
+            </constraints>
+            <point key="canvasLocation" x="-606" y="599"/>
+        </customView>
+        <viewController id="mSv-u1-Hvk" userLabel="Popover View Controller PIN">
+            <connections>
+                <outlet property="view" destination="3h3-dd-sYm" id="a01-TF-mJX"/>
+            </connections>
+        </viewController>
+        <userDefaultsController representsSharedInstance="YES" id="adK-QV-iDD"/>
+    </objects>
+</document>

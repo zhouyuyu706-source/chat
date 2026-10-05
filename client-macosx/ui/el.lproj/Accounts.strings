@@ -1,0 +1,27 @@
+
+/* Class = "NSTabViewItem"; label = "Ring"; ObjectID = "1HC-kF-Jun"; */
+"1HC-kF-Jun.label" = "Ring";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Type"; ObjectID = "KoR-IH-uuI"; */
+"KoR-IH-uuI.placeholderString" = "Τύπος";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "RT7-u6-bhe"; */
+"RT7-u6-bhe.label" = "Για προχωρημένους";
+
+/* Class = "NSTabViewItem"; label = "Security"; ObjectID = "Vp5-yV-ScC"; */
+"Vp5-yV-ScC.label" = "Ασφάλεια";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "ZDh-Jh-hfW"; */
+"ZDh-Jh-hfW.placeholderString" = "Όνομα";
+
+/* Class = "NSTabViewItem"; label = "Devices"; ObjectID = "cT1-A5-rbj"; */
+"cT1-A5-rbj.label" = "Συσκευές";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Status"; ObjectID = "eEz-Lm-SOj"; */
+"eEz-Lm-SOj.placeholderString" = "Κατάσταση";
+
+/* Class = "NSTabViewItem"; label = "Media"; ObjectID = "lxr-my-vH8"; */
+"lxr-my-vH8.label" = "Μέσα";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "tPR-Ac-N5Y"; */
+"tPR-Ac-N5Y.label" = "Γενικά";

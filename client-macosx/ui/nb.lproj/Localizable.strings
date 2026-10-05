@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "En nettverksfeil oppstod ved eksport";
+
+/* Button Action */
+"Accept" = "Aksepter";
+
+/* Button Action */
+"Cancel" = "Avbryt";
+
+/* Welcome title */
+"Add a SIP account" = "Legg til SIP konto";
+
+/* Contextual menu action */
+"Add to contacts" = "Legg til kontakter";
+
+/* Backup error */
+"An error occured during the backup" = "En feil oppstod ved sikkerhetskopiering";
+
+/* Error shown to the user */
+"An error occured during the export" = "En feil oppstod ved eksport";
+
+/* Peer busy message */
+"appears to be busy." = "ser ut til å være opptatt.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Lydtilgang ikke innvilget";
+
+/* Backup account */
+"Backup your account" = "Sikkerhetskopier din konto";
+
+/* Contextual menu action */
+"Block contact" = "Blokker kontakt";
+
+/* Contextual menu action */
+"Remove conversation" = "Slett samtale";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Ved å klikke \"OK\" vil du slette denne kontoen fra denne enheten! Denne handlingen kan ikke angres. I tillegg, kan ditt registrerte navn gå tapt.";
+
+/* File transfer canceled label */
+"Canceled" = "Avbrutt";
+
+/* Contextual menu entry */
+"Stream file" = "Stream file";
+
+/* Contextual menu action */
+"Clear conversation" = "Slett samtalen";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopier";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Kunne ikke spille inn beskjed under samtale";
+
+/* Welcome title */
+"Create a new account" = "Opprett ny konto";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Opprett møteplass";
+
+/* Backup enter password */
+"Enter account password" = "Tast inn konto passord";
+
+/* File transfer failed label */
+"Failed" = "Mislyktes";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Kunne ikke flytte din konto. Du kan prøve på nytt ved å trykke OK eller slette kontoen din.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Klarte ikke å utføre oppslag";
+
+/* Text shown to the user */
+"ID: " = "ID:";
+
+/* link account title */
+"Import from backup" = "Importer fra sikkerhetskopi";
+
+/* link account title */
+"Import from other device" = "Importer fra andre enheter";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Innkommende samtale fra %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Innkommende melding fra %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Ugyldig brukernavn";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Ugyldig brukernavn.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Naviger til innstillinger for å opprette en ny konto";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Ingen konto tilgjengelig";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Passordet og bekreftelsen samsvarer ikke.";
+
+/* Indication for user */
+"Password is too short" = "Passordet er for kort";
+
+/* Indication for user */
+"Passwords don't match" = "Passordene er ikke like";
+
+/* Contextual menu action */
+"Place audio call" = "Ny lydsamtale";
+
+/* Contextual menu action */
+"Place video call" = "Ny videosamtale";
+
+/* Recording view explanation label */
+"Press to start recording" = "Trykk for å starte opptak";
+
+/* Record message title */
+"Record a message" = "Spill inn en beskjed";
+
+/* Button Action */
+"Refuse" = "Avslå";
+
+/* Text shown to the user */
+"Registered name: " = "Registrert navn:";
+
+/* Remove account alert title */
+"Remove account" = "Slett konto";
+
+/* export account button title */
+"Select archive" = "Velg arkiv";
+
+/* Send button title */
+"Send" = "Send";
+
+/* Notification message */
+"Send you a contact request" = "Send deg en kontakt forespørsel";
+
+/* No comment provided by engineer. */
+"Share" = "Del";
+
+/* Contextual menu entry */
+"Share screen" = "Del skjerm";
+
+/* Sign In */
+"Sign In" = "Logg på";
+
+/* Record message title */
+"Stop recording" = "Stopp opptak";
+
+/* File transfer successful label */
+"Success" = "Vellykket";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Teksthandlinger";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Innstastet brukernavn er tilgjengelig";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Inntastet brukernavn er ikke tilgjengelig";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Passordet du tastet inn låser ikke opp denne kontoen";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Denne kontoen behøver å bli overført";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Dette er din ID. \nKopier og del denne med dine venner!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Dette er ditt Jami brukernavn. \nKopier og del dette med dine venner!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "For å fullføre prosessen, må du åpne Jami på den nye enheten og velge opsjonen \"Tilknytt denne enheten til en konto\". Din pin er gyldig i 10 minutter.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "For å fortsette med overføringen, må du oppgi et passord som ble brukt for denne kontoen.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "usammenføybar";
+
+/* Error video permission */
+"Video permission not granted" = "Video tilgang ikke innvilget";
+
+/* Welcome title */
+"Welcome to Jami" = "Velkommen til Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Ønsker du å legge igjen en melding?";
+
+/* Password button title */
+"Change password" = "Endre passord";
+
+/* Password button title */
+"Create password" = "Opprett passord";
+
+/* Device revocation title */
+"Revoke Device" = "Tilbakekall enhet";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Merk! Denne handlingen kan ikke angres!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Tilbakekalling av enhet feilet. Vennligst kontroller ditt passord og prøv igjen.";
+
+/* Device revocation error */
+"Device revocation failed" = "Tilbakekalling av enhet feilet";
+
+/* Edit Sip Account Action*/
+"Done" = "Ferdig";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Rediger konto";
+
+/* Conference action */
+"Minimize participant" = "Minimer deltaker";
+
+/* Conference action */
+"Maximize participant" = "Maksimer deltaker";
+
+/* Conference action */
+"Hangup" = "Legg på";
+
+/* Conference action */
+"Mute audio" = "Koble ut lyden";
+
+/* Conference action */
+"Set moderator" = "Aktiver moderator";
+
+/* Conference action */
+"Unmute audio" = "Slå på lyden";
+
+/* Conference action */
+"Unset moderator" = "Deaktiver moderator";
+
+/* Conference name */
+"Me" = "Meg";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Velg brukernavn for din konto";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Velg et navn for din møteplass";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Søk etter ny eller eksisterende kontakt";
+
+/* conference tooltip Minimize */
+"Minimize" = "Minimer";
+
+/* conference tooltip Expand */
+"Expand" = "Expand";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Koble ut lyden";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Legg på";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Aktiver moderator";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Audio muted";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Conference Organiser";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderator";
+
+/* drop files */
+"Drop files to send" = "Drop files to send";
+
+/* Contextual menu for message */
+"Show in Finder" = "Show in Finder";
+
+/* Contextual menu for message */
+"Open" = "Åpne";
+
+/* Contextual menu for message */
+"Delete" = "Slett";
+
+/* Contextual menu for message */
+"Quick Look" = "Quick Look";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Add to Photos Library";
+
+/* Contextual menu for message */
+"Resend" = "Resend";
+
+/* In call status info */
+"Wants to talk to you" = "Wants to talk to you";
+
+/* In call status info */
+"Incoming audio call" = "Incoming audio call";
+
+/* In call status info */
+"Incoming video call" = "Incoming video call";
+
+/* share button tooltip */
+"Stop screen sharing" = "Stop screen sharing";
+
+/* share button tooltip */
+"Stop file streaming" = "Stop file streaming";
+
+/* share button tooltip */
+"Share" = "Del";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "We are waiting for %@ connects to synchronize the conversation.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Hello, \nWould you like to join the conversation?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ has sent you a request for a conversation.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "You have accepted the conversation request.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ is not in your contacts.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Send him/her a contact request to be able to exchange together.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ has not yet accepted your contact request.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ must accept your contact request to answer you.";

@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "Ndodhi një gabim rrjeti gjatë eksportimit";
+
+/* Button Action */
+"Accept" = "Pranoje";
+
+/* Button Action */
+"Cancel" = "Anuloje";
+
+/* Welcome title */
+"Add a SIP account" = "Shtoni një llogari SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "Shtoje te kontaktet";
+
+/* Backup error */
+"An error occured during the backup" = "Ndodhi një gabim gjatë kopjeruajtjes";
+
+/* Error shown to the user */
+"An error occured during the export" = "Ndodhi një gabim gjatë eksportimit";
+
+/* Peer busy message */
+"appears to be busy." = "duket të jetë i zënë.";
+
+/* Error audio permission */
+"Audio permission not granted" = "Pa leje audio të akorduara";
+
+/* Backup account */
+"Backup your account" = "Kopjeruani llogarinë tuaj";
+
+/* Contextual menu action */
+"Block contact" = "Bllokojeni kontaktin";
+
+/* Contextual menu action */
+"Remove conversation" = "Hiqe bisedën";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Duke klikuar \"OK\", do ta hiqni këtë llogari nga kjo pajisje! Ky veprim s’mund të zhbëhet. Gjithashtu, mund të humbë emri juaj i regjistrimit.";
+
+/* File transfer canceled label */
+"Canceled" = "U anulua";
+
+/* Contextual menu entry */
+"Stream file" = "Transmetoni kartelë";
+
+/* Contextual menu action */
+"Clear conversation" = "Spastroje bisedën";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopjoje";
+
+/* Recording view explanation label */
+"Could not record message during call" = "S’u incizua dot mesazh gjatë thirrjes";
+
+/* Welcome title */
+"Create a new account" = "Krijoni një llogari të re";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Krijoni një pikë takimesh";
+
+/* Backup enter password */
+"Enter account password" = "Jepni fjalëkalim llogarie";
+
+/* File transfer failed label */
+"Failed" = "Dështoi";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Migrimi i llogarisë tuaj dështoi. Mund të riprovoni duke shtypur OK, ose duke fshirë llogarinë tuaj.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Kryerja e kërkimit   dështoi";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Importoni prej kopjeruajtjeje";
+
+/* link account title */
+"Import from other device" = "Importoni prej pajisjeje tjetër";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Thirrje ardhëse prej %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Mesazh ardhur nga %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Emër përdoruesi i pavlefshëm";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Emër përdoruesi i pavlefshëm.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Që të krijoni një llogari të re, kaloni te parapëlqimet";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "S’ka llogari gati";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Mospërputhje fjalëkalimi dhe ripohimi të tij";
+
+/* Indication for user */
+"Password is too short" = "Fjalëkalimi është shumë i shkurtër";
+
+/* Indication for user */
+"Passwords don't match" = "Fjalëkalimet nuk përputhen";
+
+/* Contextual menu action */
+"Place audio call" = "Bëni një thirrje audio";
+
+/* Contextual menu action */
+"Place video call" = "Bëni një thirrje video";
+
+/* Recording view explanation label */
+"Press to start recording" = "Shtypeni që të fillojë regjistrimi";
+
+/* Record message title */
+"Record a message" = "Incizoni një mesazh";
+
+/* Button Action */
+"Refuse" = "Hidhe tej";
+
+/* Text shown to the user */
+"Registered name: " = "Emër i regjistruar:";
+
+/* Remove account alert title */
+"Remove account" = "Hiqe llogarinë";
+
+/* export account button title */
+"Select archive" = "Përzgjidhni arkiv";
+
+/* Send button title */
+"Send" = "Dërgoje";
+
+/* Notification message */
+"Send you a contact request" = "Dërgoni një kërkesë kontakti";
+
+/* No comment provided by engineer. */
+"Share" = "Ndajeni me të tjerë";
+
+/* Contextual menu entry */
+"Share screen" = "Tregojuani ekranin të tjerëve";
+
+/* Sign In */
+"Sign In" = "Hyni";
+
+/* Record message title */
+"Stop recording" = "Ndale incizimin";
+
+/* File transfer successful label */
+"Success" = "Sukses";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Veprime Teksti";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Emri i dhënë për përdorues është i lirë";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Emri i dhënë për përdorues s’është i lirë";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Fjalëkalimi që dhatë nuk e shkyç këtë llogari";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Kjo llogari lypset të migrohet";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Kjo ështër ID-ja juaj. \nKopjojeni dhe jepuani shokëve tuaj!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Ky është emri juaj si përdorues i Jami-t. \nKopjojeni dhe jepuani shokëve tuaj!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Që të plotësoni procesin, lypset të hapni Jami-n te pajisja e re dhe të zgjidhni mundësinë \"Lidhe këtë pajisje me një llogari\". PIN-i juaj është i vlefshëm për 10 minuta.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Për të kryer migrimin, lypset të jepni një fjalëkëlim që qe përdorur për këtë llogari.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "S’kapet";
+
+/* Error video permission */
+"Video permission not granted" = "Pa leje video të akorduara";
+
+/* Welcome title */
+"Welcome to Jami" = "Mirë se vini te Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Do të donit të linit një mesazh?";
+
+/* Password button title */
+"Change password" = "Ndryshoni fjalëkalimin";
+
+/* Password button title */
+"Create password" = "Krijoje fjalëkalimin";
+
+/* Device revocation title */
+"Revoke Device" = "Shfuqizoje Pajisjen";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Kujdes! Ky veprim s’mund të zhbëhet!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Shfuqizimi i pajisjes dështoi. Ju lutemi, kontrolloni fjalëkalimin tuaj dhe riprovoni.";
+
+/* Device revocation error */
+"Device revocation failed" = "Shfuqizimi i pajisjes dështoi";
+
+/* Edit Sip Account Action*/
+"Done" = "U bë";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Përpunoni Llogari";
+
+/* Conference action */
+"Minimize participant" = "Minimizoje pjesëmarrësin";
+
+/* Conference action */
+"Maximize participant" = "Maksimizoje pjesëmarrësin";
+
+/* Conference action */
+"Hangup" = "Mbylle";
+
+/* Conference action */
+"Mute audio" = "Mbylli zërin";
+
+/* Conference action */
+"Set moderator" = "Caktoni moderator";
+
+/* Conference action */
+"Unmute audio" = "Riktheji zërin";
+
+/* Conference action */
+"Unset moderator" = "Hiqe nga moderator";
+
+/* Conference name */
+"Me" = "Unë";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Zgjidhni një emër përdoruesi për llogarinë tuaj";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Zgjidhni një emër për pikën tuaj të takimeve";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Kërkoni për kontakt të ri ose ekzistues";
+
+/* conference tooltip Minimize */
+"Minimize" = "Minimizoje";
+
+/* conference tooltip Expand */
+"Expand" = "Zgjeroje";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Mbylli zërin";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Mbylle";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Caktoni moderator";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "U mbyll zëri";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Organizator Konference";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderator";
+
+/* drop files */
+"Drop files to send" = "Hidhni kartela që të dërgohen";
+
+/* Contextual menu for message */
+"Show in Finder" = "Shfaqe në Finder";
+
+/* Contextual menu for message */
+"Open" = "Hape";
+
+/* Contextual menu for message */
+"Delete" = "Fshije";
+
+/* Contextual menu for message */
+"Quick Look" = "Parje e Shpejtë";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Shtoje në Fototekë";
+
+/* Contextual menu for message */
+"Resend" = "Ridërgoje";
+
+/* In call status info */
+"Wants to talk to you" = "Dëshiron të bisedojë me ju";
+
+/* In call status info */
+"Incoming audio call" = "Thirrje audio ardhëse";
+
+/* In call status info */
+"Incoming video call" = "Thirrje video ardhëse";
+
+/* share button tooltip */
+"Stop screen sharing" = "Resht së dhëni ekranin";
+
+/* share button tooltip */
+"Stop file streaming" = "Resht transmetim kartele";
+
+/* share button tooltip */
+"Share" = "Ndajeni me të tjerë";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "Po presim që %@ të lidhet për të njëkohësuar bisedën.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Tungjatjeta, \nDo të donit të merrnit pjesë në bisedë?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ ju ka dërguar një kërkesë për bisedë.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Keni pranuar kërkesën për bisedë.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ s’gjendet te kontaktet tuaja.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Që të jeni në gjendje të shkëmbeni mendime, dërgojini një kërkesë kontakti.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ s’e ka pranuar ende kërkesën tuaj për kontakt.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ duhet të pranojë kërkesën tuaj për kontakt, që të mund t’ju përgjigjet.";

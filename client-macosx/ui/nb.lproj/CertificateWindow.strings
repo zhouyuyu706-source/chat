@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "Certificate information"; ObjectID = "BrE-Hz-sVE"; */
+"BrE-Hz-sVE.title" = "Sertifikatinformasjon";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "G7a-wY-fOS"; */
+"G7a-wY-fOS.title" = "Tekstcelle";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Od1-pH-TGO"; */
+"Od1-pH-TGO.title" = "Tabellvisningscelle";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Vindu";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RMj-fd-OsX"; */
+"RMj-fd-OsX.title" = "Tekstcelle";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "khh-uZ-Keh"; */
+"khh-uZ-Keh.title" = "Tabellvisningscelle";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "x6p-u4-4Ot"; */
+"x6p-u4-4Ot.title" = "OK";

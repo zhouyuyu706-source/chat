@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "O eroare de rețea a apărut în timpul exportării";
+
+/* Button Action */
+"Accept" = "Acceptă";
+
+/* Button Action */
+"Cancel" = "Renunță";
+
+/* Welcome title */
+"Add a SIP account" = "Adaugă un cont SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "Adaugă la contacte";
+
+/* Backup error */
+"An error occured during the backup" = "A apărut o eroare în timpul copiei de rezervă";
+
+/* Error shown to the user */
+"An error occured during the export" = "O eroare a apărut în timpul exportării";
+
+/* Peer busy message */
+"appears to be busy." = "pare ocupat";
+
+/* Error audio permission */
+"Audio permission not granted" = "Nu ai permis accesul la Audio";
+
+/* Backup account */
+"Backup your account" = "Fă o copie de rezervă a contului";
+
+/* Contextual menu action */
+"Block contact" = "Blochează contactul";
+
+/* Contextual menu action */
+"Remove conversation" = "Șterge conversația";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "Făcînd clic pe „Bine” vei elimina acest cont din acest aparat! Această acțiune este ireversibilă și poți pierde numele pe care l-ai înscris.";
+
+/* File transfer canceled label */
+"Canceled" = "Anulat";
+
+/* Contextual menu entry */
+"Stream file" = "Distribuie fișierul";
+
+/* Contextual menu action */
+"Clear conversation" = "Șterge conversația";
+
+/* No comment provided by engineer. */
+"Copy" = "Copiază";
+
+/* Recording view explanation label */
+"Could not record message during call" = "Nu poți înregistra mesajul în timpul apelului";
+
+/* Welcome title */
+"Create a new account" = "Creează un cont nou";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "Creează un loc de conferință";
+
+/* Backup enter password */
+"Enter account password" = "Introdu parola contului";
+
+/* File transfer failed label */
+"Failed" = "Eșec";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "Transferul contului tău nu a reușit. Poți încerca din nou apăsînd „Bine” sau șterge acest cont.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "Căutarea nu a reușit";
+
+/* Text shown to the user */
+"ID: " = "ID: ";
+
+/* link account title */
+"Import from backup" = "Importă din copia de rezervă";
+
+/* link account title */
+"Import from other device" = "Importă din alt aparat";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "Apel primit de la %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "Mesaj primit de la %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "Nume greșit";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "Nume greșit.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "Du-te la Preferințe pentru a crea un cont nou";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "Niciun cont disponibil";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "Parola și confirmarea nu se potrivesc.";
+
+/* Indication for user */
+"Password is too short" = "Parola e prea scurtă";
+
+/* Indication for user */
+"Passwords don't match" = "Parolele nu se potrivesc";
+
+/* Contextual menu action */
+"Place audio call" = "Fă apel vocal";
+
+/* Contextual menu action */
+"Place video call" = "Fă apel video";
+
+/* Recording view explanation label */
+"Press to start recording" = "Apasă pentru a începe înregistrarea";
+
+/* Record message title */
+"Record a message" = "Înregistrează un mesaj";
+
+/* Button Action */
+"Refuse" = "Refuză";
+
+/* Text shown to the user */
+"Registered name: " = "Nume înscris:";
+
+/* Remove account alert title */
+"Remove account" = "Elimină contul";
+
+/* export account button title */
+"Select archive" = "Alege arhiva";
+
+/* Send button title */
+"Send" = "Trimite";
+
+/* Notification message */
+"Send you a contact request" = "Trimite o cerere de contact";
+
+/* No comment provided by engineer. */
+"Share" = "Distribuie";
+
+/* Contextual menu entry */
+"Share screen" = "Distribuie ecranul";
+
+/* Sign In */
+"Sign In" = "Autentificare";
+
+/* Record message title */
+"Stop recording" = "Oprește înregistrarea";
+
+/* File transfer successful label */
+"Success" = "Succes";
+
+/* No comment provided by engineer. */
+"Text Actions" = "Opțiuni Text";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "Numele de utilizator introdus e disponibil";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "Numele de utilizator introdus nu e disponibil";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "Parola introdusă nu deblochează acest cont";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "Acest cont trebuie transferat";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "Acesta e ID-ul tău. \nCopiază-l și distribuie-l prietenilor!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "Acesta e numele tău de utilizator Jami. \nCopiază-l și distribuie-l prietenilor!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "Pentru a completa procesul, trebuie să deschizi Jami în noul aparat și să alegi opțiunea „Asociază acest aparat unui cont”. Codul tău PIN este valabil 10 minute.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "Pentru a continua transferul, trebuie să introduci o parolă care a fost folosită pentru acest cont.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "Inaccesibil";
+
+/* Error video permission */
+"Video permission not granted" = "Nu ai permis accesul la Video";
+
+/* Welcome title */
+"Welcome to Jami" = "Bine ai venit pe Jami";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "Vrei să lași un mesaj?";
+
+/* Password button title */
+"Change password" = "Schimbă parola";
+
+/* Password button title */
+"Create password" = "Creează parola";
+
+/* Device revocation title */
+"Revoke Device" = "Elimină aparatul";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "Atenție! Această acțiune este ireversibilă!";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "Eliminarea aparatului a eșuat. Verifică parola și încearcă din nou.";
+
+/* Device revocation error */
+"Device revocation failed" = "Eliminarea aparatului a eșuat";
+
+/* Edit Sip Account Action*/
+"Done" = "Făcut";
+
+/* Edit Sip Account Action */
+"Edit Account" = "Modifică contul";
+
+/* Conference action */
+"Minimize participant" = "Minimizează participantul";
+
+/* Conference action */
+"Maximize participant" = "Mărește participantul";
+
+/* Conference action */
+"Hangup" = "Închide";
+
+/* Conference action */
+"Mute audio" = "Oprește microfonul";
+
+/* Conference action */
+"Set moderator" = "Pune un moderator";
+
+/* Conference action */
+"Unmute audio" = "Pornește microfonul";
+
+/* Conference action */
+"Unset moderator" = "Elimină moderatorul";
+
+/* Conference name */
+"Me" = "Eu";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "Alege un nume de utilizator pentru contul tău";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "Alege un nume pentru locul de conferință";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "Caută un contact nou sau existent";
+
+/* conference tooltip Minimize */
+"Minimize" = "Minimizează";
+
+/* conference tooltip Expand */
+"Expand" = "Mărește";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "Oprește microfonul";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "Închide";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "Pune un moderator";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "Mut";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "Organizatorul conferinței";
+
+/* conference state tooltip moderator */
+"Moderator" = "Moderator";
+
+/* drop files */
+"Drop files to send" = "Trage aici fișierele de trimis";
+
+/* Contextual menu for message */
+"Show in Finder" = "Arată în Finder";
+
+/* Contextual menu for message */
+"Open" = "Deschide";
+
+/* Contextual menu for message */
+"Delete" = "Șterge";
+
+/* Contextual menu for message */
+"Quick Look" = "O privire rapidă";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "Adaugă în biblioteca de fotografii";
+
+/* Contextual menu for message */
+"Resend" = "Trimite din nou";
+
+/* In call status info */
+"Wants to talk to you" = "Vrea să vorbească cu tine";
+
+/* In call status info */
+"Incoming audio call" = "Apel vocal primit";
+
+/* In call status info */
+"Incoming video call" = "Apel video primit";
+
+/* share button tooltip */
+"Stop screen sharing" = "Oprește distribuirea ecranului";
+
+/* share button tooltip */
+"Stop file streaming" = "Oprește distribuirea fișierului";
+
+/* share button tooltip */
+"Share" = "Distribuie";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "Se așteaptă ca %@ să se conecteze pentru a sincroniza conversația.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "Vrei să participi la conversație?";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ ți-a trimis o invitație la conversație.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "Ai acceptat invitația la conversație.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ nu este în contactele tale.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "Trimite-i o cerere de contact pentru a conversa împreună.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ nu a acceptat încă cererea ta de contact.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ trebuie să accepte cererea ta de contact pentru a-ți răspunde.";

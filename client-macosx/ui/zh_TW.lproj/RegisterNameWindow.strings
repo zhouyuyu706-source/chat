@@ -1,0 +1,51 @@
+
+/* Class = "NSTextFieldCell"; title = "Other users can use it instead of your ID"; ObjectID = "9gi-0u-67t"; */
+"9gi-0u-67t.title" = "其他使用者可以使用它而不是你的 ID";
+
+/* Class = "NSTextFieldCell"; title = "An error occured during your username registration"; ObjectID = "Aeh-tK-RjX"; */
+"Aeh-tK-RjX.title" = "你的使用者名稱註冊時發生錯誤";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "JWw-7m-ywL"; */
+"JWw-7m-ywL.title" = "視窗";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedIsNilPlaceholder" = "輸入密碼……";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedMultipleValuesPlaceholder" = "輸入密碼……";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedNoSelectionPlaceholder" = "輸入密碼……";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Enter password..."; ObjectID = "JkL-9W-ex1"; */
+"JkL-9W-ex1.ibShadowedNotApplicablePlaceholder" = "輸入密碼……";
+
+/* Class = "NSTextFieldCell"; title = "Just a moment..."; ObjectID = "YIN-YL-JBs"; */
+"YIN-YL-JBs.title" = "請稍候...";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter username..."; ObjectID = "bdC-Uc-Qhs"; */
+"bdC-Uc-Qhs.placeholderString" = "輸入使用者名稱……";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cbA-c2-LlV"; */
+"cbA-c2-LlV.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "egF-LJ-khJ"; */
+"egF-LJ-khJ.title" = "密碼";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "eoS-s7-b3w"; */
+"eoS-s7-b3w.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "fOn-FV-2x8"; */
+"fOn-FV-2x8.title" = "確定";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "lT3-Bh-MnL"; */
+"lT3-Bh-MnL.title" = "註冊";
+
+/* Class = "NSTextFieldCell"; title = "Username"; ObjectID = "lo5-ei-wHM"; */
+"lo5-ei-wHM.title" = "使用者名稱";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter password..."; ObjectID = "nFA-uz-WjI"; */
+"nFA-uz-WjI.placeholderString" = "輸入密碼……";
+
+/* Class = "NSTextFieldCell"; title = "Register a public username "; ObjectID = "tje-EZ-ZPI"; */
+"tje-EZ-ZPI.title" = "註冊公開的使用者名稱";

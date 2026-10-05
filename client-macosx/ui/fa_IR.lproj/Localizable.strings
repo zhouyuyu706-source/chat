@@ -1,0 +1,335 @@
+
+"A network error occured during the export" = "یک خطای در ارتباط با شبکه  در زمان برون ریزی رخ داد.";
+
+/* Button Action */
+"Accept" = "پذیرش";
+
+/* Button Action */
+"Cancel" = "لغو";
+
+/* Welcome title */
+"Add a SIP account" = "افزودن یک حساب SIP";
+
+/* Contextual menu action */
+"Add to contacts" = "افزودن به مخاطبان";
+
+/* Backup error */
+"An error occured during the backup" = "خطایی هنگام پشتیبان گیری رخ داده است";
+
+/* Error shown to the user */
+"An error occured during the export" = "یک خطا  در زمان برون ریزی رخ داد.";
+
+/* Peer busy message */
+"appears to be busy." = "به نظر مشغول است.";
+
+/* Error audio permission */
+"Audio permission not granted" = "مجوز دسترسی صوتی داده نشده است";
+
+/* Backup account */
+"Backup your account" = "پشتیبان‌گیری از حساب شما";
+
+/* Contextual menu action */
+"Block contact" = "مسدودسازی مخاطب";
+
+/* Contextual menu action */
+"Remove conversation" = "حذف گفتگو";
+
+/* Remove account alert message */
+"By clicking \"OK\" you will remove this account on this device! This action can not be undone. Also, your registered name can be lost." = "با کلیک روی \"خب\"، این حساب را در این دستگاه حذف خواهید کرد! این عمل قابل بازگشت نیست. همچنین، نام ثبت‌شده شما می تواند از‌ دست رود.";
+
+/* File transfer canceled label */
+"Canceled" = "لغو شده";
+
+/* Contextual menu entry */
+"Stream file" = "جاری‌سازی فایل";
+
+/* Contextual menu action */
+"Clear conversation" = "پاک کردن گفتگو";
+
+/* No comment provided by engineer. */
+"Copy" = "کپی";
+
+/* Recording view explanation label */
+"Could not record message during call" = "ضبط پیام هنگام تماس ممکن نیست";
+
+/* Welcome title */
+"Create a new account" = "ایجاد یک حساب جدید";
+
+/* Create rendezvous title */
+"Create a rendezvous point" = "یک نقطه قرار ملاقات ایجاد کنید";
+
+/* Backup enter password */
+"Enter account password" = "گذرواژه حساب را وارد کنید";
+
+/* File transfer failed label */
+"Failed" = "انجام نشد";
+
+/* Error message shown to user when it is impossible to migrate account */
+"Failed to migrate your account. You can retry by pressing Ok or delete your account." = "انتقال حساب ناموفق بود. می‌توانید با فشردن دکمه خب دوباره سعی نمایید یا حساب کاربری خود را حذف کنید.";
+
+/* Text shown to user when an error occur at registration */
+"Failed to perform lookup" = "جستجو ناموفق بود";
+
+/* Text shown to the user */
+"ID: " = "شناسه:";
+
+/* link account title */
+"Import from backup" = "وارد کردن از پشتیبان";
+
+/* link account title */
+"Import from other device" = "وارد کردن از دستگاه دیگر";
+
+/* Incoming call from {Name} */
+"Incoming call from %@" = "تماس دریافتی از %@";
+
+/* Incoming message from {Name} */
+"Incoming message from %@" = "تماس ورودی از %@";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username" = "نام کاربری نامعتبر";
+
+/* Text shown to user when his username is invalid to be registered */
+"Invalid username." = "نام کاربری نامعتبر.";
+
+/* Allert message when no accounts are available */
+"Navigate to preferences to create a new account" = "هدایت به سمت تنظیمات جهت ساخت حساب جدید";
+
+/* Displayed as RingID when no accounts are available for selection */
+"No account available" = "حسابی موجود نیست";
+
+/* Text show to the user when password didn't match */
+"Password and confirmation mismatch." = "گذرواژه و تاییدیه‌اش همتا نیستند.";
+
+/* Indication for user */
+"Password is too short" = "گذرواژه خیلی کوتاه است";
+
+/* Indication for user */
+"Passwords don't match" = "گذرواژه‌ها یکسان نیستند";
+
+/* Contextual menu action */
+"Place audio call" = "قرار تماس صوتی بگذار";
+
+/* Contextual menu action */
+"Place video call" = "قرار تماس ویدیویی بگذار";
+
+/* Recording view explanation label */
+"Press to start recording" = "برای شروع ضبط فشار دهید";
+
+/* Record message title */
+"Record a message" = "پیامی ضبط کنید";
+
+/* Button Action */
+"Refuse" = "رد کردن";
+
+/* Text shown to the user */
+"Registered name: " = "نام ثبت‌شده:";
+
+/* Remove account alert title */
+"Remove account" = "حذف حساب";
+
+/* export account button title */
+"Select archive" = "انتخاب بایگانی";
+
+/* Send button title */
+"Send" = "ارسال";
+
+/* Notification message */
+"Send you a contact request" = "به شما درخواست ارتباط داده است";
+
+/* No comment provided by engineer. */
+"Share" = "هم‌رسانی";
+
+/* Contextual menu entry */
+"Share screen" = "همرسانی صفحه";
+
+/* Sign In */
+"Sign In" = "ورود";
+
+/* Record message title */
+"Stop recording" = "توقف ضبط";
+
+/* File transfer successful label */
+"Success" = "موفق";
+
+/* No comment provided by engineer. */
+"Text Actions" = "عمل‌های نوشتاری";
+
+/* Text shown to user when his username is available to be registered */
+"The entered username is available" = "نام کاربری وارد شده دردسترس است";
+
+/* Text shown to user when his username is already registered */
+"The entered username is not available" = "نام کاربری وارد شده در دسترس نیست";
+
+/* Error shown to the user */
+"The password you entered does not unlock this account" = "گذرواژه‌ای که وارد کردید قفل این حساب کاربری را باز نمی‌کند";
+
+/* Text shown to the user */
+"This account needs to be migrated" = "نیاز است که این حساب انتقال یابد.";
+
+/* Explanation label when user have just ID */
+"This is your ID. \nCopy and share it with your friends!" = "این شناسه شماست\n کپی کنید و آن را با دوستان خود به اشتراک بگذارید!";
+
+/* Explanation label when user have Jami username */
+"This is your Jami username. \nCopy and share it with your friends!" = "این نام کاربری Jami شماست.\nآن را کپی کنید و با دوستان خود به اشتراک بگذارید!";
+
+/* Title shown to user to concat with Pin */
+"To complete the processs, you need to open Jami on the new device and choose the option \"Link this device to an account\". Your pin is valid for 10 minutes." = "برای کامل کردن فرایند، باید جمی را روی دستگاه جدید باز کرده و  \"پیوند این دستگاه به یک حساب\" را انتخاب کنید. پین شما برای 10 دقیقه اعتبار دارد.";
+
+/* Text shown to the user */
+"To proceed with the migration, you need to enter a password that was used for this account." = "برای پیشبرد انتقال، باید گذرواژه‌ای را که برای این حساب استفاده شده، وارد کنید.";
+
+/* File transfer peer unjoinable label */
+"Unjoinable" = "غیر‌قابل‌اتصال";
+
+/* Error video permission */
+"Video permission not granted" = "مجوز دسترسی تصویری داده نشده است";
+
+/* Welcome title */
+"Welcome to Jami" = "به جمی خوش آمدید";
+
+/* Peer busy message */
+"Would you like to leave a message?" = "مایلید که پیامی بگذارید؟";
+
+/* Password button title */
+"Change password" = "تغییر گذرواژه";
+
+/* Password button title */
+"Create password" = "ایجاد گذرواژه";
+
+/* Device revocation title */
+"Revoke Device" = "ابطال دستگاه";
+
+/* Device revocation message */
+"Attention! This action could not be undone!" = "توجه! این کار قابل بازگشت نیست.";
+
+/* Device revocation error */
+"Device revocation failed. Please check your password and try again." = "ابطال دستگاه انجام نشد. لطفا گذرواژه خود را بررسی و دوباره امتحان کنید.";
+
+/* Device revocation error */
+"Device revocation failed" = "ابطال دستگاه ناموفق بود";
+
+/* Edit Sip Account Action*/
+"Done" = "انجام شد";
+
+/* Edit Sip Account Action */
+"Edit Account" = "ویرایش حساب‌کاربری";
+
+/* Conference action */
+"Minimize participant" = "به حداقل رساندن شرکت‌کنندگان";
+
+/* Conference action */
+"Maximize participant" = "حداکثر کردن شرکت‌کنندگان";
+
+/* Conference action */
+"Hangup" = "به صحبت تلفنی خاتمه دادن";
+
+/* Conference action */
+"Mute audio" = "قطع صدا";
+
+/* Conference action */
+"Set moderator" = "تعیین مدیر";
+
+/* Conference action */
+"Unmute audio" = "برقراری صدا";
+
+/* Conference action */
+"Unset moderator" = "لغو میدیریت";
+
+/* Conference name */
+"Me" = "من";
+
+/* Choose registered name for account */
+"Choose a username for your account" = "یک نام کاربری برای حساب خود انتخاب کنید";
+
+/* Choose registered name for rendezvous */
+"Choose a name for your rendezvous point" = "یک نام برای نقطه قرار ملاقات خود انتخاب کنید";
+
+/* search bar placeholder */
+"Search for new or existing contact" = "جستجو برای مخاطب جدید یا موجود";
+
+/* conference tooltip Minimize */
+"Minimize" = "کمینه کردن";
+
+/* conference tooltip Expand */
+"Expand" = "گسترش";
+
+/* conference tooltip mute Mute audio */
+"Mute audio" = "قطع صدا";
+
+/* conference tooltip mute Hangup */
+"Hangup" = "به صحبت تلفنی خاتمه دادن";
+
+/* conference tooltip mute Set moderator */
+"Set moderator" = "تعیین مدیر";
+
+/* conference state tooltip Audio muted */
+"Audio muted" = "بی‌صدا شده ‌است";
+
+/* conference state tooltip organiser */
+"Conference Organiser" = "برگزارکننده کنفرانس";
+
+/* conference state tooltip moderator */
+"Moderator" = "مدیر";
+
+/* drop files */
+"Drop files to send" = "فایل‌ها را برای ارسال رها کنید";
+
+/* Contextual menu for message */
+"Show in Finder" = "نمایش در جستجو‌گر";
+
+/* Contextual menu for message */
+"Open" = "باز کردن";
+
+/* Contextual menu for message */
+"Delete" = "حذف";
+
+/* Contextual menu for message */
+"Quick Look" = "نگاه سریع";
+
+/* Contextual menu for message */
+"Add to Photos Library" = "به کتابخانه عکس اضافه کنید";
+
+/* Contextual menu for message */
+"Resend" = "ارسال مجدد";
+
+/* In call status info */
+"Wants to talk to you" = "میخواهد با شما حرف بزند";
+
+/* In call status info */
+"Incoming audio call" = "تماس صوتی ورودی";
+
+/* In call status info */
+"Incoming video call" = "تماس تصویری ورودی";
+
+/* share button tooltip */
+"Stop screen sharing" = "توقف اشتراک‌گذاری صفحه";
+
+/* share button tooltip */
+"Stop file streaming" = "توقف جاری‌سازی فایل";
+
+/* share button tooltip */
+"Share" = "هم‌رسانی";
+
+/* Synchronization label for conversation {Name} */
+"We are waiting for %@ connects to synchronize the conversation." = "ما منتظر ارتباط %@ هستیم تا گفتگو را همگام‌سازی کنیم.";
+
+/* Incoming conversation request title */
+"Hello, \nWould you like to join the conversation?" = "سلام،\n آیا مایل به شرکت در این گفتگو هستید؟";
+
+/* Invitation request from {Name} */
+"%@ has sent you a request for a conversation." = "%@ درخواستی برای گفتگو با شما ارسال کرده است.";
+
+/* Synchronization explanation label */
+"You have accepted the conversation request." = "شما درخواست مکالمه را پذیرفته‌اید.";
+
+/* Send request to {Name} */
+"%@ is not in your contacts." = "%@ در مخاطبین شما نیست.";
+
+/* Send request explanation */
+"Send him/her a contact request to be able to exchange together." = "برای او درخواست ارتباط بفرستید تا بتواند با هم تبادل کنید.";
+
+/* Wait for request acceptance from {Name} */
+"%@ has not yet accepted your contact request." = "%@ هنوز درخواست ارتباط شما را قبول نکرده است.";
+
+/* Wait for request acceptance from {Name} explanation */
+"%@ must accept your contact request to answer you." = "%@ باید درخواست ارتباط شما را بپذیرد تا به شما پاسخ دهد.";
