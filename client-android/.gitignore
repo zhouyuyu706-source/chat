@@ -1,0 +1,10 @@
+/ring-daemon
+env.sh
+obj/
+android-toolchain-*/
+.idea/
+.DS_Store
+.gradle
+**/.settings
+config.mak
+ring-android/captures/

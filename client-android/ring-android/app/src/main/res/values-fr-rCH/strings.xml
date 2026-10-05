@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="description">Zova est un logiciel libre de communication universel qui respecte la vie privée et l\'intimité de ses utilisateurs.</string>
+  <!--About dialog-->
+  <!--RingActivity-->
+  <!--AB menus-->
+  <!--Sections-->
+  <!--Dialing Fragment-->
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <!--ContactList Fragment-->
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_incoming_call">Appel entrant</string>
+  <string name="notif_outgoing_call">Appel sortant</string>
+  <!--Call Fragment-->
+  <string name="ab_action_contact_add">Ajouter aux contacts</string>
+  <string name="hist_contact_added">Contact ajouté</string>
+  <string name="hist_invitation_received">Invitation reçue</string>
+  <!--Text messages-->
+  <string name="message_failed">Échec</string>
+  <!--MediaPreferenceFragment-->
+  <!--Ringtone activity-->
+  <!--Read contacts permission-->
+  <!--Write call log permission-->
+  <!--QRCode Scan-->
+  <!--Settings-->
+  <string name="clear_history">Effacer</string>
+  <!--Conversation-->
+  <string name="conversation_action_block_this">Bloquer le contact</string>
+  <!--Contacts-->
+  <string name="account_create_title">Créer un compte Zova</string>
+  <string name="wizard_next">Suivant</string>
+  <string name="wizard_skip">Passer</string>
+  <!--Account Summary-->
+  <string name="profile">Profil</string>
+  <string name="account">Compte</string>
+  <string name="link_new_device">Associer un nouvel appareil</string>
+  <string name="devices">Appareils liés</string>
+  <!--Share fragment-->
+  <string name="share_label">Partager</string>
+  <!--Pending contact requests-->
+  <string name="accept">Accepter</string>
+  <string name="refuse">Refuser</string>
+  <!--Send contact requests-->
+  <string name="send_request_button">Envoyer</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">Aucun contact bloqué</string>
+  <!--Smartlist-->
+  <string name="tv_contact_row_header">Contacts</string>
+  <!--File Transfer-->
+  <string name="menu_message_copy">Copier</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Conversations</string>
+  <string name="navigation_item_account">Compte</string>
+  <!--TV-->
+  <string name="tv_dialog_send">Envoyer</string>
+  <!--Wizard-->
+</resources>

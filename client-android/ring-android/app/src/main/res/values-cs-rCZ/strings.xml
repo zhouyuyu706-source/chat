@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="feedback_section">Zpětná vazba</string>
+  <string name="report"><u>Pošlete nám elektronický dopis</u></string>
+  <string name="section_license">Povolení</string>
+  <string name="sponsor_section">Zova je svobodný software, jejž vyvíjí a podporuje</string>
+  <string name="copyright_section">Copyright</string>
+  <string name="contribute_section">Přispět</string>
+  <string name="version_section">Verze</string>
+  <string name="no_email_app_installed">Nenalezena mailová aplikace, nějakou si nainstalujte, abyste nám poslali hlášení</string>
+  <string name="no_browser_app_installed">Nenalezen žádný program na  prohlížení internetových stránek. Nainstalujte jej pro zobrazení této stránky.</string>
+  <string name="email_chooser_title">Poslat zprávu pomocí…</string>
+  <string name="website_chooser_title">Zobrazit stránku pomocí...</string>
+  <string name="license">Tento program je poskytován tak, jak je, bez jakýchkoli záruk. Na podrobnosti se podívejte na znění licence <u>GNU General Public License ve verzi 3 nebo pozdější</u></string>
+  <string name="description">Zova je svobodný software určený k univerzální komunikaci, který respektuje svobody a práva uživatelů.</string>
+  <string name="credits">Zásluhy</string>
+  <string name="call_service_description">Tato služba je potřebná k tomu, aby vaše hovory mohly běžet na popředí. Je spuštěná jen během hovorů.</string>
+  <string name="data_transfer_service_description">Tato služba je potřebná k zobrazení neustálých oznámení během přenosů souborů. Je spuštěná jen během přenosů souborů.</string>
+  <!--About dialog-->
+  <string name="developed_by">Vyvíjeno</string>
+  <string name="designed_by">Navrženo</string>
+  <string name="ringtones_by">Vyzváněcí tóny od</string>
+  <!--RingActivity-->
+  <string name="error_no_network">Chybí připojení</string>
+  <string name="error_mobile_network_available_but_disabled">Povolte prosím v nastavení přístup k mobilním datům</string>
+  <!--AB menus-->
+  <string name="ab_action_chat">Textové zprávy</string>
+  <!--Sections-->
+  <string name="menu_item_contact_request">Žádosti o kontakt</string>
+  <string name="menu_item_accounts">Spravovat účty</string>
+  <string name="menu_item_account">Spravovat účet</string>
+  <string name="menu_item_settings">Nastavení</string>
+  <string name="menu_item_plugin_list">Nastavení zásuvných modulů</string>
+  <string name="menu_item_share">Sdílet můj účet</string>
+  <string name="menu_item_about">O Zova</string>
+  <!--Dialing Fragment-->
+  <string name="dial_number">Vytočit číslo</string>
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <plurals name="home_conferences_title">
+    <item quantity="one">%d Konverzace</item>
+    <item quantity="few">%d Konverzace</item>
+    <item quantity="many">%d konverzací</item>
+    <item quantity="other">%d konverzací</item>
+  </plurals>
+  <!--ContactList Fragment-->
+  <string name="searchbar_hint">Vyhledat jméno nebo telefonní číslo…</string>
+  <string name="choose_number">Zvolte číslo</string>
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_missed_incoming_call">Zmeškaný příchozí hovor</string>
+  <string name="notif_missed_outgoing_call">Nepřijatý odchozí hovor</string>
+  <string name="notif_incoming_call_title">Příchozí hovor od %1$s</string>
+  <string name="notif_incoming_call">Příchozí hovor</string>
+  <string name="notif_outgoing_call_title">Odchozí hovor k %1$s</string>
+  <string name="notif_outgoing_call">Odchozí hovor</string>
+  <string name="notif_current_call_title">Probíhající hovor s %1$s</string>
+  <string name="notif_current_call">Probíhající hovor</string>
+  <string name="notif_channel_call_in_progress">Probíhá hovor</string>
+  <string name="notif_channel_calls">Hovory</string>
+  <string name="notif_channel_missed_calls">Zmeškané hovory</string>
+  <string name="notif_channel_incoming_calls">Příchozí hovory</string>
+  <string name="notif_channel_messages">Zprávy</string>
+  <string name="notif_channel_requests">Žádosti</string>
+  <string name="notif_channel_file_transfer">Přenos souboru</string>
+  <string name="notif_channel_sync">Synchronizace dat</string>
+  <string name="notif_channel_background_service">Služba na pozadí</string>
+  <string name="notif_channel_background_service_descr">Umožňuje příjem hovorů a zpráv kdykoli.</string>
+  <string name="notif_group_calls">Hovory</string>
+  <string name="notif_background_service">Zova nyní běží na pozadí</string>
+  <string name="notif_mark_as_read">Označit jako přečtené</string>
+  <string name="notif_dismiss">Odmítnout</string>
+  <string name="notif_reply">Odpovědět</string>
+  <string name="notif_incoming_file_transfer_title">Příchozí soubor od %1$s</string>
+  <string name="notif_outgoing_file_transfer_title">Posílá se soubor %1$s</string>
+  <string name="notif_incoming_picture">Obrázek od %1$s</string>
+  <string name="notif_sync_title">Synchronizuji data…</string>
+  <string name="notif_location_title">Sdílení polohy s %1$s</string>
+  <string name="location_share_contact">%1$s s vámi sdílí polohu</string>
+  <string name="notif_location_multi_title">Sdílení polohy s %1$d kontakty</string>
+  <string name="notif_location_remaining">zbývá %1$d minut</string>
+  <string name="notif_location_action_stop">Přestat sdílet polohu</string>
+  <string name="location_share_action_start">Začít sdílet</string>
+  <string name="location_share_action_stop">Přestat sdílet</string>
+  <string name="location_share_about_title">Informace o mapě</string>
+  <!--Call Fragment-->
+  <string name="you_txt_prefix">Vy:</string>
+  <string name="action_call_hangup">Zavěsit</string>
+  <string name="action_call_maximize">Maximalizovat</string>
+  <string name="action_call_minimize">Minimalizovat</string>
+  <string name="action_call_mute">Ztlumit</string>
+  <string name="action_call_unmute">Zrušit ztlumení</string>
+  <string name="ongoing_call">Probíhající hovor</string>
+  <string name="hist_in_call">Příchozí hovor %1$s</string>
+  <string name="hist_out_call">Odchozí hovor %1$s</string>
+  <string name="start_error_title">Nelze spustit Zova!</string>
+  <string name="start_error_mic_required">Aby Zova správně pracoval, vyžaduje přístup k mikrofonu.</string>
+  <string name="action_call_accept">Přijmout</string>
+  <string name="action_call_hold_accept">Přidržet a přijmout hovor</string>
+  <string name="action_call_end_accept">Ukončit a přijmout hovor</string>
+  <string name="action_call_decline">Odmítnout</string>
+  <string name="action_call_mic_mute">Ztlumit mikrofon</string>
+  <string name="action_load_plugin">Načíst zásuvný modul</string>
+  <string name="ab_action_speakerphone">Zapnout reproduktor</string>
+  <string name="ab_action_contact_add">Přidat do kontaktů</string>
+  <string name="ab_action_contact_add_question">Přidat do kontaktů?</string>
+  <string name="hist_contact_added">Spojení přidáno</string>
+  <string name="hist_invitation_received">Pozvání přijato</string>
+  <string name="ab_action_audio_call">Audio hovor</string>
+  <string name="ab_action_video_call">Video hovor</string>
+  <string name="ab_action_change_screen_orientation">Změnit natočení obrazovky</string>
+  <string name="share_via">Sdílet přes</string>
+  <string name="write_a_message">Napsat zprávu</string>
+  <string name="scan_qr">Skenovat kód QR</string>
+  <string name="qr_code">Kód QR</string>
+  <string name="ab_action_flipcamera">Otočit kameru</string>
+  <string name="ab_action_hidepreview">Skrýt náhled</string>
+  <!--Text messages-->
+  <string name="send_message">Odeslat zprávu</string>
+  <string name="message_sending">Odesílám zprávu…</string>
+  <string name="message_failed">Hovor selhal</string>
+  <string name="time_just_now">Právě teď</string>
+  <string name="send_file">Poslat soubor</string>
+  <string name="hist_file_sent">Soubor odeslán</string>
+  <string name="hist_file_received">Soubor přijat</string>
+  <string name="conversation_send_audio">Nahrávat zvukový klip</string>
+  <string name="conversation_send_video">Nahrávat video klip</string>
+  <string name="conversation_share_location">Sdílet polohu</string>
+  <!--MediaPreferenceFragment-->
+  <string name="permission_dialog_camera_title">Povolení ke kameře</string>
+  <string name="permission_dialog_camera_message">Video konverzace vyžadují povolení ke kameře. Prosím zvažte jeho povolení.</string>
+  <!--Ringtone activity-->
+  <string name="ringtone_error_title">Chyba</string>
+  <string name="ringtone_error_format_not_supported">Tento formát je nepodporovaný.</string>
+  <string name="ringtone_error_size_too_big">Tento soubor je příliš velký. Největší velikost je %1$dkB.</string>
+  <string name="ringtone_custom_prompt">Nastavit vlastní vyzváněcí tón</string>
+  <string name="ringtone_custom_label">Vlastní</string>
+  <string name="ringtone_jami_tones">Tóny Zova</string>
+  <!--Read contacts permission-->
+  <string name="permission_dialog_read_contacts_message">Pro tuto funkci Zova vyžaduje povolení „Číst kontakty“. Povolte jej prosím.</string>
+  <!--Write call log permission-->
+  <string name="permission_dialog_write_call_log_message">Pro tuto funkci Zova vyžaduje povolení „Zapisovat záznam hovorů“. Povolte jej prosím.</string>
+  <!--QRCode Scan-->
+  <string name="scan_qr_account_message">Oskenujte QR kód účtu, který chcete přidat.</string>
+  <string name="title_activity_qrcode">Sdílet můj účet</string>
+  <string name="error_scan_no_camera_permissions">Skener kódů QR potřebuje přístup ke kameře</string>
+  <string name="tab_code">Můj kód</string>
+  <string name="tab_scan">Skenovat kód</string>
+  <!--Settings-->
+  <string name="clear_history_dialog_title">Vymazat historii?</string>
+  <string name="clear_history_dialog_message">Tento krok nelze vrátit zpět.</string>
+  <string name="clear_history_completed">Historie byla vymazána.</string>
+  <string name="clear_history">Vyprázdnit</string>
+  <!--Conversation-->
+  <string name="conversation_details">Podrobnosti spojení</string>
+  <string name="conversation_action_delete_this">Odstranit tuto konverzaci</string>
+  <string name="conversation_action_delete_this_title">Odstranit tuto konverzaci?</string>
+  <string name="conversation_action_delete_this_message">Tento krok nelze vrátit zpět.</string>
+  <string name="conversation_action_history_clear">Vymazat historii</string>
+  <string name="conversation_action_history_clear_title">Vymazat konverzační historii?</string>
+  <string name="conversation_action_history_clear_message">Toto s konečnou platností vymaže konverzační historii.</string>
+  <string name="conversation_action_remove_this">Smazat kontakt</string>
+  <string name="conversation_action_remove_this_title">Smazat toto spojení?</string>
+  <string name="conversation_action_remove_this_message">Toto smaže kontakt a s konečnou platností vymaže konverzační historii.</string>
+  <string name="conversation_action_copy_peer_number">Kopírovat číslo</string>
+  <string name="conversation_action_copied_peer_number_clipboard">%1$s zkopírováno do schránky</string>
+  <string name="conversation_action_select_peer_number">Vyberte číslo</string>
+  <string name="conversation_action_block_this">Blokovat spojení</string>
+  <string name="conversation_action_go_to_call">Vrátit se k probíhajícímu hovoru</string>
+  <string name="conversation_open_file_error">Nebyla nalezena žádná aplikace schopná otevřít tento typ souboru</string>
+  <string name="clip_contact_uri">Adresa spojení</string>
+  <string name="block_contact_dialog_title">Blokovat %1$s?</string>
+  <string name="block_contact_dialog_message">%1$s se s vámi nebude schopen spojit, dokud jej neodblokujete.</string>
+  <string name="block_contact_completed">%1$s byl zablokován.</string>
+  <string name="conversation_contact_is_typing">Kontakt píše…</string>
+  <!--Contacts-->
+  <string name="add_call_contact_number_to_contacts">Přidat %1$s?</string>
+  <string name="prompt_new_password">Nové heslo</string>
+  <string name="prompt_new_password_optional">Nové heslo (volitelné)</string>
+  <string name="prompt_new_password_repeat">Zopakujte nové heslo</string>
+  <string name="account_create_title">Vytvořit účet Zova</string>
+  <string name="prompt_new_username">Zadejte nové uživatelské jméno</string>
+  <string name="prompt_hint_username">Uživatelské jméno</string>
+  <string name="help_password_choose">K ochraně účtu Zova si zvolte silné heslo, které si dovedete zapamatovat.</string>
+  <string name="help_password_enter">Zadejte hlavní heslo ke svému účtu Zova.</string>
+  <string name="help_server_enter">Zadejte adresu URL správcovského serveru.</string>
+  <string name="help_pin_enter">Zadejte PIN z jiného nastaveného účtu Zova. Abyste PIN získali, použijte volbu „exportovat účet Zova“.</string>
+  <string name="wizard_next">Další</string>
+  <string name="wizard_back">Zpět</string>
+  <string name="wizard_skip">Přeskočit</string>
+  <!--Account Summary-->
+  <string name="profile">Profil</string>
+  <string name="profile_name">Název profilu</string>
+  <string name="profile_message_warning">Váš profil je sdílen jen s vašimi kontakty</string>
+  <string name="open_the_gallery">Otevřít galerii</string>
+  <string name="take_a_photo">Pořídit fotku</string>
+  <string name="profile_name_hint">Zadejte své jméno</string>
+  <string name="registered_name">Registrované jméno</string>
+  <string name="identity">Totožnost</string>
+  <string name="account">Účet</string>
+  <string name="link_new_device">Připojit nové zařízení</string>
+  <string name="devices">Připojená zařízení</string>
+  <!--Share fragment-->
+  <string name="share_message">Skenovat tento kód s Zova</string>
+  <string name="share_message_no_account">Vyberte, prosím, účet ke sdílení.</string>
+  <string name="share_your_account_information">Sdílet mé kontaktní informace</string>
+  <string name="share_label">Sdílet</string>
+  <string name="generic_error_migration">Chyba</string>
+  <string name="generic_error_migration_message">Při převádění došlo k chybě</string>
+  <string name="title_share_with">Sdílet s…</string>
+  <!--Pending contact requests-->
+  <string name="accept">Přijmout</string>
+  <string name="refuse">Odmítnout</string>
+  <string name="block">Blokovat</string>
+  <string name="contact_request_title">Nová žádost o kontakt</string>
+  <string name="contact_request_account">Pro %1$s</string>
+  <string name="no_requests">Nemáte žádné žádosti o kontakt</string>
+  <string name="message_contact_not_trusted_yet">%sještě není ve vašich kontaktech.\nPřijmete anebo odmítnete tuto žádost o kontakt?</string>
+  <string name="message_contact_not_trusted">%snení ve vašich kontaktech.\nPřidat nové spojení?</string>
+  <!--Send contact requests-->
+  <string name="send_request_button">Odeslat</string>
+  <string name="send_request_title">Poslat žádost o kontakt</string>
+  <string name="send_request_msg">Abyste mohli komunikovat s tímto uživatelem, musíte mu odeslat žádost o kontakt. Do doby, než váš kontakt žádost přijme, mu můžete posílat zprávy, ale on nebude moci odpovídat.</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">Žádné blokované kontakty</string>
+  <!--Smartlist-->
+  <string name="no_contact_request">Neposlána žádná žádost o kontakt</string>
+  <string name="conversation_placeholder">Zatím nemáte žádné konverzace</string>
+  <string name="contact_request_sent">Poslána žádost o kontakt</string>
+  <string name="start_conversation">Začněte konverzaci</string>
+  <string name="search_results">Výsledky hledání</string>
+  <string name="tv_contact_row_header">Kontakty</string>
+  <string name="gallery_error_title">Nenalezena žádná aplikace pro galerii</string>
+  <string name="gallery_error_message">Na zařízení nebyla nalezena žádná aplikace na otevření galerie</string>
+  <string name="generic_error">Vyskytla se neznámá chyba</string>
+  <!--File Transfer-->
+  <string name="invalid_file">Neplatný soubor</string>
+  <string name="not_able_to_write_file">Nelze zapsat soubor</string>
+  <string name="file_transfer_status_created">Začíná se přenos</string>
+  <string name="file_transfer_status_unsupported">nepodporováno</string>
+  <string name="file_transfer_status_wait_peer_acceptance">čeká na přijetí protějšku</string>
+  <string name="file_transfer_status_wait_host_acceptance">čeká se na přijetí hostitele</string>
+  <string name="file_transfer_status_ongoing">probíhá</string>
+  <string name="file_transfer_status_finished">dokončeno</string>
+  <string name="file_transfer_status_closed_by_host">zavřeno hostitelem</string>
+  <string name="file_transfer_status_closed_by_peer">zavřeno protějškem</string>
+  <string name="file_transfer_status_invalid_pathname">neplatný název cesty</string>
+  <string name="file_transfer_status_unjoinable_peer">nepřipojitelný protějšek</string>
+  <string name="file_transfer_status_cancelled">zrušeno</string>
+  <string name="file_transfer_status_error">selhalo kvůli chybě</string>
+  <string name="file_transfer_status_timed_out">vypršel časový limit</string>
+  <string name="file_saved_in">Soubor uložen do %s</string>
+  <string name="file_saved_successfully">Soubor byl úspěšně uložen</string>
+  <string name="no_space_left_on_device">Na zařízení nezbylo žádné místo</string>
+  <string name="title_media_viewer">Prohlížeč záznamů</string>
+  <string name="menu_file_open">Otevřít soubor</string>
+  <string name="menu_file_download">Stáhnout soubor</string>
+  <string name="menu_file_save">Uložit soubor</string>
+  <string name="menu_file_delete">Smazat soubor</string>
+  <string name="menu_file_share">Sdílet soubor</string>
+  <string name="menu_message_copy">Zkopírovat</string>
+  <string name="menu_message_delete">Smazat zprávu</string>
+  <string name="menu_message_cancel">Zrušit zprávu</string>
+  <string name="menu_delete">Odstranit</string>
+  <string name="pref_darkTheme_title">Tmavý motiv</string>
+  <string name="pref_darkTheme_summary">Vždy povolit tmavý motiv namísto použití systémového nastavení</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Konverzace</string>
+  <string name="navigation_item_contact_request">Žádosti o kontakt</string>
+  <string name="navigation_item_account">Účet</string>
+  <string name="search_results_public_directory">Veřejný adresář</string>
+  <!--TV-->
+  <string name="tv_send_audio_dialog_message">Poslat zvukovou zprávu?</string>
+  <string name="tv_send_image_dialog_message">Poslat obrázek?</string>
+  <string name="tv_send_video_dialog_message">Poslat video?</string>
+  <string name="tv_media_preview">Náhled</string>
+  <string name="tv_audio_play">Přehrát</string>
+  <string name="tv_audio_pause">Pozastavit</string>
+  <string name="tv_dialog_send">Odeslat</string>
+  <string name="tv_audio_recording">Nahrávám…</string>
+  <string name="tv_send_text">Poslat text</string>
+  <string name="tv_send_audio">Poslat zvuk</string>
+  <string name="tv_send_video">Poslat média</string>
+  <string name="conversation_input_speech_hint">Řekněte něco…</string>
+  <!--Wizard-->
+  <string name="wizard_status_recommended">Doporučeno</string>
+  <string name="wizard_status_optional">Volitelné</string>
+  <string name="wizard_status_required">Vyžadováno</string>
+  <string name="wizard_username_info">Zvolte si uživatelské jméno ke svému účtu</string>
+  <string name="wizard_username_button">Zvolte si uživatelské jméno</string>
+  <string name="wizard_username_skip">Přeskočit volbu uživatelského jména</string>
+  <string name="wizard_password_info">Heslo k účtu</string>
+  <string name="wizard_password_placeholder">Zvolte si heslo k šifrování klíče účtu na tomto zařízení</string>
+  <string name="wizard_password_button">Zvolte si heslo</string>
+  <string name="wizard_password_skip">Vytvořit účet</string>
+  <string name="wizard_password_switch">Šifrovat účet heslem</string>
+  <string name="wizard_password_warning">Vezměte na vědomí, že heslo nelze obnovit</string>
+  <string name="wizard_profile_info">Profil je sdílen jen s kontakty</string>
+  <string name="wizard_profile_button">Uložit profil</string>
+  <string name="wizard_profile_skip">Odložit na později</string>
+  <string name="fab_path_choose">Vybrat jiný soubor</string>
+</resources>

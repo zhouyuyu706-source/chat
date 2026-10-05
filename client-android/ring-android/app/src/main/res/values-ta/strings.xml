@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="feedback_section">பின்னூட்டம்</string>
+  <string name="section_license">உரிமம்</string>
+  <string name="copyright_section">பதிப்புரிமை</string>
+  <string name="contribute_section">பங்களிப்பு</string>
+  <string name="version_section">பதிப்பு</string>
+  <!--About dialog-->
+  <!--RingActivity-->
+  <!--AB menus-->
+  <!--Sections-->
+  <!--Dialing Fragment-->
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <!--ContactList Fragment-->
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <!--Call Fragment-->
+  <!--Text messages-->
+  <!--MediaPreferenceFragment-->
+  <!--Ringtone activity-->
+  <!--Read contacts permission-->
+  <!--Write call log permission-->
+  <!--QRCode Scan-->
+  <!--Settings-->
+  <!--Conversation-->
+  <!--Contacts-->
+  <!--Account Summary-->
+  <!--Share fragment-->
+  <!--Pending contact requests-->
+  <!--Send contact requests-->
+  <!--Blacklist-->
+  <!--Smartlist-->
+  <!--File Transfer-->
+  <!--Bottom Navigation-->
+  <!--TV-->
+  <!--Wizard-->
+</resources>

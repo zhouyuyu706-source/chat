@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="feedback_section">Feedback</string>
+  <string name="report"><u>Inviaci un\'email</u></string>
+  <string name="section_license">Licenza</string>
+  <string name="sponsor_section">Zova è un software gratuito sviluppato e supportato da</string>
+  <string name="copyright_section">Copyright</string>
+  <string name="contribute_section">Contribuisci</string>
+  <string name="version_section">Versione</string>
+  <string name="no_email_app_installed">Applicazione email non trovata, installane una per inviarci un rapporto</string>
+  <string name="no_browser_app_installed">Browser web non trovato, installane uno per vedere questa pagina</string>
+  <string name="email_chooser_title">Inviaci un\'email usando...</string>
+  <string name="website_chooser_title">Visita il sito usando...</string>
+  <string name="license">Questo software è fornito \"così com\'è\", senza garanzie di alcun tipo. Per dettagli, vedi <u>GNU General Public License versione 3 o successiva</u></string>
+  <string name="description">Zova è un software gratuito per la comunicazione universale che rispetta le libertà e la privacy dei suoi utenti.</string>
+  <string name="credits">Crediti</string>
+  <string name="pip_title">Conferenza Zova</string>
+  <string name="call_service_description">Questo servizio è necessario per mantenere le chiamate in esecuzione in primo piano. Funziona solo durante le chiamate.</string>
+  <string name="data_transfer_service_description">Questo servizio è necessario per visualizzare notifiche persistenti durante i trasferimenti di file. Funziona solo durante i trasferimenti di file.</string>
+  <!--About dialog-->
+  <string name="developed_by">Sviluppato da</string>
+  <string name="designed_by">Progettato da</string>
+  <string name="ringtones_by">Suonerie di</string>
+  <!--RingActivity-->
+  <string name="error_no_network">Connessione di rete assente</string>
+  <string name="error_account_offline">L\'account è offline</string>
+  <string name="error_mobile_network_available_but_disabled">Consenti l\'acceso alla rete cellulare dalla schermata impostazioni.</string>
+  <!--AB menus-->
+  <string name="ab_action_chat">Messaggio di testo</string>
+  <!--Sections-->
+  <string name="menu_item_contact_request">Richieste di contatto</string>
+  <string name="menu_item_accounts">Gestisci account</string>
+  <string name="menu_item_account">Gestisci account</string>
+  <string name="menu_item_settings">Impostazioni</string>
+  <string name="menu_item_plugin_list">Impostazioni plugin</string>
+  <string name="menu_item_share">Condividi il mio contatto</string>
+  <string name="menu_item_about">Informazioni su Zova</string>
+  <!--Dialing Fragment-->
+  <string name="dial_number">Componi un numero</string>
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <plurals name="home_conferences_title">
+    <item quantity="one">%d Conversazione</item>
+    <item quantity="other">%d Conversazioni</item>
+  </plurals>
+  <!--ContactList Fragment-->
+  <string name="searchbar_hint">Cerca nome o numero di telefono…</string>
+  <string name="choose_number">Scegli un numero</string>
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_missed_incoming_call">Chiamata in arrivo persa</string>
+  <string name="notif_missed_outgoing_call">Chiamata in uscita persa</string>
+  <string name="notif_incoming_call_title">Chiamata in arrivo da %1$s</string>
+  <string name="notif_incoming_call">Chiamata in arrivo</string>
+  <string name="notif_outgoing_call_title">Chiamata in uscita per %1$s</string>
+  <string name="notif_outgoing_call">Chiamata in uscita</string>
+  <string name="notif_current_call_title">Chiamata in corso con %1$s</string>
+  <string name="notif_current_call">Chiamata in corso</string>
+  <string name="notif_channel_call_in_progress">Chiamata in corso</string>
+  <string name="notif_channel_calls">Chiamate</string>
+  <string name="notif_channel_missed_calls">Chiamate perse</string>
+  <string name="notif_channel_incoming_calls">Chiamate in arrivo</string>
+  <string name="notif_channel_messages">Messaggi</string>
+  <string name="notif_channel_requests">Richieste</string>
+  <string name="notif_channel_file_transfer">Trasferimento file</string>
+  <string name="notif_channel_sync">Sincronizzazione dati</string>
+  <string name="notif_channel_background_service">Servizio in background</string>
+  <string name="notif_channel_background_service_descr">Consenti sempre di ricevere chiamate e messaggi.</string>
+  <string name="notif_group_calls">Chiamate</string>
+  <string name="notif_background_service">Zova è attualmente in esecuzione in background</string>
+  <string name="notif_mark_as_read">Segna come letto</string>
+  <string name="notif_dismiss">Ignora</string>
+  <string name="notif_reply">Rispondi</string>
+  <string name="notif_incoming_file_transfer_title">File in arrivo da %1$s</string>
+  <string name="notif_outgoing_file_transfer_title">Invio file a %1$s</string>
+  <string name="notif_incoming_picture">Foto da %1$s</string>
+  <string name="notif_sync_title">Sincronizzazione dati…</string>
+  <string name="notif_location_title">Condivisione della posizione con %1$s</string>
+  <string name="location_share_contact">%1$s sta condividendo la posizione con te. </string>
+  <string name="notif_location_multi_title">Condivisione posizione con %1$d contatti</string>
+  <string name="notif_location_remaining">%1$d minuti rimanenti</string>
+  <string name="notif_location_action_stop">Ferma condivisione della posizione</string>
+  <string name="location_share_action_start">Inizia condivisione</string>
+  <string name="location_share_action_stop">Ferma condivisione</string>
+  <string name="location_share_about_title">Informazioni mappa</string>
+  <!--Call Fragment-->
+  <string name="you_txt_prefix">Tu:</string>
+  <string name="action_call_hangup">Riattacca</string>
+  <string name="action_call_maximize">Massimizza</string>
+  <string name="action_call_minimize">Riduci</string>
+  <string name="action_call_mute">Disattiva</string>
+  <string name="action_call_unmute">Attiva</string>
+  <string name="ongoing_call">Chiamata in corso</string>
+  <string name="hist_in_call">Chiamata in arrivo di %1$s</string>
+  <string name="hist_out_call">Chiamata in uscita di %1$s</string>
+  <string name="start_error_title">Zova non si avvia!</string>
+  <string name="start_error_mic_required">Zova deve usare il microfono per funzionare.</string>
+  <string name="action_call_accept">Rispondi</string>
+  <string name="action_call_hold_accept">Metti in attesa e rispondi alla chiamata</string>
+  <string name="action_call_end_accept">Termina e rispondi alla chiamata</string>
+  <string name="action_call_decline">Rifiuta</string>
+  <string name="action_call_mic_mute">Disattiva microfono</string>
+  <string name="action_load_plugin">Carica plugin</string>
+  <string name="ab_action_speakerphone">Attiva gli altoparlanti</string>
+  <string name="ab_action_contact_add">Aggiungi ai contatti</string>
+  <string name="ab_action_contact_add_question">Aggiungere ai contatti?</string>
+  <string name="hist_contact_invited">Contatto invitato</string>
+  <string name="hist_contact_added">Contatto aggiunto</string>
+  <string name="hist_contact_left">Contatto lasciato</string>
+  <string name="hist_contact_banned">Contatto bloccato</string>
+  <string name="hist_invitation_received">Invito ricevuto</string>
+  <string name="ab_action_audio_call">Chiamata vocale</string>
+  <string name="ab_action_video_call">Videochiamata</string>
+  <string name="ab_action_change_screen_orientation">Cambia orientamento dello schermo</string>
+  <string name="share_via">Condividi tramite</string>
+  <string name="write_a_message">Scrivi un messaggio</string>
+  <string name="scan_qr">Scansiona Codice QR</string>
+  <string name="qr_code">Codice QR</string>
+  <string name="ab_action_flipcamera">Cambia fotocamera</string>
+  <string name="ab_action_hidepreview">Nascondi anteprima</string>
+  <string name="remote_recording">%s in registrazione…</string>
+  <!--Text messages-->
+  <string name="send_message">Invia messaggio</string>
+  <string name="message_sending">Invio messaggio in corso…</string>
+  <string name="message_failed">Errore</string>
+  <string name="time_just_now">Ora</string>
+  <string name="send_file">Invia file</string>
+  <string name="hist_file_sent">File inviato</string>
+  <string name="hist_file_received">File ricevuto</string>
+  <string name="conversation_send_audio">Registra messaggio vocale</string>
+  <string name="conversation_send_video">Registra videomessaggio</string>
+  <string name="conversation_share_location">Condividi posizione</string>
+  <!--MediaPreferenceFragment-->
+  <string name="permission_dialog_camera_title">Permesso fotocamera</string>
+  <string name="permission_dialog_camera_message">Le videochiamate richiedono il permesso di usare la fotocamera per funzionare.</string>
+  <!--Ringtone activity-->
+  <string name="ringtone_error_title">Errore</string>
+  <string name="ringtone_error_format_not_supported">Questo formato non è supportato.</string>
+  <string name="ringtone_error_size_too_big">Questo file è troppo grande. La dimensione massima è %1$dkB.</string>
+  <string name="ringtone_custom_prompt">Seleziona una suoneria personalizzata</string>
+  <string name="ringtone_custom_label">Personalizzata</string>
+  <string name="ringtone_jami_tones">Suonerie Zova</string>
+  <!--Read contacts permission-->
+  <string name="permission_dialog_read_contacts_message">Zova ha bisogno dell\'autorizzazione \"Lettura contatti\" per attivare questa funzionalità. Per favore concedila.</string>
+  <!--Write call log permission-->
+  <string name="permission_dialog_write_call_log_message">Zova ha bisogno dell\'autorizzazione \"Scrittura del registro chiamate\" per attivare questa funzionalità. Per favore concedila.</string>
+  <!--QRCode Scan-->
+  <string name="scan_qr_account_message">Scansiona il QR Code del profilo che desideri aggiungere.</string>
+  <string name="title_activity_qrcode">Condividi il mio contatto</string>
+  <string name="error_scan_no_camera_permissions">Lo scanner QR richiede il permesso di usare la fotocamera per funzionare</string>
+  <string name="tab_code">Il mio Codice</string>
+  <string name="tab_scan">Scansiona Codice</string>
+  <!--Settings-->
+  <string name="clear_history_dialog_title">Eliminare le conversazioni?</string>
+  <string name="clear_history_dialog_message">Questa azione è irreversibile.</string>
+  <string name="clear_history_completed">Conversazioni eliminate.</string>
+  <string name="clear_history">Cancella</string>
+  <!--Conversation-->
+  <string name="conversation_details">Dettagli del contatto</string>
+  <string name="conversation_action_delete_this">Cancella questa conversazione</string>
+  <string name="conversation_action_delete_this_title">Cancellare questa conversazione ?</string>
+  <string name="conversation_action_delete_this_message">Questa azione è irreversibile.</string>
+  <string name="conversation_action_history_clear">Cancella cronologia</string>
+  <string name="conversation_action_history_clear_title">Cancellare la cronologia della conversazione?</string>
+  <string name="conversation_action_history_clear_message">Questo cancellerà definitivamente la cronologia della conversazione.</string>
+  <string name="conversation_action_remove_this">Elimina contatto</string>
+  <string name="conversation_action_remove_this_title">Eliminare questo contatto?</string>
+  <string name="conversation_action_remove_this_message">Questo eliminerà il contatto e cancellerà definitivamente la cronologia della conversazione.</string>
+  <string name="conversation_action_copy_peer_number">Copia numero</string>
+  <string name="conversation_action_copied_peer_number_clipboard">%1$s copiato negli appunti</string>
+  <string name="conversation_action_select_peer_number">Scegli un numero</string>
+  <string name="conversation_action_block_this">Blocca contatto</string>
+  <string name="conversation_action_go_to_call">Torna alla chiamata in corso</string>
+  <string name="conversation_open_file_error">Non c\'è nessuna applicazione installata in grado di aprire questo tipo di file.</string>
+  <string name="clip_contact_uri">Indirizzo contatto</string>
+  <string name="block_contact_dialog_title">Bloccare %1$s?</string>
+  <string name="block_contact_dialog_message">%1$s non sarà in grado di contattarti finché non lo sblocchi.</string>
+  <string name="block_contact_completed">%1$s è stato bloccato.</string>
+  <string name="conversation_contact_is_typing">Il contatto sta scrivendo…</string>
+  <string name="conversation_info_contact_you">Tu</string>
+  <string name="conversation_members">Membri</string>
+  <string name="conversation_preference_color">Colore della conversazione</string>
+  <string name="conversation_preference_emoji">Emoji conversazione</string>
+  <string name="conversation_type_contact">Contatto Zova</string>
+  <string name="conversation_type_private">Gruppo privato</string>
+  <string name="conversation_type_group">Gruppo</string>
+  <!--Contacts-->
+  <string name="add_call_contact_number_to_contacts">Aggiungi %1$s?</string>
+  <string name="prompt_new_password">Nuova password</string>
+  <string name="prompt_new_password_optional">Nuova password (opzionale)</string>
+  <string name="prompt_new_password_repeat">Ripeti la nuova password</string>
+  <string name="account_create_title">Crea un account Zova</string>
+  <string name="prompt_new_username">Inserire il nuovo nome utente</string>
+  <string name="prompt_hint_username">Nome utente</string>
+  <string name="help_password_choose">Scegli una password sicura che ricorderai per proteggere il tuo account Zova.</string>
+  <string name="help_password_enter">Inserisci la password del tuo account principale Zova.</string>
+  <string name="help_server_enter">Inserire l\'URL del server di gestione.</string>
+  <string name="help_pin_enter">Inserire il PIN da un altro account Zova configurato. Utilizzare la funzione \"Esporta account Zova\" per ottenere un PIN.</string>
+  <string name="wizard_next">Seguente</string>
+  <string name="wizard_back">Indietro</string>
+  <string name="wizard_skip">Salta</string>
+  <!--Account Summary-->
+  <string name="profile">Profilo</string>
+  <string name="profile_name">Nome del profilo</string>
+  <string name="profile_message_warning">Il tuo profilo è condiviso solo con i tuoi contatti</string>
+  <string name="open_the_gallery">Apri la galleria</string>
+  <string name="take_a_photo">Scatta una foto</string>
+  <string name="profile_name_hint">Inserisci il tuo nome</string>
+  <string name="registered_name">Nome registrato</string>
+  <string name="no_registered_name">Nessun nome registrato</string>
+  <string name="identity">Identità</string>
+  <string name="account">Account</string>
+  <string name="link_new_device">Collega un nuovo dispositivo</string>
+  <string name="devices">Dispositivi collegati</string>
+  <string name="total_devices">Tutti i dispositivi: </string>
+  <!--Share fragment-->
+  <string name="share_message">Scansiona questo codice con Zova</string>
+  <string name="share_message_no_account">Per favore seleziona un account da condividere.</string>
+  <string name="share_your_account_information">Condividi le mie informazioni di contatto</string>
+  <string name="share_label">Condividi</string>
+  <string name="generic_error_migration">Errore</string>
+  <string name="generic_error_migration_message">Si è verificato un errore durante il trasferimento</string>
+  <string name="title_share_with">Condividi con…</string>
+  <!--Pending contact requests-->
+  <string name="accept">Accetta</string>
+  <string name="refuse">Rifiuta</string>
+  <string name="block">Blocca</string>
+  <string name="contact_request_title">Nuova richiesta di contatto</string>
+  <string name="contact_request_msg">Hai %1$d richieste di contatto</string>
+  <string name="contact_request_account">Per %1$s</string>
+  <string name="no_requests">Non hai richieste di contatto</string>
+  <string name="message_contact_not_trusted_yet">%s non è ancora nei tuoi contatti.\nAccetti o rifiuti questa richiesta di contatto?</string>
+  <string name="message_contact_not_trusted">%s non è nei tuoi contatti.\nAggiungere un nuovo contatto?</string>
+  <!--Send contact requests-->
+  <string name="send_request_button">Invia</string>
+  <string name="send_request_title">Invia una richiesta di contatto</string>
+  <string name="send_request_msg">È necessario inviare una richiesta di contatto per comunicare con questo utente. Finché il tuo contatto non ha accettato la richiesta, puoi inviare messaggi ma non sarà in grado di rispondere.</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">Nessun contatto bloccato</string>
+  <!--Smartlist-->
+  <string name="no_contact_request">Nessuna richiesta di contatto inviata</string>
+  <string name="conversation_placeholder">Non hai ancora conversazioni</string>
+  <string name="contact_request_sent">Richiesta di contatto inviata</string>
+  <string name="start_conversation">Nuova conversazione</string>
+  <string name="search_results">Risultati della ricerca</string>
+  <string name="tv_contact_row_header">Contatti</string>
+  <string name="gallery_error_title">Nessuna app Galleria trovata</string>
+  <string name="gallery_error_message">Nessuna applicazione trovata sul dispositivo per aprire la galleria</string>
+  <string name="generic_error">Si è verificato un errore sconosciuto</string>
+  <!--File Transfer-->
+  <string name="invalid_file">File non valido</string>
+  <string name="not_able_to_write_file">Impossibile scrivere il file</string>
+  <string name="file_transfer_status_created">inizializzazione trasferimento</string>
+  <string name="file_transfer_status_unsupported">non supportato</string>
+  <string name="file_transfer_status_wait_peer_acceptance">in attesa di accettazione</string>
+  <string name="file_transfer_status_wait_host_acceptance">in attesa di accettazione</string>
+  <string name="file_transfer_status_ongoing">in corso</string>
+  <string name="file_transfer_status_finished">finito</string>
+  <string name="file_transfer_status_closed_by_host">chiuso dal dispositivo</string>
+  <string name="file_transfer_status_closed_by_peer">chiuso dall\'interlocutore</string>
+  <string name="file_transfer_status_invalid_pathname">percorso non valido</string>
+  <string name="file_transfer_status_unjoinable_peer">utente irraggiungibile</string>
+  <string name="file_transfer_status_cancelled">annullato</string>
+  <string name="file_transfer_status_error">fallito a causa di un errore</string>
+  <string name="file_transfer_status_timed_out">tempo scaduto</string>
+  <string name="file_saved_in">File salvato in %s</string>
+  <string name="file_saved_successfully">File salvato con successo</string>
+  <string name="file_download">Scarica</string>
+  <string name="no_space_left_on_device">Spazio esaurito sul dispositivo</string>
+  <string name="title_media_viewer">Visualizzatore media</string>
+  <string name="menu_file_open">Apri file</string>
+  <string name="menu_file_download">Scarica file</string>
+  <string name="menu_file_save">Salva file</string>
+  <string name="menu_file_delete">Elimina file</string>
+  <string name="menu_file_share">Condividi file</string>
+  <string name="menu_message_copy">Copia</string>
+  <string name="menu_message_delete">Elimina messaggio</string>
+  <string name="menu_message_cancel">Annulla messaggio</string>
+  <string name="menu_delete">Elimina</string>
+  <string name="pref_darkTheme_title">Tema scuro</string>
+  <string name="pref_darkTheme_summary">Attiva sempre il tema scuro al posto di quello di sistema</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Conversazioni</string>
+  <string name="navigation_item_contact_request">Richieste di contatto</string>
+  <string name="navigation_item_account">Account</string>
+  <string name="search_results_public_directory">Elenco pubblico</string>
+  <!--TV-->
+  <string name="tv_send_audio_dialog_message">Inviare un messaggio vocale?</string>
+  <string name="tv_send_image_dialog_message">Inviare l\'immagine?</string>
+  <string name="tv_send_video_dialog_message">Inviare il video?</string>
+  <string name="tv_media_preview">Anteprima</string>
+  <string name="tv_audio_play">Riproduci</string>
+  <string name="tv_audio_pause">Pausa</string>
+  <string name="tv_dialog_send">Invia</string>
+  <string name="tv_audio_recording">Registrazione…</string>
+  <string name="tv_send_text">Invia testo</string>
+  <string name="tv_send_audio">Invia audio</string>
+  <string name="tv_send_video">Invia media</string>
+  <string name="tv_action_more">Di più</string>
+  <string name="conversation_input_speech_hint">Di\' qualcosa…</string>
+  <!--Wizard-->
+  <string name="wizard_status_recommended">Consigliato</string>
+  <string name="wizard_status_optional">Facoltativo</string>
+  <string name="wizard_status_required">Necessario</string>
+  <string name="wizard_username_info">Scegli un nome utente per il tuo account</string>
+  <string name="wizard_username_button">Scegli un nome utente</string>
+  <string name="wizard_username_skip">Salta la scelta del nome utente</string>
+  <string name="wizard_password_info">Password dell\'account</string>
+  <string name="wizard_password_placeholder">Scegli una password per cifrare il tuo account su questo dispositivo.</string>
+  <string name="wizard_password_button">Scegli password</string>
+  <string name="wizard_password_skip">Crea account</string>
+  <string name="wizard_password_switch">Cifrare l\'account con una password</string>
+  <string name="wizard_password_warning">Si noti che la password non può essere recuperata</string>
+  <string name="wizard_profile_info">Il profilo è condiviso solo con i contatti</string>
+  <string name="wizard_profile_button">Salva profilo</string>
+  <string name="wizard_profile_skip">Salta e fallo più tardi</string>
+  <string name="fab_path_choose">Scegli un altro file</string>
+  <string name="chat_plugins">Plugin per chat</string>
+</resources>

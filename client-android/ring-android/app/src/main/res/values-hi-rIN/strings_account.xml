@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Strings related to account edition screen-->
+  <!--Strings related to account creation-->
+  <string name="prompt_alias">उपनाम</string>
+  <string name="action_create">खाता बनाएं</string>
+  <string name="action_register">पंजी करें</string>
+  <string name="action_settings">सेटिंग्स</string>
+  <!--Strings related to account deletion-->
+  <!--AccountManagementFragment-->
+  <string name="normal_accounts_titles">खाते</string>
+  <!--Basic Details-->
+  <!--Audio Details-->
+  <string name="account_audio_label">अॉडियो</string>
+  <string name="account_ringtone_label">रिंग</string>
+  <!--Video Details-->
+  <string name="account_video_label">वीडियो</string>
+  <!--Advanced Details-->
+  <!--Security Details-->
+  <!--SRTP Details-->
+  <!--SIP-->
+  <!--TLS Details-->
+  <!--restore/backup-->
+  <string name="account_enter_password">पासवर्ड दर्ज करें</string>
+  <!--TV-->
+  <string name="tv_about_version">वर्श़न/उल्था</string>
+  <string name="tv_about_license">अनुज्ञा पत्र</string>
+  <string name="tv_about_credits">आभार</string>
+  <string name="account_link_prompt_pin">पिन दर्ज करें</string>
+  <!--Name registration-->
+  <string name="register_username">सार्वजनिक उपयोगकर्ता नाम पंजी करें</string>
+  <!--Create account-->
+  <!--Edit profile-->
+  <!--Devices-->
+  <string name="enter_password">पासवर्ड दर्ज करें</string>
+  <string name="account_device_this_indicator">यह उपकरण</string>
+</resources>

@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="feedback_section">Përshtypje</string>
+  <string name="report"><u>Dërgonani një email</u></string>
+  <string name="section_license">Licencë</string>
+  <string name="sponsor_section">Zova është software i lirë i zhvilluar dhe i mbuluar nga</string>
+  <string name="copyright_section">Të drejta kopjimi</string>
+  <string name="contribute_section">Kontribuoni</string>
+  <string name="version_section">Version</string>
+  <string name="no_email_app_installed">S\’u gjet aplikacion email-esh, instaloni një të tillë që të na dërgoni një raport</string>
+  <string name="no_browser_app_installed">S\’u gjet aplikacion shfletuesi, që të shihni këtë faqe, instaloni një të tillë </string>
+  <string name="email_chooser_title">Dërgojeni mesazhi duke përdorur…</string>
+  <string name="website_chooser_title">Shiheni sajtin duke përdorur…</string>
+  <string name="license">Ky software jepet \"siç është\", pa asnjë garanci të çfarëdo lloji. Për hollësi, shihni <u>GNU General Public License, version 3 ose më të re</u></string>
+  <string name="description">Zova është software i lirë për komunikim universal që respekton privatësinë e përdoruesve të tij.</string>
+  <string name="credits">Kredite</string>
+  <string name="pip_title">Konferencë Zova</string>
+  <string name="call_service_description">Ky shërbim është i nevojshëm për t\’i mbajtur thirrjet tuaja në funksionim në pjesën e përparme. Ai xhiron vetëm gjatë thirrjesh.</string>
+  <string name="data_transfer_service_description">Ky shërbim është i domosdoshëm për të shfaqur mesazhe gjatë shpërnguljesh kartelash. Xhiron vetëm gjatë shpërnguljesh kartelash.</string>
+  <!--About dialog-->
+  <string name="developed_by">Programuar nga</string>
+  <string name="designed_by">Skicuar nga</string>
+  <string name="ringtones_by">Zile nga</string>
+  <!--RingActivity-->
+  <string name="error_no_network">Pa lidhje në rrjet</string>
+  <string name="error_account_offline">Llogaria s’është në linjë</string>
+  <string name="error_mobile_network_available_but_disabled">Ju lutemi, akordojini hyrje rrjetit celular te skena e rregullimeve.</string>
+  <!--AB menus-->
+  <string name="ab_action_chat">Shkëmbim mesazhesh tekst</string>
+  <!--Sections-->
+  <string name="menu_item_contact_request">Kërkesa kontakti</string>
+  <string name="menu_item_accounts">Administroni llogari</string>
+  <string name="menu_item_account">Administroni llogari</string>
+  <string name="menu_item_settings">Rregullime</string>
+  <string name="menu_item_plugin_list">Rregullime Shtojcash</string>
+  <string name="menu_item_share">Ndaje llogarinë time</string>
+  <string name="menu_item_about">Mbi Zova-n</string>
+  <!--Dialing Fragment-->
+  <string name="dial_number">Thirrni një numër</string>
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <plurals name="home_conferences_title">
+    <item quantity="one">%d Bisedë</item>
+    <item quantity="other">%d Biseda</item>
+  </plurals>
+  <!--ContactList Fragment-->
+  <string name="searchbar_hint">Kërkoni për emër ose numër telefoni…</string>
+  <string name="choose_number">Zgjidhni një numër</string>
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_missed_incoming_call">Thirrje ardhëse të humbura</string>
+  <string name="notif_missed_outgoing_call">Thirrje ikse të humbura</string>
+  <string name="notif_incoming_call_title">Thirrje ardhëse nga %1$s</string>
+  <string name="notif_incoming_call">Thirrje ardhëse</string>
+  <string name="notif_outgoing_call_title">Thirrje për %1$s</string>
+  <string name="notif_outgoing_call">Thirrje për</string>
+  <string name="notif_current_call_title">Thirrje me %1$s</string>
+  <string name="notif_current_call">Thirrje në kryerje e sipër</string>
+  <string name="notif_channel_call_in_progress">Thirrje në Ecuri e Sipër</string>
+  <string name="notif_channel_calls">Thirrje</string>
+  <string name="notif_channel_missed_calls">Thirrje të humbura</string>
+  <string name="notif_channel_incoming_calls">Thirrje ardhëse</string>
+  <string name="notif_channel_messages">Mesazhe</string>
+  <string name="notif_channel_requests">Kërkesa</string>
+  <string name="notif_channel_file_transfer">Shpërngulje kartelash</string>
+  <string name="notif_channel_sync">Njëkohësim të dhënash</string>
+  <string name="notif_channel_background_service">Shërbim në prapaskenë</string>
+  <string name="notif_channel_background_service_descr">Lejon marrje thirrjesh dhe mesazhesh në çfarëdo kohe.</string>
+  <string name="notif_group_calls">Thirrje</string>
+  <string name="notif_background_service">Zova është duke xhiruar në prapaskenë</string>
+  <string name="notif_mark_as_read">Vëri shenjë si të lexuar</string>
+  <string name="notif_dismiss">Hidhe Tej</string>
+  <string name="notif_reply">Përgjigjuni</string>
+  <string name="notif_incoming_file_transfer_title">Kartelë ardhëse nga %1$s</string>
+  <string name="notif_outgoing_file_transfer_title">Po dërgohet kartelë te %1$s</string>
+  <string name="notif_incoming_picture">Foto nga %1$s</string>
+  <string name="notif_sync_title">Po njëkohësohen të dhëna…</string>
+  <string name="notif_location_title">Ndarje vendndodhjeje me %1$s</string>
+  <string name="location_share_contact">%1$s po ju tregon vendndodhjen</string>
+  <string name="notif_location_multi_title">Ndarje vendndodhjeje me %1$d kontakte</string>
+  <string name="notif_location_remaining">Edhe %1$d minuta</string>
+  <string name="notif_location_action_stop">Ndale dhënien e vendndodhjes</string>
+  <string name="location_share_action_start">Fillo ta japësh</string>
+  <string name="location_share_action_stop">Resht së dhëni</string>
+  <string name="location_share_about_title">Të dhëna harte</string>
+  <!--Call Fragment-->
+  <string name="you_txt_prefix">Ju:</string>
+  <string name="action_call_hangup">Mbylle thirrjen</string>
+  <string name="action_call_maximize">Maksimizoje</string>
+  <string name="action_call_minimize">Reduktoje</string>
+  <string name="action_call_mute">Heshtoje</string>
+  <string name="action_call_unmute">Çheshtoje</string>
+  <string name="ongoing_call">Thirrje në kryerje e sipër</string>
+  <string name="hist_in_call">Thirrje nga %1$s</string>
+  <string name="hist_out_call">Thirrje për %1$s</string>
+  <string name="start_error_title">S\’niset dot Zova!</string>
+  <string name="start_error_mic_required">Që të funksionojë, Zova lyp leje për mikrofonin.</string>
+  <string name="action_call_accept">Pranoje thirrjen</string>
+  <string name="action_call_hold_accept">Mbaje dhe bëje thirrje</string>
+  <string name="action_call_end_accept">Përfundoje dhe bëje thirrje</string>
+  <string name="action_call_decline">Hidhe tej</string>
+  <string name="action_call_mic_mute">Heshtoje mikrofonin</string>
+  <string name="action_load_plugin">Ngarkoje Shtojcën</string>
+  <string name="ab_action_speakerphone">Aktivizoni altoparlantin</string>
+  <string name="ab_action_contact_add">Shtoje te kontaktet</string>
+  <string name="ab_action_contact_add_question">Të shtohet te kontaktet?</string>
+  <string name="hist_contact_invited">Kontakti u ftua</string>
+  <string name="hist_contact_added">Kontakti u shtua</string>
+  <string name="hist_contact_left">Kontakti iku</string>
+  <string name="hist_contact_banned">Kontakt i dëbuar</string>
+  <string name="hist_invitation_received">Ftesa u mor</string>
+  <string name="ab_action_audio_call">Thirrje audio</string>
+  <string name="ab_action_video_call">Thirrje video</string>
+  <string name="ab_action_change_screen_orientation">Ndryshoni drejtim ekrani</string>
+  <string name="share_via">Ndajeni përmes</string>
+  <string name="write_a_message">Shkruani një mesazh</string>
+  <string name="scan_qr">Skanoni Kodin QR</string>
+  <string name="qr_code">Kod QR</string>
+  <string name="ab_action_flipcamera">Rrotulloni kamerën</string>
+  <string name="ab_action_hidepreview">Fshihe paraparjen</string>
+  <string name="remote_recording">%s po regjistron…</string>
+  <!--Text messages-->
+  <string name="send_message">Dërgoje mesazhin</string>
+  <string name="message_sending">Po dërgohet mesazhi…</string>
+  <string name="message_failed">Dështoi</string>
+  <string name="time_just_now">Mu tani</string>
+  <string name="send_file">Dërgo kartelë</string>
+  <string name="hist_file_sent">Kartela u dërgua</string>
+  <string name="hist_file_received">Kartela u mor</string>
+  <string name="conversation_send_audio">Incizoni copëz zanore</string>
+  <string name="conversation_send_video">Regjistroni copës video</string>
+  <string name="conversation_share_location">Ndani vendndodhje</string>
+  <!--MediaPreferenceFragment-->
+  <string name="permission_dialog_camera_title">Leje për kamerën</string>
+  <string name="permission_dialog_camera_message">Që të funksionojnë, bisedat me video lypin doemos leje për kamerën. Ju lutemi, shihni mundësinë e akordimit të saj.</string>
+  <!--Ringtone activity-->
+  <string name="ringtone_error_title">Gabim</string>
+  <string name="ringtone_error_format_not_supported">Ky format nuk mbulohet.</string>
+  <string name="ringtone_error_size_too_big">Kjo kartelë është shumë e madhe. Madhësia maksimum është %1$dkB.</string>
+  <string name="ringtone_custom_prompt">Caktoni një zile vetjake</string>
+  <string name="ringtone_custom_label">Vetjake</string>
+  <string name="ringtone_jami_tones">Tone Zova</string>
+  <!--Read contacts permission-->
+  <string name="permission_dialog_read_contacts_message">Zova-t i duhet leja \"Lexo në kontakte\" që të aktivizojë këtë veçori. Ju lutemi, akordojani.</string>
+  <!--Write call log permission-->
+  <string name="permission_dialog_write_call_log_message">Zova-t i duhet leja \"Shkruaj në regjistër thirrjesh\" që të aktivizojë këtë veçori. Ju lutemi, akordojani.</string>
+  <!--QRCode Scan-->
+  <string name="scan_qr_account_message">Skanoni kodin QR të llogarisë që doni të shtoni.</string>
+  <string name="title_activity_qrcode">Ndaje llogarinë time</string>
+  <string name="error_scan_no_camera_permissions">Që të funksionojë, skaneri QR lyp leje për kamerën</string>
+  <string name="tab_code">Kodi Im</string>
+  <string name="tab_scan">Skanojeni Kodin</string>
+  <!--Settings-->
+  <string name="clear_history_dialog_title">Të spastrohet historiku?</string>
+  <string name="clear_history_dialog_message">Ky veprim s\’mund të zhbëhet.</string>
+  <string name="clear_history_completed">Historiku u pastrua.</string>
+  <string name="clear_history">Spastroje</string>
+  <!--Conversation-->
+  <string name="conversation_details">Hollësi kontakti</string>
+  <string name="conversation_action_delete_this">Fshije këtë bisedë</string>
+  <string name="conversation_action_delete_this_title">Të fshihet kjo bisedë?</string>
+  <string name="conversation_action_delete_this_message">Ky veprim s\’mund të zhbëhet.</string>
+  <string name="conversation_action_history_clear">Spastroje historikun</string>
+  <string name="conversation_action_history_clear_title">Të spastrohet historiku i bisedave?</string>
+  <string name="conversation_action_history_clear_message">Kjo do të shkaktojë përfundimisht pastrimin e historikut të bisedës.</string>
+  <string name="conversation_action_remove_this">Fshije kontaktin</string>
+  <string name="conversation_action_remove_this_title">Të fshihet ky kontakt?</string>
+  <string name="conversation_action_remove_this_message">Kjo do të shkaktojë fshirjen e kontaktit dhe përfundimisht fshirjen e historikut të bisedave.</string>
+  <string name="conversation_action_copy_peer_number">Kopjoje numrin</string>
+  <string name="conversation_action_copied_peer_number_clipboard">%1$s u kopjua te e papastra</string>
+  <string name="conversation_action_select_peer_number">Përzgjidhni një numër</string>
+  <string name="conversation_action_block_this">Bllokojeni kontaktin</string>
+  <string name="conversation_action_go_to_call">Rikthehu te thirrja që po bëhej</string>
+  <string name="conversation_open_file_error">S’ka të instaluar aplikacion të aftë të hapë këtë lloj kartelash.</string>
+  <string name="clip_contact_uri">Adresë kontakti</string>
+  <string name="block_contact_dialog_title">Të bllokohet %1$s?</string>
+  <string name="block_contact_dialog_message">%1$s s’do të jetë në gjendje të lidhet me ju, deri sa ta zhbllokoni.</string>
+  <string name="block_contact_completed">%1$s u bllokua.</string>
+  <string name="conversation_contact_is_typing">Kontakti po shtyp…</string>
+  <string name="conversation_info_contact_you">Ju</string>
+  <string name="conversation_members">Anëtarë</string>
+  <string name="conversation_preference_color">Ngjyrë bisede</string>
+  <string name="conversation_preference_emoji">Emoji bisede</string>
+  <string name="conversation_type_contact">Kontakt Zova</string>
+  <string name="conversation_type_private">Zgjua privat</string>
+  <string name="conversation_type_group">Zgjua grupi</string>
+  <!--Contacts-->
+  <string name="add_call_contact_number_to_contacts">Të shtohet %1$s?</string>
+  <string name="prompt_new_password">Fjalëkalim i ri</string>
+  <string name="prompt_new_password_optional">Fjalëkalim i ri (opsional)</string>
+  <string name="prompt_new_password_repeat">Përsëriteni fjalëkalimin e ri</string>
+  <string name="account_create_title">Krijoni një llogari Zova</string>
+  <string name="prompt_new_username">Jepni emër përdoruesi të ri</string>
+  <string name="prompt_hint_username">Emër përdoruesi</string>
+  <string name="help_password_choose">Për të mbrojtur llogarinë tuaj Zova, zgjidhni fjalëkalim të fuqishëm që do ta mbani mend.</string>
+  <string name="help_password_enter">Jepni fjalëkalimin e llogarisë tuaj kryesore Zova.</string>
+  <string name="help_server_enter">Jepni URL-në e shërbyesit të administrimeve.</string>
+  <string name="help_pin_enter">Jepni PIN-in prej një llogarie tjetër Zova të formësuar. Përdorni veçorinë \"eksportoje llogarinë në Zova\" që të merrni një PIN.</string>
+  <string name="wizard_next">Pasuesi</string>
+  <string name="wizard_back">Mbrapsht</string>
+  <string name="wizard_skip">Anashkaloje</string>
+  <!--Account Summary-->
+  <string name="profile">Profil</string>
+  <string name="profile_name">Emër Profili</string>
+  <string name="profile_message_warning">Profili juaj ndahet vetëm me kontaktet tuaja</string>
+  <string name="open_the_gallery">Hape galerinë</string>
+  <string name="take_a_photo">Bëni një foto</string>
+  <string name="profile_name_hint">Jepni emrin tuaj</string>
+  <string name="registered_name">Emër i Regjistruar</string>
+  <string name="no_registered_name">Pa emër të regjistruar</string>
+  <string name="identity">Identitet</string>
+  <string name="account">Llogari</string>
+  <string name="link_new_device">Lidhni një pajisje të re</string>
+  <string name="devices">Pajisje të lidhura</string>
+  <string name="total_devices">Pajisje gjithsej:</string>
+  <!--Share fragment-->
+  <string name="share_message">Skanojeni këtë kod me Zova-n</string>
+  <string name="share_message_no_account">Ju lutemi, përzgjidhni një llogari për ndarje me të.</string>
+  <string name="share_your_account_information">Ndaji me të tjerët të dhënat e mia të kontaktit</string>
+  <string name="share_label">Ndajeni me të tjerë</string>
+  <string name="generic_error_migration">Gabim</string>
+  <string name="generic_error_migration_message">Ndodhi një gabim gjatë migrimit</string>
+  <string name="title_share_with">Ndajeni me…</string>
+  <!--Pending contact requests-->
+  <string name="accept">Pranoje</string>
+  <string name="refuse">Hidhe tej</string>
+  <string name="block">Bllokoje</string>
+  <string name="contact_request_title">Kërkesë kontakti të ri</string>
+  <string name="contact_request_msg">Keni %1$d kërkesa kontakti</string>
+  <string name="contact_request_account">Për %1$s</string>
+  <string name="no_requests">S’keni kërkesa për kontakt</string>
+  <string name="message_contact_not_trusted_yet">%s s\’gjendet ende te kontaktet tuaj.\nE pranoni apo e hidhni tej këtë kërkesë kontakti?</string>
+  <string name="message_contact_not_trusted">%s s\’gjendet në kontaktet tuaja.\nTë shtohet një kontakt i ri?</string>
+  <!--Send contact requests-->
+  <string name="send_request_button">Dërgoje</string>
+  <string name="send_request_title">Dërgoni një kërkesë kontakti</string>
+  <string name="send_request_msg">Duhet të dërgoni një kërkesë kontakti që të komunikoni me këtë përdorues. Për sa kohë që kontakti juaj s\’e ka pranuar kërkesën, mund t\’i dërgoni mesazhe, por ai s\’do të jetë në gjendje t\’ju përgjigjet.</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">S’ka kontakte të bllokuar</string>
+  <!--Smartlist-->
+  <string name="no_contact_request">S\’është dërguar ndonjë kërkesë kontakti</string>
+  <string name="conversation_placeholder">Ende s’keni biseda</string>
+  <string name="contact_request_sent">Kërkesa e kontaktit u dërgua</string>
+  <string name="start_conversation">Nisni bisedë</string>
+  <string name="search_results">Përfundime Kërkimi</string>
+  <string name="tv_contact_row_header">Kontakte</string>
+  <string name="gallery_error_title">S\’u gjet aplikacion galerie</string>
+  <string name="gallery_error_message">Në këtë pajisje s\’u gjet aplikacion për të hapur Galerinë</string>
+  <string name="generic_error">Ndodhi një gabim i panjohur</string>
+  <!--File Transfer-->
+  <string name="invalid_file">Kartelë e pavlefshme</string>
+  <string name="not_able_to_write_file">S\’arrihet të shkruhet kartelë</string>
+  <string name="file_transfer_status_created">po gatitet shpërngulja</string>
+  <string name="file_transfer_status_unsupported">e pambuluar</string>
+  <string name="file_transfer_status_wait_peer_acceptance">po pritet për pranim nga ana tjetër</string>
+  <string name="file_transfer_status_wait_host_acceptance">po pritet për pranim nga strehuesi</string>
+  <string name="file_transfer_status_ongoing">në punë e sipër</string>
+  <string name="file_transfer_status_finished">e përfunduar</string>
+  <string name="file_transfer_status_closed_by_host">mbyllur nga strehuesi</string>
+  <string name="file_transfer_status_closed_by_peer">mbyllur nga ana tjetër</string>
+  <string name="file_transfer_status_invalid_pathname">emër i pavlefshëm shtegu</string>
+  <string name="file_transfer_status_unjoinable_peer">ortak që s\’futet dot</string>
+  <string name="file_transfer_status_cancelled">e anuluar</string>
+  <string name="file_transfer_status_error">e dështuar për shkak të një gabimi</string>
+  <string name="file_transfer_status_timed_out">i mbaroi koha</string>
+  <string name="file_saved_in">Kartela u ruajt te %s</string>
+  <string name="file_saved_successfully">Kartela u ruajt me sukses</string>
+  <string name="file_download">Shkarkoje</string>
+  <string name="no_space_left_on_device">S\’ka më hapësirë në pajisje</string>
+  <string name="title_media_viewer">Parës mediash</string>
+  <string name="menu_file_open">Hap kartelë</string>
+  <string name="menu_file_download">Shkarkoje kartelën</string>
+  <string name="menu_file_save">Ruaje kartelën</string>
+  <string name="menu_file_delete">Fshije kartelën</string>
+  <string name="menu_file_share">Ndani kartelë me të tjerë</string>
+  <string name="menu_message_copy">Kopjoje</string>
+  <string name="menu_message_delete">Fshije mesazhin</string>
+  <string name="menu_message_cancel">Anuloje mesazhin</string>
+  <string name="menu_delete">Fshije</string>
+  <string name="pref_darkTheme_title">Temë e errët</string>
+  <string name="pref_darkTheme_summary">Aktivizo përherë temën e errët, në vend të përdorimit të sjelljes së sistemit</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Biseda</string>
+  <string name="navigation_item_contact_request">Kërkesa kontakti</string>
+  <string name="navigation_item_account">Llogari</string>
+  <string name="search_results_public_directory">Drejtori publike</string>
+  <!--TV-->
+  <string name="tv_send_audio_dialog_message">Të dërgohet mesazh audio?</string>
+  <string name="tv_send_image_dialog_message">Të dërgohet figura?</string>
+  <string name="tv_send_video_dialog_message">Të dërgohet videoja?</string>
+  <string name="tv_media_preview">Paraparje</string>
+  <string name="tv_audio_play">Luaje</string>
+  <string name="tv_audio_pause">Pushim</string>
+  <string name="tv_dialog_send">Dërgoje</string>
+  <string name="tv_audio_recording">Po regjistrohet…</string>
+  <string name="tv_send_text">Dërgoni Tekst</string>
+  <string name="tv_send_audio">Dërgoni Audio</string>
+  <string name="tv_send_video">Dërgoni Media</string>
+  <string name="tv_action_more">Më tepër</string>
+  <string name="conversation_input_speech_hint">Thoni diçka…</string>
+  <!--Wizard-->
+  <string name="wizard_status_recommended">E rekomanduar</string>
+  <string name="wizard_status_optional">Opsionale</string>
+  <string name="wizard_status_required">E domosdoshme</string>
+  <string name="wizard_username_info">Zgjidhni një emër përdoruesi për llogarinë tuaj</string>
+  <string name="wizard_username_button">Zgjidhni Emër Përdoruesi</string>
+  <string name="wizard_username_skip">Anashkaloje zgjedhjen e emrit të përdoruesit</string>
+  <string name="wizard_password_info">Fjalëkalim llogarie</string>
+  <string name="wizard_password_placeholder">Zgjidhni një fjalëkalim për fshehtëzimin e kyçit të llogarisë në këtë pajisje</string>
+  <string name="wizard_password_button">Zgjidhni fjalëkalim</string>
+  <string name="wizard_password_skip">Krijoni llogari</string>
+  <string name="wizard_password_switch">Fshehtëzoje llogarinë me fjalëkalim</string>
+  <string name="wizard_password_warning">Mbani parasysh se fjalëkalimi s’mund të rimerret</string>
+  <string name="wizard_profile_info">Profili ndahet vetëm me kontaktet</string>
+  <string name="wizard_profile_button">Ruaje Profilin</string>
+  <string name="wizard_profile_skip">Anashakalojeni dhe bëjeni këtë më vonë</string>
+  <string name="fab_path_choose">Zgjidhni kartelë tjetër</string>
+  <string name="chat_plugins">Shtojca Fjalosjeje</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Strings related to account edition screen-->
+  <!--Strings related to account creation-->
+  <!--Strings related to account deletion-->
+  <!--AccountManagementFragment-->
+  <!--Basic Details-->
+  <!--Audio Details-->
+  <string name="account_audio_label"> 
+ऑडिओ</string>
+  <string name="account_ringtone_label">रिंगतोन्स</string>
+  <!--Video Details-->
+  <string name="account_video_label">व्हिडिओ</string>
+  <!--Advanced Details-->
+  <!--Security Details-->
+  <!--SRTP Details-->
+  <!--SIP-->
+  <!--TLS Details-->
+  <!--restore/backup-->
+  <!--TV-->
+  <string name="tv_about_license">परवाना</string>
+  <!--Name registration-->
+  <!--Create account-->
+  <!--Edit profile-->
+  <!--Devices-->
+</resources>

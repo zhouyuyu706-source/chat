@@ -1,0 +1,2 @@
+include ':app', ':libringclient'
+include ':vendor:flexbox', ':vendor:shaperipple'

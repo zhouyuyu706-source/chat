@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Nettverk</string>
+  <string name="pref_category_contacts">Kontakter</string>
+  <string name="pref_category_video">Video</string>
+  <string name="pref_category_system">System</string>
+  <string name="pref_category_privacy">Personvern</string>
+  <string name="pref_mobileData_title">Mobildata</string>
+  <string name="pref_mobileData_summary">Tillat Jami på 3G/LTE-nettverk i tillegg til Wi-Fi</string>
+  <string name="pref_pushNotifications_title">Push-varsler</string>
+  <string name="pref_pushNotifications_summary">Bruk Google-tjenere for å tillate mottak av samtaler/meldinger i bakgrunnen</string>
+  <string name="pref_video_advanced_title">Avanserte video-innstillinger</string>
+  <string name="pref_video_advanced_summary">Endre videobitrate og oppløsning, samt få tilgang til eksperimentelle funksjoner</string>
+  <string name="pref_hd_summary">Aktiver sending av HD-video</string>
+  <string name="pref_hwEncode_title">Aktiver akselerert koding</string>
+  <string name="pref_hwEncode_summary">Eksperimentell funksjon</string>
+  <string name="pref_videoBitrate_title">Video bitrate</string>
+  <string name="pref_videoBitrate_summary">Velg standardverdi på utgående video bitrate (KB/s)</string>
+  <string name="pref_videoResolution_title">Video oppløsning</string>
+  <string name="pref_videoResolution_summary">Velg standard utgående video oppløsning</string>
+  <string name="pref_systemContacts_title">Bruk systemkontakter</string>
+  <string name="pref_systemContacts_summary">Bruk systemkontakter for å vise innringerdetaljer</string>
+  <string name="pref_systemDialer_title">Benytt Jami til systemanrop</string>
+  <string name="pref_systemDialer_summary">Bruk Jami til systemanrop når det er mulig.</string>
+  <string name="pref_startOnBoot_title">Start Jami ved oppstart</string>
+  <string name="pref_startOnBoot_summary">Kjør Jami i bakgrunnen når systemet starter.</string>
+  <string name="pref_clearHistory_title">Slett historikk</string>
+  <string name="pref_clearHistory_summary">Tøm samtalehistorikken. Denne handlingen kan ikke angres.</string>
+  <string name="pref_blackList_title">Blokkeringsliste</string>
+  <string name="pref_blackList_summary">Sjekk din blokkeringsliste.</string>
+  <string name="pref_delete_account_title">Slett konto</string>
+  <string name="pref_delete_account_summary">Slett din konto på denne enheten</string>
+  <string name="pref_persistNotification_title">Kjør i bakgrunnen</string>
+  <string name="pref_persistNotification_summary">Tillater kjøring i bakgrunnen for å motta samtaler og meldinger.</string>
+  <string name="pref_typing_title">Aktiver inntastingindikator</string>
+  <string name="pref_typing_summary">Send og motta inntastingindikatorer som viser at en melding blir tastet.</string>
+  <string name="pref_read_title">Aktiver lesekvitteringer</string>
+  <string name="pref_read_summary">Send og motta kvitteringer som indikerer at en melding er blitt vist.</string>
+  <!--Notifications Visibility-->
+  <!--Plugin-->
+  <string name="pref_plugins_title">Utvidelser</string>
+  <string name="pref_plugins_summary">Aktiver utvidelser og angi innstillinger</string>
+  <string name="fab_plugins_add">Legg til ny utvidelse</string>
+  <string name="plugin_uninstall_title">Avinstaller utvidelse ?</string>
+  <string name="plugin_reset_preferences">Nullstill innstillinger for utvidelse</string>
+  <string name="plugin_reset_preferences_summary">Innstillinger for utvidelse vil bli nullstilt</string>
+  <string name="plugin_reset_preferences_ask">Ønsker du å nullstille innstillinger for utvidelse ?</string>
+  <string name="plugin_successfully_installed">Utvidelsen <b>%1$s</b> installert</string>
+  <string name="plugin_install_failure">Installasjon av utvidelsen feilet: <b>%1$s</b></string>
+  <string name="plugin_recent_version_exception">Du har en nyere versjon av: <b>%1$s</b></string>
+  <string name="plugin_same_version_exception">Du har samme versjon av <b>%1$s</b> installert</string>
+  <string name="plugin_force_install">tving \n installasjon</string>
+  <string name="plugin_path_image_add">Legg til et nytt bilde</string>
+</resources>

@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="feedback_section">Обратная связь</string>
+  <string name="report"><u>Отправить нам письмо</u></string>
+  <string name="section_license">Лицензия</string>
+  <string name="sponsor_section">Zova —  свободное программное обеспечение, разрабатываемое и поддерживаемое</string>
+  <string name="copyright_section">Авторское право</string>
+  <string name="contribute_section">Помочь проекту</string>
+  <string name="version_section">Версия</string>
+  <string name="no_email_app_installed">Не найден почтовый клиент. Установите его, чтобы отправить нам сообщение.</string>
+  <string name="no_browser_app_installed">Не найден веб-браузер. Установите его, чтобы просмотреть эту страницу.</string>
+  <string name="email_chooser_title">Отправить письмо используя…</string>
+  <string name="website_chooser_title">Просмотреть веб-сайт с помощью…</string>
+  <string name="license">Это программное обеспечение предоставляется «как есть», без каких-либо гарантий. Для получения дополнительной информации смотрите <u>GNU General Public License версии 3 или выше</u></string>
+  <string name="description">Zova — свободная программа для связи, уважающая свободу и конфиденциальность пользователей.</string>
+  <string name="credits">Благодарности</string>
+  <string name="pip_title">Конференция Zova</string>
+  <string name="call_service_description">Эта служба необходима для поддержания ваших звонков на переднем плане. Она будет запущена только во время звонков.</string>
+  <string name="data_transfer_service_description">Эта служба необходима для отображения постоянных уведомлений во время передачи файлов. Она будет запущена только во время передачи файлов.</string>
+  <!--About dialog-->
+  <string name="developed_by">Разработано</string>
+  <string name="designed_by">Оформлено</string>
+  <string name="ringtones_by">Мелодии звонка</string>
+  <!--RingActivity-->
+  <string name="error_no_network">Нет подключения к сети</string>
+  <string name="error_account_offline">Учетная запись находится в автономном режиме</string>
+  <string name="error_mobile_network_available_but_disabled">Пожалуйста, предоставьте доступ к сотовой сети в настройках.</string>
+  <!--AB menus-->
+  <string name="ab_action_chat">Сообщения</string>
+  <!--Sections-->
+  <string name="menu_item_contact_request">Запросы на добавление в контакты</string>
+  <string name="menu_item_accounts">Управление аккаунтами</string>
+  <string name="menu_item_account">Управление аккаунтом</string>
+  <string name="menu_item_settings">Настройки</string>
+  <string name="menu_item_plugin_list">Настройки дополнений</string>
+  <string name="menu_item_share">Поделиться своим контактом</string>
+  <string name="menu_item_about">О программе Zova</string>
+  <!--Dialing Fragment-->
+  <string name="dial_number">Набрать номер</string>
+  <!--History Fragment-->
+  <!--DetailsHistory Fragment-->
+  <!--Home Fragment-->
+  <plurals name="home_conferences_title">
+    <item quantity="one">%d диалог</item>
+    <item quantity="few">%d диалога</item>
+    <item quantity="many">%d диалогов</item>
+    <item quantity="other">%d диалогов</item>
+  </plurals>
+  <!--ContactList Fragment-->
+  <string name="searchbar_hint">Поиск по имени или номеру телефона</string>
+  <string name="choose_number">Выберите номер</string>
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_missed_incoming_call">Пропущенный входящий звонок</string>
+  <string name="notif_missed_outgoing_call">Непринятый исходящий звонок</string>
+  <string name="notif_incoming_call_title">Входящий звонок от %1$s</string>
+  <string name="notif_incoming_call">Входящий звонок</string>
+  <string name="notif_outgoing_call_title">Исходящий звонок %1$s</string>
+  <string name="notif_outgoing_call">Исходящий вызов</string>
+  <string name="notif_current_call_title">Текущий звонок %1$s</string>
+  <string name="notif_current_call">Текущий звонок</string>
+  <string name="notif_channel_call_in_progress">Текущий вызов</string>
+  <string name="notif_channel_calls">Звонки</string>
+  <string name="notif_channel_missed_calls">Пропущенные звонки</string>
+  <string name="notif_channel_incoming_calls">Входящие звонки</string>
+  <string name="notif_channel_messages">Сообщения</string>
+  <string name="notif_channel_requests">Запросы</string>
+  <string name="notif_channel_file_transfer">Передача файла</string>
+  <string name="notif_channel_sync">Синхронизация данных</string>
+  <string name="notif_channel_background_service">Фоновая служба</string>
+  <string name="notif_channel_background_service_descr">Позволяет принимать звонки и сообщения в любое время.</string>
+  <string name="notif_group_calls">Звонки</string>
+  <string name="notif_background_service">Zova сейчас работает в фоновом режиме</string>
+  <string name="notif_mark_as_read">Отметить как прочитанное</string>
+  <string name="notif_dismiss">Отклонить</string>
+  <string name="notif_reply">Ответить</string>
+  <string name="notif_incoming_file_transfer_title">Входящий файл от %1$s</string>
+  <string name="notif_outgoing_file_transfer_title">Отправка файла %1$s</string>
+  <string name="notif_incoming_picture">Изображение от %1$s</string>
+  <string name="notif_sync_title">Синхронизация данных...</string>
+  <string name="notif_location_title">Трансляция геопозиции для %1$s</string>
+  <string name="location_share_contact">%1$s транслирует Вам геопозицию</string>
+  <string name="notif_location_multi_title">Трансляция геопозиции для %1$d контактов</string>
+  <string name="notif_location_remaining">%1$d минут осталось</string>
+  <string name="notif_location_action_stop">Остановить трансляцию геопозиции</string>
+  <string name="location_share_action_start">Начать трансляцию</string>
+  <string name="location_share_action_stop">Остановить трансляцию</string>
+  <string name="location_share_about_title">Информация о карте</string>
+  <!--Call Fragment-->
+  <string name="you_txt_prefix">Вы:</string>
+  <string name="action_call_hangup">Повесить трубку</string>
+  <string name="action_call_maximize">Максимизировать</string>
+  <string name="action_call_minimize">Уменьшить</string>
+  <string name="action_call_mute">Беззвучно </string>
+  <string name="action_call_unmute">Включить звук</string>
+  <string name="ongoing_call">Исходящий вызов</string>
+  <string name="hist_in_call">Входящий звонок %1$s</string>
+  <string name="hist_out_call">Исходящий звонок %1$s</string>
+  <string name="start_error_title">Невозможно запустить Zova!</string>
+  <string name="start_error_mic_required">Для работы Zova требуется разрешение на использование микрофона.</string>
+  <string name="action_call_accept">Принять</string>
+  <string name="action_call_hold_accept">Задержать и ответить на звонок</string>
+  <string name="action_call_end_accept">Завершить и ответить на звонок</string>
+  <string name="action_call_decline">Отклонить</string>
+  <string name="action_call_mic_mute">Выключить микрофон</string>
+  <string name="action_load_plugin">Загрузить дополнение</string>
+  <string name="ab_action_speakerphone">Включить динамик</string>
+  <string name="ab_action_contact_add">Добавить в контакты</string>
+  <string name="ab_action_contact_add_question">Добавить в контакты?</string>
+  <string name="hist_contact_added">Контакт добавлен</string>
+  <string name="hist_invitation_received">Получено приглашение</string>
+  <string name="ab_action_audio_call">Голосовой звонок</string>
+  <string name="ab_action_video_call">Видео звонок</string>
+  <string name="ab_action_change_screen_orientation">Изменить поворот экрана</string>
+  <string name="share_via">Отправить с помощью</string>
+  <string name="write_a_message">Написать сообщение</string>
+  <string name="scan_qr">Сканировать QR код</string>
+  <string name="qr_code">QR-код</string>
+  <string name="ab_action_flipcamera">Переключить камеру</string>
+  <string name="ab_action_hidepreview">Скрыть предпросмотр</string>
+  <string name="remote_recording">%s запись...</string>
+  <!--Text messages-->
+  <string name="send_message">Отправить сообщение</string>
+  <string name="message_sending">Отправка сообщения...</string>
+  <string name="message_failed">Сбой</string>
+  <string name="time_just_now">Только сейчас</string>
+  <string name="send_file">Отправить файл</string>
+  <string name="hist_file_sent">Файл отправлен</string>
+  <string name="hist_file_received">Файл получен</string>
+  <string name="conversation_send_audio">Запись аудиоклипа</string>
+  <string name="conversation_send_video">Запись видиоклипа</string>
+  <string name="conversation_share_location">Транслировать геопозицию</string>
+  <!--MediaPreferenceFragment-->
+  <string name="permission_dialog_camera_title">Разрешение на доступ к камере</string>
+  <string name="permission_dialog_camera_message">Видеосвязь требует для работы разрешения на доступ к камере. Пожалуйста, предоставьте его.</string>
+  <!--Ringtone activity-->
+  <string name="ringtone_error_title">Ошибка</string>
+  <string name="ringtone_error_format_not_supported">Этот формат не поддерживается</string>
+  <string name="ringtone_error_size_too_big">Этот файл слишком большой. Максимальный размер — %1$dКб.</string>
+  <string name="ringtone_custom_prompt">Установить свою мелодию</string>
+  <string name="ringtone_custom_label">Настраиваемый</string>
+  <string name="ringtone_jami_tones">Тоны Zova </string>
+  <!--Read contacts permission-->
+  <string name="permission_dialog_read_contacts_message">Zova требуется разрешение «Чтение контактов», чтобы включить эту функцию. Пожалуйста, предоставьте его.</string>
+  <!--Write call log permission-->
+  <string name="permission_dialog_write_call_log_message">Zova требуется разрешение «Запись в журнал звонков», чтобы включить эту функцию. Пожалуйста, предоставьте его.</string>
+  <!--QRCode Scan-->
+  <string name="scan_qr_account_message">Считайте QR-код аккаунта, который хотите добавить.</string>
+  <string name="title_activity_qrcode">Поделиться своим контактом</string>
+  <string name="error_scan_no_camera_permissions">Для считывания QR-кода требуется разрешение на использование камеры</string>
+  <string name="tab_code">Мой QR-код</string>
+  <string name="tab_scan">Считать QR-код</string>
+  <!--Settings-->
+  <string name="clear_history_dialog_title">Очистить историю?</string>
+  <string name="clear_history_dialog_message">Это действие невозможно отменить.</string>
+  <string name="clear_history_completed">История была очищена.</string>
+  <string name="clear_history">Очистить</string>
+  <!--Conversation-->
+  <string name="conversation_details">Информация о контакте</string>
+  <string name="conversation_action_delete_this">Удалить этот разговор</string>
+  <string name="conversation_action_delete_this_title">Удалить этот разговор?</string>
+  <string name="conversation_action_delete_this_message">Это действие нельзя отменить.</string>
+  <string name="conversation_action_history_clear">Очистить историю</string>
+  <string name="conversation_action_history_clear_title">Очистить историю разговоров?</string>
+  <string name="conversation_action_history_clear_message">Это очистит историю разговоров.</string>
+  <string name="conversation_action_remove_this">Удалить контакт</string>
+  <string name="conversation_action_remove_this_title">Удалить этот контакт?</string>
+  <string name="conversation_action_remove_this_message">Это удалит контакт и очистит историю разговоров.</string>
+  <string name="conversation_action_copy_peer_number">Копировать номер</string>
+  <string name="conversation_action_copied_peer_number_clipboard">%1$s скопировано в буфер обмена</string>
+  <string name="conversation_action_select_peer_number">Выбрать номер</string>
+  <string name="conversation_action_block_this">Заблокировать контакт</string>
+  <string name="conversation_action_go_to_call">Вернуться к текущему вызову</string>
+  <string name="conversation_open_file_error">Отсутствует приложение для открытия данного типа файлов.</string>
+  <string name="clip_contact_uri">Контактный адрес</string>
+  <string name="block_contact_dialog_title">Заблокировать %1$s?</string>
+  <string name="block_contact_dialog_message">%1$s не сможет связаться с вами, пока вы не разблокируете его.</string>
+  <string name="block_contact_completed">%1$s заблокирован.</string>
+  <string name="conversation_contact_is_typing">Контакт печатает...</string>
+  <string name="conversation_info_contact_you">Ты</string>
+  <string name="conversation_members">Члены</string>
+  <string name="conversation_preference_color">Цвет беседы</string>
+  <string name="conversation_preference_emoji">Эмоджи беседы</string>
+  <string name="conversation_type_contact">Контакт Zova</string>
+  <string name="conversation_type_private">Частный рой</string>
+  <string name="conversation_type_group">Групповой рой</string>
+  <!--Contacts-->
+  <string name="add_call_contact_number_to_contacts">Добавить %1$s?</string>
+  <string name="prompt_new_password">Новый пароль</string>
+  <string name="prompt_new_password_optional">Новый пароль (необязательно)</string>
+  <string name="prompt_new_password_repeat">Повторите новый пароль</string>
+  <string name="account_create_title">Создать учётную запись Zova</string>
+  <string name="prompt_new_username">Введите новое имя пользователя</string>
+  <string name="prompt_hint_username">Имя пользователя</string>
+  <string name="help_password_choose">Выберите надёжный и запоминающийся пароль для защиты вашей учетной записи Zova.</string>
+  <string name="help_password_enter">Введите основной пароль учетной записи Zova.</string>
+  <string name="help_server_enter">Введите URL сервера управления.</string>
+  <string name="help_pin_enter">Введите PIN другого аккаунта Zova. Используйте функцию «экспортировать аккаунт в Zova» для получения PIN.</string>
+  <string name="wizard_next">Далее</string>
+  <string name="wizard_back">Назад</string>
+  <string name="wizard_skip">Пропустить</string>
+  <!--Account Summary-->
+  <string name="profile">Профиль</string>
+  <string name="profile_name">Имя профиля</string>
+  <string name="profile_message_warning">Ваш профиль доступен только вашим контактам</string>
+  <string name="open_the_gallery">Открыть галерею</string>
+  <string name="take_a_photo">Сфотографировать</string>
+  <string name="profile_name_hint">Введите своё имя</string>
+  <string name="registered_name">Зарегистрированное Имя</string>
+  <string name="no_registered_name">Имя не зарегистрировано</string>
+  <string name="identity">Идентификатор</string>
+  <string name="account">Аккаунт</string>
+  <string name="link_new_device">Привязать новое устройство</string>
+  <string name="devices">Привязанные устройства</string>
+  <string name="total_devices">Всего устройств:</string>
+  <!--Share fragment-->
+  <string name="share_message">Отсканируйте этот код Zova</string>
+  <string name="share_message_no_account">Выберите аккаунт, которым хотите поделиться.</string>
+  <string name="share_your_account_information">Поделиться моей контактной информацией</string>
+  <string name="share_label">Поделиться</string>
+  <string name="generic_error_migration">Ошибка</string>
+  <string name="generic_error_migration_message">В процессе переноса произошла ошибка</string>
+  <string name="title_share_with">Поделиться</string>
+  <!--Pending contact requests-->
+  <string name="accept">Принять</string>
+  <string name="refuse">Отклонить</string>
+  <string name="block">Заблокировать</string>
+  <string name="contact_request_title">Новый запрос на добавление в контакты</string>
+  <string name="contact_request_msg">У вас %1$dзапросов на добавление в контакты</string>
+  <string name="contact_request_account">Для %1$s</string>
+  <string name="no_requests">Нет запросов на добавление в контакты</string>
+  <string name="message_contact_not_trusted_yet">%s еще не в вашем списке контактов. Вы хотите принять или отклонить этот запрос?</string>
+  <string name="message_contact_not_trusted">%s отсутствует в ваших контактах.\nДобавить новый контакт?</string>
+  <!--Send contact requests-->
+  <string name="send_request_button">Отправить</string>
+  <string name="send_request_title">Отправить запрос на добавление в контакты</string>
+  <string name="send_request_msg">Вы должны отправить запрос для связи с этим пользователем. До тех пор, пока пользователь не примет запрос, вы можете отправлять сообщения, но он не сможет отвечать.</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">Нет заблокированных контактов</string>
+  <!--Smartlist-->
+  <string name="no_contact_request">Нет отправленных запросов на добавление в контакты</string>
+  <string name="conversation_placeholder">У вас еще нет бесед</string>
+  <string name="contact_request_sent">Запрос на добавление в контакты отправлен</string>
+  <string name="start_conversation">Начать разговор</string>
+  <string name="search_results">Результаты поиска</string>
+  <string name="tv_contact_row_header">Контакты</string>
+  <string name="gallery_error_title">Не найдено приложение Галерея</string>
+  <string name="gallery_error_message">На устройстве не найдено приложения для открытия Галереи</string>
+  <string name="generic_error">Произошла неизвестная ошибка</string>
+  <!--File Transfer-->
+  <string name="invalid_file">Некорректный файл</string>
+  <string name="not_able_to_write_file">Невозможно записать файл</string>
+  <string name="file_transfer_status_created">начата передача файла</string>
+  <string name="file_transfer_status_unsupported">не поддерживается</string>
+  <string name="file_transfer_status_wait_peer_acceptance">ожидание принятия пиром</string>
+  <string name="file_transfer_status_wait_host_acceptance">ожидание принятия</string>
+  <string name="file_transfer_status_ongoing">передача</string>
+  <string name="file_transfer_status_finished">принят</string>
+  <string name="file_transfer_status_closed_by_host">закрыто хостом</string>
+  <string name="file_transfer_status_closed_by_peer">остановлено пиром</string>
+  <string name="file_transfer_status_invalid_pathname">Некорректный путь</string>
+  <string name="file_transfer_status_unjoinable_peer">пир недоступен</string>
+  <string name="file_transfer_status_cancelled">отменено</string>
+  <string name="file_transfer_status_error">не удалось из-за ошибки</string>
+  <string name="file_transfer_status_timed_out">время вышло</string>
+  <string name="file_saved_in">Файл сохранён в %s</string>
+  <string name="file_saved_successfully">Файл успешно сохранён</string>
+  <string name="file_download">Загрузить</string>
+  <string name="no_space_left_on_device">На устройстве не осталось свободного места</string>
+  <string name="title_media_viewer">Просмотрщик медиа</string>
+  <string name="menu_file_open">Открыть файл</string>
+  <string name="menu_file_download">Загрузить файл</string>
+  <string name="menu_file_save">Сохранить файл</string>
+  <string name="menu_file_delete">Удалить файл</string>
+  <string name="menu_file_share">Поделиться файлом</string>
+  <string name="menu_message_copy">Копировать</string>
+  <string name="menu_message_delete">Удалить сообщение</string>
+  <string name="menu_message_cancel">Отменить передачу сообщения</string>
+  <string name="menu_delete">Удалить</string>
+  <string name="pref_darkTheme_title">Темная тема</string>
+  <string name="pref_darkTheme_summary">Всегда использовать темную тему независимо от системных параметров</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Разговоры</string>
+  <string name="navigation_item_contact_request">Запросы на добавление в контакты</string>
+  <string name="navigation_item_account">Аккаунт</string>
+  <string name="search_results_public_directory">Публичный каталог</string>
+  <!--TV-->
+  <string name="tv_send_audio_dialog_message">Отправить аудио-сообщение?</string>
+  <string name="tv_send_image_dialog_message">Отправить изображение?</string>
+  <string name="tv_send_video_dialog_message">Отправить видео?</string>
+  <string name="tv_media_preview">Предпросмотр</string>
+  <string name="tv_audio_play">Проиграть</string>
+  <string name="tv_audio_pause">Пауза</string>
+  <string name="tv_dialog_send">Отправить</string>
+  <string name="tv_audio_recording">Запись...</string>
+  <string name="tv_send_text">Отправить текст</string>
+  <string name="tv_send_audio">Отправить аудио</string>
+  <string name="tv_send_video">Отправить медиа</string>
+  <string name="conversation_input_speech_hint">Скажите что-нибудь...</string>
+  <!--Wizard-->
+  <string name="wizard_status_recommended">Рекомендуется</string>
+  <string name="wizard_status_optional">По желанию</string>
+  <string name="wizard_status_required">Требуется</string>
+  <string name="wizard_username_info">Выберите имя пользователя для вашей учётной записи</string>
+  <string name="wizard_username_button">Выберите имя пользователя</string>
+  <string name="wizard_username_skip">Пропустить выбор имени пользователя</string>
+  <string name="wizard_password_info">Пароль учётной записи</string>
+  <string name="wizard_password_placeholder">Придумайте пароль для шифрования учётной записи на этом устройстве</string>
+  <string name="wizard_password_button">Придумайте пароль</string>
+  <string name="wizard_password_skip">Создать аккаунт</string>
+  <string name="wizard_password_switch">Зашифровать учётную запись паролем</string>
+  <string name="wizard_password_warning">Обратите внимание, что пароль не может быть восстановлен</string>
+  <string name="wizard_profile_info">Ваш профиль доступен только вашим контактам</string>
+  <string name="wizard_profile_button">Сохранить профиль</string>
+  <string name="wizard_profile_skip">Пропустить и сделать позже</string>
+  <string name="fab_path_choose">Выбрать другой файл</string>
+  <string name="chat_plugins">Плагины для чата</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Reto</string>
+  <string name="pref_category_contacts">Kontaktoj</string>
+  <string name="pref_category_video">Video</string>
+  <string name="pref_category_system">Sistemo</string>
+  <string name="pref_category_privacy">Privateco</string>
+  <string name="pref_mobileData_title">Porteblaj datumoj</string>
+  <string name="pref_systemContacts_title">Uzi sistemajn kontaktojn</string>
+  <string name="pref_systemContacts_summary">Uzi sistemajn kontaktojn por montri detalojn de la vokanto.</string>
+  <string name="pref_clearHistory_title">Vakigi historion</string>
+  <!--Notifications Visibility-->
+  <!--Plugin-->
+</resources>

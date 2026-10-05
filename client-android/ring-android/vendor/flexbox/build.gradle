@@ -1,0 +1,15 @@
+apply plugin: 'com.android.library'
+android {
+    buildToolsVersion '30.0.3'
+    compileSdkVersion 30
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 30
+        consumerProguardFiles 'proguard-rules.txt'
+    }
+    buildTypes { release { minifyEnabled false } }
+}
+dependencies {
+    compileOnly 'androidx.core:core:1.6.0'
+    compileOnly 'androidx.recyclerview:recyclerview:1.2.1'
+}
