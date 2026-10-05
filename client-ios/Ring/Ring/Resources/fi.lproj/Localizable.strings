@@ -1,0 +1,353 @@
+﻿ /*
+ *  Copyright (C) 2017-2019 Savoir-faire Linux Inc.
+ *
+ *  Author: Silbino Gonçalves Matado <silbino.gmatado@savoirfairelinux.com>
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ */
+
+// Global
+"global.homeTabBarTitle" = "Keskustelu";
+"global.meTabBarTitle" = "Tunnuksen asetukset";
+"global.ok" = "Vahvista";
+"global.versionName" = "Maloya";
+"global.close" = "Sulje";
+"global.share" = "Jako";
+"global.forward" = "Välitä";
+"global.save" = "Tallenna";
+"global.resend" = "Uudelleen";
+"global.preview" = "Esikatselu";
+
+// Scan
+"scan.badQrCode" = "Väärä QR-koodi";
+"scan.search" = "Etsitään...";
+
+// Smartlist
+"smartlist.yesterday" = "Eilen";
+"smartlist.results" = "Julkinen kansio";
+"smartlist.conversations" = "Keskustelu";
+"smartlist.searching" = "Etsitään...";
+"smartlist.noResults" = "Ei tuloksia";
+"smartlist.noConversation" = "Ei keskusteluja";
+"smartlist.searchBarPlaceholder" = "Syötä nimi...";
+"smartlist.searchBar" = "Etsi uutta tai aiemmin luotua yhteystietoa...";
+"smartlist.noNetworkConnectivity" = "Ei verkkoyhteyttä";
+"smartlist.cellularAccess" = "Varmista, että matkapuhelinverkon käyttö on sallittu asetuksissasi";
+"smartlist.accountsTitle" = "Tunnukset";
+"smartlist.addAccountButton" = "+ Lisää tunnus";
+"smartlist.noNumber" = "Valitulla yhteyshenkilöllä ei ole numeroa";
+"smartlist.selectOneNumber" = "Valitse yksi numeroista";
+"smartlist.invitations" = "Kutsut";
+"smartlist.accountSettings" = "Tunnuksen asetukset";
+"smartlist.advancedSettings" = "Lisäasetukset";
+"smartlist.aboutJami" = "Tietoa Jamista";
+
+//Conversation
+"conversation.messagePlaceholder" = "Kirjoita viesti";
+"conversation.explanationSendingLocationTo" = "Jaat sijaintisi tällä hetkellä";
+"conversation.explanationReceivingLocationFrom" = "Saat parhaillaan suoraa sijaintia";
+"conversation.errorSavingImage" = "Kuvan tallennus galleriaan epäonnistui";
+
+//Invitations
+"invitations.noInvitations" = "Ei kutsuja";
+
+// Walkthrough
+
+//Welcome Screen
+"welcome.title" = "Tervetuloa Jamiin !";
+"welcome.text" = "Jami on vapaa ja universaali viestintäalusta joka turvaa käyttäjien yksityisyyden ja vapaudet";
+"welcome.linkDevice" = "Yhdistä tämä laite tiliin";
+"welcome.createAccount" = "Tee Jami-tili";
+"welcome.connectToManager" = "Yhdistä JAMS-palvelimeen";
+
+//Creation Profile Screen
+"createProfile.skipCreateProfile" = "Ohita";
+"createProfile.profileCreated" = "Seuraava";
+"createProfile.title" = "Muokkaa profiiliasi";
+"createProfile.enterNameLabel" = "Anna näyttönimi";
+"createProfile.enterNamePlaceholder" = "Syötä nimesi";
+"createProfile.subtitle" = "Profiilisi jaetaan yhteystietojesi kanssa. Voit muuttaa sitä milloin tahansa.";
+"createProfile.createYourAvatar" = "Luo avatari";
+
+//Create Account form
+"createAccount.createAccountFormTitle" = "Tee tilisi";
+"createAccount.chooseStrongPassword" = "Valitse muistettava, vahva salasana jota käytät Jami-tunnuksen suojaamiseen.";
+"createAccount.enterNewUsernamePlaceholder" = "Käyttäjänimi";
+"createAccount.newPasswordPlaceholder" = "Salasana";
+"createAccount.repeatPasswordPlaceholder" = "Varmista salasana";
+"createAccount.passwordCharactersNumberError" = "Vähintään 6 merkkiä";
+"createAccount.passwordNotMatchingError" = "salasanat eivät täsmää";
+"createAccount.lookingForUsernameAvailability" = "etsitään saatavuutta…";
+"createAccount.invalidUsername" = "käyttäjätunnus ei kelpaa";
+"createAccount.usernameAlreadyTaken" = "käyttäjätunnus on jo varattu";
+"createAccount.usernameValid" = "Tunnus on saatavilla";
+"createAccount.loading" = "Ladataan";
+"createAccount.waitCreateAccountTitle" = "Lisätään tunnusta";
+"createAccount.RegisterAUsername" = "Rekisteröi käyttäjänimi";
+"createAccount.ChooseAPassword" = "Salaa tilini";
+"createAccount.PasswordInformation" = "Valitse salasana paikallisen tilisi salaamiseksi. Älä unohda sitä, tai et voi palauttaa tiliäsi";
+"createAccount.EnableNotifications" = "Ilmoitukset";
+"createAccount.Recommended" = "(suositus)";
+"createAccount.UsernameNotRegisteredTitle" = "Verkkovirhe";
+"createAccount.UsernameNotRegisteredMessage" = "Tili luotiin, mutta käyttäjänimeä ei rekisteröity";
+"createAccount.timeoutTitle" = "Tili luotu";
+"createAccount.timeoutMessage" = "Käyttäjätunnuksen rekisteröinti käynnissä... Se voi kestää hetken.";
+
+//Link To Account form
+"linkToAccount.waitLinkToAccountTitle" = "Tilin linkittäminen";
+"linkToAccount.linkButtonTitle" = "Linkitä laite";
+"linkToAccount.passwordPlaceholder" = "Salasana";
+"linkToAccount.pinPlaceholder" = "PIN";
+"linkToAccount.passwordLabel" = "Syötä salasana";
+"linkToAccount.pinLabel" = "Syötä PIN-koodi";
+"linkToAccount.explanationPinMessage" = "Voit luoda PIN-koodin siirtymällä asetuksiin laitteessa, joka sisältää haluamasi tilin. Valitse laiteasetuksissa \"Linkitä toinen laite tähän tiliin\". Saat tarvittavan PIN-koodin tämän lomakkeen lopusta. PIN-koodi on voimassa vain 10 minuuttia.";
+
+//Link To Account Manager form
+"linkToAccountManager.signIn" = "Kirjaudu sisään";
+"linkToAccountManager.passwordPlaceholder" = "Salasana";
+"linkToAccountManager.passwordLabel" = "Syötä salasana";
+"linkToAccountManager.usernamePlaceholder" = "Käyttäjänimi";
+"linkToAccountManager.usernameLabel" = "Anna käyttäjänimi";
+"linkToAccountManager.accountManagerPlaceholder" = "JAMS verkko-osoite";
+"linkToAccountManager.accountManagerLabel" = "Kirjoita JAMS URL";
+
+//Alerts
+"alerts.accountCannotBeFoundTitle" = "Tiliä ei löydy";
+"alerts.accountCannotBeFoundMessage" = "Tiliä ei löytynyt Jami-verkosta. Varmista, että se on viety Ringissä aiemmin luodusta laitteesta ja että annetut tunnistetiedot ovat oikein.";
+"alerts.accountAddedTitle" = "Tili lisätty";
+"alerts.accountNoNetworkTitle" = "Verkkoon ei saada yhteyttä";
+"alerts.accountNoNetworkMessage" = "Tiliä ei voitu lisätä, koska Jami ei voinut muodostaa yhteyttä hajautettuun verkkoon. Tarkista laitteen yhteydet.";
+"alerts.accountDefaultErrorTitle" = "Tuntematon virhe";
+"alerts.accountDefaultErrorMessage" = "Tiliä ei voitu luoda.";
+"alerts.profileTakePhoto" = "Ota valokuva";
+"alerts.profileUploadPhoto" = "Lähetä kuva";
+"alerts.profileCancelPhoto" = "Peruuta";
+"alerts.accountLinkedTitle" = "Tilin linkittäminen";
+"alerts.dbFailedTitle" = "Jamia käynnistettäessä tapahtui virhe";
+"alerts.dbFailedMessage" = "Sulje sovellus ja yritä avata se uudelleen";
+"alerts.confirmBlockContact" = "Haluatko varmasti estää tämän yhteystiedon? Tämän yhteyshenkilön keskusteluhistoria myös poistetaan pysyvästi.";
+"alerts.confirmBlockContactTitle" = "Estä yhteystieto";
+"alerts.confirmDeleteConversation" = "Haluatko varmasti poistaa tämän keskustelun pysyvästi?";
+"alerts.confirmDeleteConversationFromContact" = "Haluatko varmasti poistaa keskustelun tämän yhteyshenkilön kanssa?";
+"alerts.confirmDeleteConversationTitle" = "Poista keskustelu";
+"alerts.confirmClearConversation" = "Haluatko varmasti tyhjentää keskustelun tämän yhteyshenkilön kanssa?";
+"alerts.confirmClearConversationTitle" = "Tyhjennä keskustelu";
+"alerts.noMediaPermissionsTitle" = "Medialupaa ei ole myönnetty";
+"alerts.noLibraryPermissionsTitle" = "Pääsyä valokuvakirjastoon ei ole myönnetty";
+"alerts.noLocationPermissionsTitle" = "Pääsy sijaintiin ei ole myönnetty";
+"alerts.errorWrongCredentials" = "Ei voi muodostaa yhteyttä tilin hallintaan. Tarkista käyttäjätiedot";
+"alerts.recordVideoMessage" = "Tallenna videoviesti";
+"alerts.recordAudioMessage" = "Tallenna ääniviesti";
+"alerts.uploadFile" = "Lähetä tiedosto";
+"alerts.uploadPhoto" = "Lähetä kuva tai video";
+"alerts.locationServiceIsDisabled" = "Ota \"sijaintipalvelut\" käyttöön, jotta \"Jami\" voi määrittää sijaintisi.";
+"alerts.locationSharing" = "Jaa minun sijainti";
+"alerts.alreadylocationSharing" = "Jaat jo sijaintia tämän käyttäjän kanssa";
+"alerts.locationSharingDurationTitle" = "Kuinka kauan sijainnin pitäisi olla jaettuna?";
+"alerts.locationSharingDuration10min" = "10 min";
+"alerts.locationSharingDuration1hour" = "1 tunti";
+"alerts.mapInformation" = "Karttatiedot";
+"alerts.openStreetMapCopyright" = "© OpenStreetMap contributors";
+"alerts.openStreetMapCopyrightMoreInfo" = "Lue lisää";
+
+//Actions
+"actions.blockAction" = "Estä";
+"actions.deleteAction" = "Poista";
+"actions.cancelAction" = "Peruuta";
+"actions.clearAction" = "Tyhjennä";
+"actions.backAction" = "Takaisin";
+"actions.doneAction" = "Valmis";
+"alerts.incomingCallAllertTitle" = "Saapuva puhelu";
+"alerts.incomingCallButtonAccept" = "Hyväksy";
+"alerts.incomingCallButtonIgnore" = "Sivuuta";
+"actions.startAudioCall" = "Äänipuhelu";
+"actions.startVideoCall" = "Videopuhelu";
+"actions.goToSettings" = "Mene asetuksiin";
+"actions.stopLocationSharing" = "Lopeta jakaminen";
+
+//Calls
+"calls.callItemTitle" = "Soita";
+"calls.unknown" = "Tuntematon";
+"calls.incomingCallInfo" = "haluaa puhua kanssasi";
+"calls.ringing" = "Soi...";
+"calls.connecting" = "Yhdistää...";
+"calls.searching" = "Etsitään...";
+"calls.callFinished" = "Puhelu päättynyt";
+"calls.currentCallWith" = "Soita";
+"calls.haghUp" = "katkaise puhelu";
+"calls.maximize" = "suurenna";
+"calls.minimize" = "pienennä";
+"calls.setModerator" = "aseta valvoja";
+"calls.removeModerator" = "poista valvoja";
+"calls.muteAudio" = "mykistä ääni";
+"calls.unmuteAudio" = "poista mykistys";
+
+//Account Page
+"accountPage.devicesListHeader" = "Laitteet";
+"accountPage.settingsHeader" = "Asetukset";
+"accountPage.username" = "Käyttäjänimi";
+"accountPage.usernameNotRegistered" = "käyttäjätunnus: ei rekisteröity";
+"accountPage.credentialsHeader" = "Tilin tiedot";
+"accountPage.enableProxy" = "Proxy käyttöön";
+"accountPage.blockedContacts" = "Estetyt yhteystiedot";
+"accountPage.unblockContact" = "SALLI";
+"accountPage.proxyAddressAlert" = "Anna välityspalvelimen osoite";
+"accountPage.enableProxy" = "Proxy käyttöön";
+"accountPage.noProxyExplanationLabel" = "Laite ei saa ilmoituksia, kun välityspalvelin on poistettu käytöstä";
+"accountPage.saveProxyAddress" = "Tallenna";
+"accountPage.proxyPaceholder" = "Proxy osoite";
+"accountPage.enableNotifications" = "Ilmoitukset päälle";
+"accountPage.proxyDisabledAlertTitle" = "Välityspalvelin poistettu käytöstä";
+"accountPage.proxyDisabledAlertBody" = "Jotta voit vastaanottaa ilmoituksia, ota käyttöön";
+"accountPage.revokeDeviceTitle" = "Peruuta laite";
+"accountPage.revokeDeviceMessage" = "Haluatko varmasti peruuttaa tämän laitteen? Tätä toimintoa ei voitu kumota.";
+"accountPage.revokeDeviceButton" = "Peruuta";
+"accountPage.revokeDevicePlaceholder" = "Syötä salasanasi";
+"accountPage.deviceRevoked" = "Laitteen peruminen valmis";
+"accountPage.deviceRevocationProgress" = "Peruuttaminen...";
+"accountPage.deviceRevocationSuccess" = "Laite on peruttu";
+"accountPage.deviceRevocationTryAgain" = "Yritä uudestaan";
+"accountPage.deviceRevocationWrongPassword" = "Väärä salasana";
+"accountPage.deviceRevocationUnknownDevice" = "Tuntematon laite";
+"accountPage.deviceRevocationError" = "Laitteen peruuttamisvirhe";
+"accountPage.namePlaceholder" = "Nimi";
+"accountPage.linkDeviceTitle" = "Linkitä toinen laite";
+"accountPage.other" = "Muu";
+"accountPage.removeAccountTitle" = "Poista tili";
+"accountPage.removeAccountMessage" = "Painamalla \"Poista\"-painiketta poistat tämän tilin tästä laitteesta! Tätä toimintoa ei voi kumota. Rekisteröity nimesi voi myös kadota.";
+"accountPage.removeAccountButton" = "Poista";
+"accountPage.shareAccountDetails" = "Jaa tilin tiedot";
+"accountPage.contactMeOnJamiTitle" = "Ota minuun yhteyttä Jamilla!";
+"accountPage.contactMeOnJamiContant" = "Ota minuun yhteyttä \"%s\" Jamin hajautetun viestintäalustan avulla:  https://jami.net";
+"accountPage.registerNameTitle" = "Rekisteröi käyttäjänimi";
+"accountPage.passwordPlaceholder" = "Syötä käyttäjätunnuksen salasana";
+"accountPage.usernamePlaceholder" = "Kirjoita haluamasi käyttäjänimi";
+"accountPage.registerNameErrorMessage" = "Valittu käyttäjänimi ei ole käytettävissä";
+"accountPage.usernameRegistering" = "Rekisteröidään";
+"accountPage.usernameRegisterAction" = "Rekistöröi";
+"accountPage.usernameRegistrationFailed" = "Rekisteröinti epäonnistui. Tarkista salasana.";
+"accountPage.createPassword" = "Luo salasana";
+"accountPage.changePassword" = "Vaihda salasana";
+"accountPage.oldPasswordPlaceholder" = "Anna vanha salasana";
+"accountPage.newPasswordPlaceholder" = "Anna uusi salasana";
+"accountPage.newPasswordConfirmPlaceholder" = "Vahvista uusi salasana";
+"accountPage.changePasswordError" = "Väärä salasana";
+"accountPage.enableBoothMode" = "Kioskitila käyttöön";
+"accountPage.disableBoothMode" = "Poista kioskitila";
+"accountPage.disableBoothModeExplanation" = "Anna tilisi salasana";
+"accountPage.boothModeExplanation" = "Kioskitilassa keskusteluhistoriaa ei tallenneta ja jamin toimintoja rajoitettu lähtevien puheluiden osalta. Kun otat kioskitilan käyttöön, kaikki keskustelusi poistetaan.";
+"accountPage.noBoothMode" = "Voit ottaa kioskitilan käyttöön luomalla ensin tilin salasanan.";
+"accountPage.boothModeAlertMessage" = "Kun kioskitila on otettu käyttöön, kaikki keskustelut poistetaan.";
+"accountPage.peerDiscovery" = "Automaattinen yhteys paikallisessa verkossa";
+"accountPage.autoRegistration" = "Automaattinen rekisteröinti vanhentumisen jälkeen";
+
+//Account
+"account.sipUsername" = "Käyttäjänimi";
+"account.sipPassword" = "Salasana";
+"account.sipServer" = "SIP-palvelin";
+"account.port" = "Portti";
+"account.proxyServer" = "Välityspalvelin";
+"account.createSipAccount" = "Luo SIP tunnus";
+"account.usernameLabel" = "Anna käyttäjänimi";
+"account.passwordLabel" = "Syötä salasana";
+"account.serverLabel" = "Anna osoite";
+"account.portLabel" = "Anna porttinumero";
+"account.accountStatus" = "Tilin tila";
+"account.enableAccount" = "Ota tili käyttöön";
+"account.statusOnline" = "Verkossa";
+"account.statusOffline" = "Poissa";
+"account.statusConnecting" = "Yhdistää";
+"account.statusUnknown" = "Tuntematon";
+"account.statusConnectionerror" = "Yhteysvirhe";
+"account.needMigration" = "tili on siirrettävä";
+"account.me" = "Minä";
+
+//Block List Page
+"blockListPage.noBlockedContacts" = "EI estettyjä yhteystietoja";
+
+//Link New Device
+"linkDevice.title" = "Linkitä uusi laite";
+"linkDevice.passwordError" = "Antamasi salasana ei avaa tämän tunnuksen salaisuuksia";
+"linkDevice.networkError" = "Tiedonviennissä tapahtui verkkoyhteysvirhe";
+"linkDevice.defaultError" = "Tiedonviennissä tapahtui virhe";
+"linkDevice.explanationMessage" = "Prosessin loppuun saattamiseksi sinun on avattava Jami uudessa laitteessa ja valittava vaihtoehto \"Yhdistä tämä laite tunnukseen\". PIN on voimassa 10 minuuttia";
+"linkDevice.hudMessage" = "Tarkistetaan";
+
+//Contact Page
+"contactPage.startAudioCall" = "Aloita äänipuhelu";
+"contactPage.startVideoCall" = "Aloita videopuhelu";
+"contactPage.sendMessage" = "Lähetä viesti";
+"contactPage.clearConversation" = "Tyhjennä keskustelu";
+"contactPage.blockContact" = "Estä yhteystieto";
+"contactPage.removeConversation" = "Poista keskustelu";
+
+//DataTransfer
+"dataTransfer.readableStatusCreated" = "Valmistellaan...";
+"dataTransfer.readableStatusError" = "Virhe";
+"dataTransfer.readableStatusAwaiting" = "Odottaa...";
+"dataTransfer.readableStatusRefuse" = "Kieltäydy";
+"dataTransfer.readableStatusOngoing" = "Lähettää";
+"dataTransfer.readableStatusCanceled" = "Peruttu";
+"dataTransfer.sendingFailed" = "Lähetys epäonnistui";
+"dataTransfer.readableStatusSuccess" = "Valmis";
+"dataTransfer.readableStatusAccept" = "Hyväksy";
+"dataTransfer.readableStatusCancel" = "Peruuta";
+
+//Notifications
+"notifications.incomingCall" = "Saapuva puhelu";
+"notifications.missedCall" = "Vastaamaton puhelu";
+"notifications.acceptCall" = "HYVÄKSY";
+"notifications.refuseCall" = "KIELTÄYDY";
+"notifications.newFile" = "Uusi tiedosto";
+"notifications.locationSharingStarted" = "Saapuvan sijainnin jakaminen alkoi";
+"notifications.locationSharingStopped" = "Saapuvan sijainnin jakaminen loppui";
+"dataTransfer.readableStatusAwaiting" = "Odottaa...";
+"dataTransfer.readableStatusRefuse" = "Kieltäydy";
+"dataTransfer.readableStatusOngoing" = "Lähettää";
+"dataTransfer.readableStatusCanceled" = "Peruttu";
+"dataTransfer.readableStatusSuccess" = "Valmis";
+"dataTransfer.readableStatusAccept" = "Hyväksy";
+"dataTransfer.readableStatusCancel" = "Peruuta";
+"dataTransfer.infoMessage" = "Aloita tallennus painamalla";
+"dataTransfer.sendMessage" = "Lähetä";
+
+
+//Generated Message
+"generatedMessage.contactAdded" = "Yhteystieto lisätty";
+"generatedMessage.invitationReceived" = "Kutsu vastaanotettu";
+"generatedMessage.invitationAccepted" = "Kutsu hyväksytty";
+"generatedMessage.outgoingCall" = "Lähtevä puhelu";
+"generatedMessage.incomingCall" = "Saapuva puhelu";
+"generatedMessage.missedOutgoingCall" = "Vastaamaton lähtevä puhelu";
+"generatedMessage.missedIncomingCall" = "Vastaamaton puhelu";
+"generatedMessage.liveLocationSharing" = "Suoran sijainnin jakaminen";
+
+//General Settings
+"generalSettings.title" = "Edistyneet asetukset";
+"generalSettings.videoAcceleration" = "Kytke videon laitteistokiihdytys";
+
+//Migrate Account
+"migrateAccount.title" = "Tilin siirto";
+"migrateAccount.migrateButton" = "Siirrä tunnus";
+"migrateAccount.explanation" = "Tämä tili on siirrettävä";
+"migrateAccount.passwordPlaceholder" = "Syötä salasana";
+"migrateAccount.passwordExplanation" = "Jatka siirtymistä antamalla salasana, jota käytettiin tähän tiliin";
+"migrateAccount.removeAccount" = "Poista tili";
+"migrateAccount.error" = "Tilisi siirtäminen epäonnistui. Voit yrittää uudelleen tai poistaa tilisi.";
+"migrateAccount.migrating" = "Siirretään...";
+"migrateAccount.cancel" = "Peruuta";
+"migrateAccount.migrateAnother" = "Siirrä toinen tunnus";
+
+

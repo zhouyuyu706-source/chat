@@ -1,0 +1,353 @@
+﻿ /*
+ *  Copyright (C) 2017-2019 Savoir-faire Linux Inc.
+ *
+ *  Author: Silbino Gonçalves Matado <silbino.gmatado@savoirfairelinux.com>
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ */
+
+// Global
+"global.homeTabBarTitle" = "گفتگو‌ها";
+"global.meTabBarTitle" = "تنظیمات حساب";
+"global.ok" = "قبول";
+"global.versionName" = "Maloya";
+"global.close" = "بستن";
+"global.share" = "هم‌رسانی";
+"global.forward" = "ارسال کردن";
+"global.save" = "ذخیره";
+"global.resend" = "ارسال مجدد";
+"global.preview" = "پیش‌نمایش";
+
+// Scan
+"scan.badQrCode" = "کد QR بد";
+"scan.search" = "در حال جستجو...";
+
+// Smartlist
+"smartlist.yesterday" = "دیروز";
+"smartlist.results" = "دایرکتوری عمومی";
+"smartlist.conversations" = "گفتگو‌ها";
+"smartlist.searching" = "در حال جستجو...";
+"smartlist.noResults" = "بدون نتیجه";
+"smartlist.noConversation" = "بدون گفتگو";
+"smartlist.searchBarPlaceholder" = "نام را وارد کنید...";
+"smartlist.searchBar" = "جستجو برای مخاطب جدید یا موجود...";
+"smartlist.noNetworkConnectivity" = "بدون اتصال شبکه";
+"smartlist.cellularAccess" = "اطمینان حاصل کنید که دسترسی به تلفن همراه در تنظیمات شما اعمال شده";
+"smartlist.accountsTitle" = "حساب‌ها";
+"smartlist.addAccountButton" = "افزودن حساب...";
+"smartlist.noNumber" = "مخاطب انتخاب‌شده شماره‌ای ندارد";
+"smartlist.selectOneNumber" = "یکی از شماره‌ها را انتخاب کنید";
+"smartlist.invitations" = "دعوت ها";
+"smartlist.accountSettings" = "تنظیمات حساب";
+"smartlist.advancedSettings" = "تنظیمات پیشرفته";
+"smartlist.aboutJami" = "درباره جمی";
+
+//Conversation
+"conversation.messagePlaceholder" = "پیام بنویسید به";
+"conversation.explanationSendingLocationTo" = "در حال حاضر مکان خود را به اشتراک می‌گذارید";
+"conversation.explanationReceivingLocationFrom" = "در حال حاضر مکان زنده را دریافت می‌کنید از";
+"conversation.errorSavingImage" = "ذخیره تصویر در گالری انجام نشد";
+
+//Invitations
+"invitations.noInvitations" = "بدون دعوت‌نامه";
+
+// Walkthrough
+
+//Welcome Screen
+"welcome.title" = "به جمی خوش آمدید!";
+"welcome.text" = "جمی یک بستر ارتباطی رایگان و جهانی است، که حریم خصوصی و آزادی کاربران را حفظ می‌کند";
+"welcome.linkDevice" = "پیوند این دستگاه به یک حساب";
+"welcome.createAccount" = "ایجاد یک حساب جمی";
+"welcome.connectToManager" = "اتصال به یک سرور JAMS";
+
+//Creation Profile Screen
+"createProfile.skipCreateProfile" = "پرش";
+"createProfile.profileCreated" = "بعدی";
+"createProfile.title" = "نمایه خود را شخصی‌سازی کنید";
+"createProfile.enterNameLabel" = "نامی برای نمایش وارد کنید";
+"createProfile.enterNamePlaceholder" = "نام را وارد کنید";
+"createProfile.subtitle" = "نمایه شما با مخاطبانتان به اشتراک گذاشته می‌شود. شما می‌توانید، آن را در هر زمان تغییر دهید.";
+"createProfile.createYourAvatar" = "آواتار خود را بسازید";
+
+//Create Account form
+"createAccount.createAccountFormTitle" = "حساب کاربری خود را بسازید";
+"createAccount.chooseStrongPassword" = "برای محافظت از حساب جمی خود، گذرواژه‌ای قوی انتخاب کنید، که بتوانید آن را به خاطر بیاورید.";
+"createAccount.enterNewUsernamePlaceholder" = "نام کاربری";
+"createAccount.newPasswordPlaceholder" = "گذرواژه";
+"createAccount.repeatPasswordPlaceholder" = "تأیید گذرواژه";
+"createAccount.passwordCharactersNumberError" = "حداقل ۶ کاراکتر";
+"createAccount.passwordNotMatchingError" = "گذرواژه‌ها یکسان نیستند";
+"createAccount.lookingForUsernameAvailability" = "بررسی در‌دسترس بودن…";
+"createAccount.invalidUsername" = "نام کاربری نامعتبر";
+"createAccount.usernameAlreadyTaken" = "نام کاربری قبلاً برداشته شده";
+"createAccount.usernameValid" = "نام کاربری دردسترس است";
+"createAccount.loading" = "بارگذاری...";
+"createAccount.waitCreateAccountTitle" = "در حال افزودن حساب";
+"createAccount.RegisterAUsername" = "ثبت یک نام‌کاربری";
+"createAccount.ChooseAPassword" = "حساب من را رمزگذاری کن";
+"createAccount.PasswordInformation" = "برای رمزگذاری حساب محلی خود گذرواژه‌ای انتخاب کنید. آن را فراموش نکنید زیرا که قادر به بازیابی حساب خود نخواهید بود";
+"createAccount.EnableNotifications" = "آگاهی‌ها";
+"createAccount.Recommended" = "(توصیه‌شده)";
+"createAccount.UsernameNotRegisteredTitle" = "خطای شبکه";
+"createAccount.UsernameNotRegisteredMessage" = "حساب ایجاد شده، اما نام‌کاربری ثبت نشده است";
+"createAccount.timeoutTitle" = "حساب کاربری ایجاد شد";
+"createAccount.timeoutMessage" = "در حال ثبت نام‌کاربری... ممکن است چند لحظه طول بکشد.";
+
+//Link To Account form
+"linkToAccount.waitLinkToAccountTitle" = "پیوند دادن حسابها";
+"linkToAccount.linkButtonTitle" = "پیوند این افزاره";
+"linkToAccount.passwordPlaceholder" = "گذرواژه";
+"linkToAccount.pinPlaceholder" = "پین";
+"linkToAccount.passwordLabel" = "گذرواژه را وارد کنید";
+"linkToAccount.pinLabel" = "پین را وارد کنید";
+"linkToAccount.explanationPinMessage" = "برای تولید پین کد ( یا PIN)، به تنظیمات مدیریت حساب در دستگاهی که حاوی حساب کاربری مورد نظر شماست رجوع کنید. در تنظیمات دستگاه، «یک دستگاه دیگر را به این حساب پیوند دهید» را انتخاب کنید. برای تکمیل این فرم پین لازم را دریافت خواهید کرد. پین فقط ده (10) دقیقه معتبر است";
+
+//Link To Account Manager form
+"linkToAccountManager.signIn" = "ورود";
+"linkToAccountManager.passwordPlaceholder" = "گذرواژه";
+"linkToAccountManager.passwordLabel" = "گذرواژه را وارد کنید";
+"linkToAccountManager.usernamePlaceholder" = "نام کاربری";
+"linkToAccountManager.usernameLabel" = "نام‌کاربری را وارد کنید";
+"linkToAccountManager.accountManagerPlaceholder" = "آدرس JAMS";
+"linkToAccountManager.accountManagerLabel" = "آدرس JAMS را وارد کنید.";
+
+//Alerts
+"alerts.accountCannotBeFoundTitle" = "نمی توان حساب را پیدا کرد";
+"alerts.accountCannotBeFoundMessage" = "حساب در شبکه جمی یافت نشد. اطمینان حاصل کنید که آن در جمی و از یک دستگاه موجود، برون‌برد شده، و مدارک ارائه‌شده صحیح است.";
+"alerts.accountAddedTitle" = "حساب افزوده شد.";
+"alerts.accountNoNetworkTitle" = "نمی‌توان به شبکه وصل شد";
+"alerts.accountNoNetworkMessage" = "نمی‌توان حساب را افزود، زیرا جمی نتوانست به شبکهٔ توزیع شده وصل شود. اتّصال دستگاهتان را بررسی کنید.";
+"alerts.accountDefaultErrorTitle" = "خطای ناشناخته";
+"alerts.accountDefaultErrorMessage" = "حساب ایجاد نشد.";
+"alerts.profileTakePhoto" = "عکس  بگیرید!";
+"alerts.profileUploadPhoto" = "بارگذاری عکس";
+"alerts.profileCancelPhoto" = "لغو";
+"alerts.accountLinkedTitle" = "پیوند دادن حسابها";
+"alerts.dbFailedTitle" = "خطایی هنگام راه‌اندازی جامی رخ داد";
+"alerts.dbFailedMessage" = "لطفا برنامه را ببندید و دوباره آن را باز کنید.";
+"alerts.confirmBlockContact" = "آیا مطمئن هستید که میخواهید این مخاطب را مسدود کنید؟ تاریخچه گفتگو با این مخاطب برای همیشه پاک خواهد شد.";
+"alerts.confirmBlockContactTitle" = "مسدود سازی مخاطب";
+"alerts.confirmDeleteConversation" = "آیا اطمینان دارید که می‌خواهید این گفتگو را برای همیشه پاک کنید؟";
+"alerts.confirmDeleteConversationFromContact" = "آیا مطمئن هستید که میخواهید این گفتگو با این مخاطب را پاک کنید؟";
+"alerts.confirmDeleteConversationTitle" = "پاک کردن گفتگو";
+"alerts.confirmClearConversation" = "اطمینان دارید که می‌خواهید گفتگو با این مخاطب را پاک کنید؟";
+"alerts.confirmClearConversationTitle" = "پاک کردن گفتگو";
+"alerts.noMediaPermissionsTitle" = "مجوز رسانه داده نشده است";
+"alerts.noLibraryPermissionsTitle" = "دسترسی به کتابخانه تصاویر داده نشده است";
+"alerts.noLocationPermissionsTitle" = "دسترسی به مکان داده نشده است";
+"alerts.errorWrongCredentials" = "توانایی اتصال به مدیریت حساب ارائه‌شده را نداریم. لطفا اعتبارنامه‌های خود را بررسی کنید.";
+"alerts.recordVideoMessage" = "ضبط یک پیام تصویری";
+"alerts.recordAudioMessage" = "ضبط یک پیام صوتی";
+"alerts.uploadFile" = "بارگذاری فایل";
+"alerts.uploadPhoto" = "بارگذاری عکس یا فیلم";
+"alerts.locationServiceIsDisabled" = "\"خدمات موقعیت مکانی\" را روشن کنید تا به \"جمی\" اجازه دهید مکان شما را تعیین کند.";
+"alerts.locationSharing" = "هم‌رسانی مکان من";
+"alerts.alreadylocationSharing" = "در حال حاضر مکان را با این کاربر به اشتراک می‌گذارید";
+"alerts.locationSharingDurationTitle" = "مدت اشتراک مکان باید چقدر باشد؟";
+"alerts.locationSharingDuration10min" = "10 دقیقه";
+"alerts.locationSharingDuration1hour" = "1 ساعت";
+"alerts.mapInformation" = "اطلاعات نقشه";
+"alerts.openStreetMapCopyright" = "همکاران OpenStreetMap ©";
+"alerts.openStreetMapCopyrightMoreInfo" = "اطلاعات بیشتر";
+
+//Actions
+"actions.blockAction" = "مسدود";
+"actions.deleteAction" = "حذف";
+"actions.cancelAction" = "لغو";
+"actions.clearAction" = "پاک‌سازی";
+"actions.backAction" = "بازگشت";
+"actions.doneAction" = "انجام شد";
+"alerts.incomingCallAllertTitle" = "تماس دریافتی از";
+"alerts.incomingCallButtonAccept" = "پذیرش";
+"alerts.incomingCallButtonIgnore" = "رد";
+"actions.startAudioCall" = "تماس صوتی";
+"actions.startVideoCall" = "تماس تصویری";
+"actions.goToSettings" = "برو به تنظیمات";
+"actions.stopLocationSharing" = "توقف اشتراک‌گذاری";
+
+//Calls
+"calls.callItemTitle" = "برقراری تماس";
+"calls.unknown" = "ناشناخته";
+"calls.incomingCallInfo" = "میخواهد با شما حرف بزند";
+"calls.ringing" = "در حال زنگ خوردن...";
+"calls.connecting" = "در حال اتصال...";
+"calls.searching" = "در حال جستجو...";
+"calls.callFinished" = "تماس پایان یافت";
+"calls.currentCallWith" = "تماس با";
+"calls.haghUp" = "قطع‌کردن";
+"calls.maximize" = "به حداکثر رساندن";
+"calls.minimize" = "به‌حداقل‌رساندن";
+"calls.setModerator" = "تعیین مدیر";
+"calls.removeModerator" = "لغو میدیریت";
+"calls.muteAudio" = "قطع صدا";
+"calls.unmuteAudio" = "برقراری صدا";
+
+//Account Page
+"accountPage.devicesListHeader" = "دستگاه ها";
+"accountPage.settingsHeader" = "تنظیمات";
+"accountPage.username" = "نام کاربری";
+"accountPage.usernameNotRegistered" = "نام کاربری: ثبت نشده";
+"accountPage.credentialsHeader" = "جزییات حساب کاربری";
+"accountPage.enableProxy" = "فعال سازی پروکسی";
+"accountPage.blockedContacts" = "مخاطبین مسدود‌شده";
+"accountPage.unblockContact" = "رفع مسدودی";
+"accountPage.proxyAddressAlert" = "تامین آدرس پروکسی";
+"accountPage.enableProxy" = "فعال سازی پروکسی";
+"accountPage.noProxyExplanationLabel" = "هنگامی که پروکسی غیرفعال است، دستگاه شما اعلان دریافت نمی‌کند";
+"accountPage.saveProxyAddress" = "ذخیره";
+"accountPage.proxyPaceholder" = "آدرس پروکسی";
+"accountPage.enableNotifications" = "فعال سازی نوتیفیکیشن ها";
+"accountPage.proxyDisabledAlertTitle" = "سرور پروکسی غیرفعال شد";
+"accountPage.proxyDisabledAlertBody" = "برای دریافت نوتیفیکیشن ها، لطفا پروکسی را فعال کنید";
+"accountPage.revokeDeviceTitle" = "باطل کردن دستگاه";
+"accountPage.revokeDeviceMessage" = "اطمینان دارید که می‌خواهید دسترسی این دستگاه را باطل کنید؟ این عمل قابل برگشت نیست.";
+"accountPage.revokeDeviceButton" = "باطل کردن";
+"accountPage.revokeDevicePlaceholder" = "گذرواژه خود را وارد کنید";
+"accountPage.deviceRevoked" = "ابطال دستگاه تکمیل شد";
+"accountPage.deviceRevocationProgress" = "در حال ابطال...";
+"accountPage.deviceRevocationSuccess" = "دسترسی دستگاه باطل شد";
+"accountPage.deviceRevocationTryAgain" = "تلاش دوباره";
+"accountPage.deviceRevocationWrongPassword" = "گذرواژه ناصحیح";
+"accountPage.deviceRevocationUnknownDevice" = "دستگاه ناشناس";
+"accountPage.deviceRevocationError" = "خطا در ابطال دستگاه";
+"accountPage.namePlaceholder" = "نام";
+"accountPage.linkDeviceTitle" = "پیوند یک دستگاه دیگر";
+"accountPage.other" = "دیگر";
+"accountPage.removeAccountTitle" = "حذف حساب";
+"accountPage.removeAccountMessage" = "با کلیک روی \"حذف\"، این حساب را در این دستگاه حذف خواهید کرد! این عمل قابل بازگشت نیست. همچنین، نام ثبت‌شده شما می تواند از‌ دست رود.";
+"accountPage.removeAccountButton" = "حذف کن";
+"accountPage.shareAccountDetails" = "اشتراک جزییات حساب";
+"accountPage.contactMeOnJamiTitle" = "با من روی جمی در تماس باشید!";
+"accountPage.contactMeOnJamiContant" = "با استفاده از \"%s\" روی بستر ارتباط توزیع‌شده جمی، با من در تماس باشید: https://jami.net";
+"accountPage.registerNameTitle" = "ثبت یک نام‌کاربری";
+"accountPage.passwordPlaceholder" = "گذرواژه حساب را وارد کنید";
+"accountPage.usernamePlaceholder" = "نام کاربری دلخواه را وارد کنید";
+"accountPage.registerNameErrorMessage" = "نام کاربری انتخاب‌شده در دسترس نیست";
+"accountPage.usernameRegistering" = "ثبت‌نام";
+"accountPage.usernameRegisterAction" = "ثبت‌نام";
+"accountPage.usernameRegistrationFailed" = "انتقال ناموفق بود، لطفا گذرواژه را بررسی کنید.";
+"accountPage.createPassword" = "ایجاد گذرواژه";
+"accountPage.changePassword" = "تغییر گذرواژه";
+"accountPage.oldPasswordPlaceholder" = "گذرواژه قدیمی را وارد کنید";
+"accountPage.newPasswordPlaceholder" = "گذرواژه جدید را وارد کنید";
+"accountPage.newPasswordConfirmPlaceholder" = "تایید گذرواژه جدید";
+"accountPage.changePasswordError" = "گذرواژه نادرست است";
+"accountPage.enableBoothMode" = "فعال‌سازی حالت غرفه";
+"accountPage.disableBoothMode" = "غیر‌فعال‌سازی حالت غرفه";
+"accountPage.disableBoothModeExplanation" = "گذرواژه حساب‌تان را وارد کنید";
+"accountPage.boothModeExplanation" = "در حالت غرفه سابقه گفتگو ذخیره نمی‌شود و عملکرد جمی به برقراری تماس‌های خروجی محدود می‌شود. وقتی حالت غرفه را فعال کنید، تمامی گفتگو‌های شما حذف می‌شوند.";
+"accountPage.noBoothMode" = "برای فعال‌سازی حالت غرفه ابتدا باید گذرواژه حساب ایجاد کنید.";
+"accountPage.boothModeAlertMessage" = "بعد از فعال‌سازی حالت غرفه، تمامی گفتگوهای شما حذف می‌شوند.";
+"accountPage.peerDiscovery" = "اتصال خودکار در شبکه محلی";
+"accountPage.autoRegistration" = "ثبت‌نام خودکار پس از انقضا";
+
+//Account
+"account.sipUsername" = "نام کاربر";
+"account.sipPassword" = "گذرواژه";
+"account.sipServer" = "سرور SIP";
+"account.port" = "پرت";
+"account.proxyServer" = "پراکسی";
+"account.createSipAccount" = "ایجاد یک حساب SIP";
+"account.usernameLabel" = "نام‌کاربری را وارد کنید";
+"account.passwordLabel" = "گذرواژه را وارد کنید";
+"account.serverLabel" = "آدرس را وارد کنید";
+"account.portLabel" = "شماره درگاه را وارد کنید";
+"account.accountStatus" = "وضعیت حساب";
+"account.enableAccount" = "فعال‌سازی حساب";
+"account.statusOnline" = "آنلاین";
+"account.statusOffline" = "آفلاین";
+"account.statusConnecting" = "در حال اتصال";
+"account.statusUnknown" = "ناشناخته";
+"account.statusConnectionerror" = "خطای ارتباط";
+"account.needMigration" = "نیاز است که حساب شما انتقال یابد.";
+"account.me" = "من";
+
+//Block List Page
+"blockListPage.noBlockedContacts" = "مخاطب مسدودی وجود ندارد";
+
+//Link New Device
+"linkDevice.title" = "پیوند یک دستگاه جدید";
+"linkDevice.passwordError" = "گذرواژه‌ای که وارد کردید قفل این حساب کاربری را باز نمی‌کند";
+"linkDevice.networkError" = "یک خطای در ارتباط با شبکه  در زمان برون ریزی رخ داد.";
+"linkDevice.defaultError" = "یک خطا  در زمان برون ریزی رخ داد.";
+"linkDevice.explanationMessage" = "برای کامل کردن فرایند، باید جمی را روی دستگاه جدید باز کرده و  «پیوند این دستگاه به یک حساب» را انتخاب کنید. پین شما برای 10 دقیقه اعتبار دارد";
+"linkDevice.hudMessage" = " در حال انجام تأیید...";
+
+//Contact Page
+"contactPage.startAudioCall" = "شروع تماس صوتی";
+"contactPage.startVideoCall" = "شروع تماس تصویری";
+"contactPage.sendMessage" = "ارسال پیام";
+"contactPage.clearConversation" = "پاکسازی چت";
+"contactPage.blockContact" = "مسدود سازی مخاطب";
+"contactPage.removeConversation" = "حذف گفتگو";
+
+//DataTransfer
+"dataTransfer.readableStatusCreated" = "آغازِ فرایند...";
+"dataTransfer.readableStatusError" = "خطا";
+"dataTransfer.readableStatusAwaiting" = "در انتظار...";
+"dataTransfer.readableStatusRefuse" = "رد کردن";
+"dataTransfer.readableStatusOngoing" = "در حال انتقال";
+"dataTransfer.readableStatusCanceled" = "لغو شده";
+"dataTransfer.sendingFailed" = "ارسال موفق نبود";
+"dataTransfer.readableStatusSuccess" = "کامل شد";
+"dataTransfer.readableStatusAccept" = "پذیرش";
+"dataTransfer.readableStatusCancel" = "لغو";
+
+//Notifications
+"notifications.incomingCall" = "تماس ورودی";
+"notifications.missedCall" = "تماس از‌دست‌رفته";
+"notifications.acceptCall" = "پذیرفتن";
+"notifications.refuseCall" = "رد کردن";
+"notifications.newFile" = "فایل جدید";
+"notifications.locationSharingStarted" = "اشتراک مکان ورودی شروع شد";
+"notifications.locationSharingStopped" = "اشتراک مکان ورودی متوقف شد";
+"dataTransfer.readableStatusAwaiting" = "در انتظار...";
+"dataTransfer.readableStatusRefuse" = "رد کردن";
+"dataTransfer.readableStatusOngoing" = "در حال انتقال";
+"dataTransfer.readableStatusCanceled" = "لغو شده";
+"dataTransfer.readableStatusSuccess" = "کامل شد";
+"dataTransfer.readableStatusAccept" = "پذیرش";
+"dataTransfer.readableStatusCancel" = "لغو";
+"dataTransfer.infoMessage" = "برای شروع ضبط فشار دهید";
+"dataTransfer.sendMessage" = "ارسال";
+
+
+//Generated Message
+"generatedMessage.contactAdded" = "مخاطب افزوده شد";
+"generatedMessage.invitationReceived" = "دعوت‌نامه دریافت شد";
+"generatedMessage.invitationAccepted" = "دعوت پذیرفته شد";
+"generatedMessage.outgoingCall" = "تماس خروجی";
+"generatedMessage.incomingCall" = "تماس ورودی";
+"generatedMessage.missedOutgoingCall" = "تماس خروجی از‌دست‌رفته";
+"generatedMessage.missedIncomingCall" = "تماس ورودی از‌دست‌رفته";
+"generatedMessage.liveLocationSharing" = "هم‌رسانی زنده مکان";
+
+//General Settings
+"generalSettings.title" = "تنظیمات پیشرفته";
+"generalSettings.videoAcceleration" = "فعال‌سازی شتاب‌دهی ویدیو";
+
+//Migrate Account
+"migrateAccount.title" = "مهاجرت حساب";
+"migrateAccount.migrateButton" = "انتقال حساب";
+"migrateAccount.explanation" = "نیاز است که این حساب انتقال یابد.";
+"migrateAccount.passwordPlaceholder" = "گذرواژه را وارد کنید";
+"migrateAccount.passwordExplanation" = "برای پیشبرد انتقال، باید گذرواژه‌ای را که برای این حساب استفاده شده، وارد کنید.";
+"migrateAccount.removeAccount" = "حذف حساب";
+"migrateAccount.error" = "انتقال حساب ناموفق بود. می‌توانید دوباره سعی کرده و یا حساب خود را حذف کنید.";
+"migrateAccount.migrating" = "در حال انتقال...";
+"migrateAccount.cancel" = "لغو";
+"migrateAccount.migrateAnother" = "انتقال حساب دیگر";
+
+

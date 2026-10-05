@@ -1,0 +1,353 @@
+﻿ /*
+ *  Copyright (C) 2017-2019 Savoir-faire Linux Inc.
+ *
+ *  Author: Silbino Gonçalves Matado <silbino.gmatado@savoirfairelinux.com>
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ */
+
+// Global
+"global.homeTabBarTitle" = "Biseda";
+"global.meTabBarTitle" = "Rregullime Llogarie";
+"global.ok" = "OK";
+"global.versionName" = "Maloya";
+"global.close" = "Mbylle";
+"global.share" = "Ndajeni me të tjerë";
+"global.forward" = "Përcille";
+"global.save" = "Ruaje";
+"global.resend" = "Ridërgoje";
+"global.preview" = "Paraparje";
+
+// Scan
+"scan.badQrCode" = "Kod QR i gabuar";
+"scan.search" = "Po kërkohet…";
+
+// Smartlist
+"smartlist.yesterday" = "Dje";
+"smartlist.results" = "Drejtori Publike";
+"smartlist.conversations" = "Biseda";
+"smartlist.searching" = "Po kërkohet…";
+"smartlist.noResults" = "S’ka përfundime";
+"smartlist.noConversation" = "S’ka biseda";
+"smartlist.searchBarPlaceholder" = "Jepni emrin…";
+"smartlist.searchBar" = "Kërkoni për kontakt të ri ose ekzistues…";
+"smartlist.noNetworkConnectivity" = "Pa lidhje në rrjet";
+"smartlist.cellularAccess" = "Sigurohuni qe te rregullimet tuaja i është dhënë hyrje te celulari";
+"smartlist.accountsTitle" = "Llogari";
+"smartlist.addAccountButton" = "+ Shtoni Llogari";
+"smartlist.noNumber" = "Kontakti i përzgjedhur s’ka ndonjë numër";
+"smartlist.selectOneNumber" = "Përzgjidhni një nga numrat";
+"smartlist.invitations" = "Ftesa";
+"smartlist.accountSettings" = "Rregullime Llogarie";
+"smartlist.advancedSettings" = "Rregullime të Mëtejshme";
+"smartlist.aboutJami" = "Mbi Jami-n";
+
+//Conversation
+"conversation.messagePlaceholder" = "Shkruani mesazh për";
+"conversation.explanationSendingLocationTo" = "Aktualisht e ndani vendndodhjen tuaj me ";
+"conversation.explanationReceivingLocationFrom" = "Aktualisht merrni drejtpërdrejt vendndodhje nga";
+"conversation.errorSavingImage" = "S’u arrit të dërgohet figurë te galeri";
+
+//Invitations
+"invitations.noInvitations" = "S’ka ftesa";
+
+// Walkthrough
+
+//Welcome Screen
+"welcome.title" = "Mirë se vini te Jami !";
+"welcome.text" = "Jami është një platformë e lirë dhe universale komunikimesh që ruan privatësinë dhe liritë e përdoruesve";
+"welcome.linkDevice" = "Lidheni këtë pajisje me një llogari";
+"welcome.createAccount" = "Krijoni një llogari Jami";
+"welcome.connectToManager" = "Lidhu me një shërbyes JAMS";
+
+//Creation Profile Screen
+"createProfile.skipCreateProfile" = "Anashkaloje";
+"createProfile.profileCreated" = "Pasuesi";
+"createProfile.title" = "Personalizoni profilin tuaj";
+"createProfile.enterNameLabel" = "Jepni një emër për në ekran";
+"createProfile.enterNamePlaceholder" = "Jepni emër";
+"createProfile.subtitle" = "Profili juaj do të ndahet me kontaktet tuaja. Mund ta ndryshoni në çfarëdo kohe.";
+"createProfile.createYourAvatar" = "Krijoni avatarin tuaj";
+
+//Create Account form
+"createAccount.createAccountFormTitle" = "Krijoni llogarinë tuaj";
+"createAccount.chooseStrongPassword" = "Për të mbrojtur llogarinë tuaj Jami, zgjidhni fjalëkalim të fuqishëm që do ta mbani mend.";
+"createAccount.enterNewUsernamePlaceholder" = "Emër përdoruesi";
+"createAccount.newPasswordPlaceholder" = "Fjalëkalim";
+"createAccount.repeatPasswordPlaceholder" = "Ripohoni fjalëkalimin";
+"createAccount.passwordCharactersNumberError" = "Minimumi 6 shenja";
+"createAccount.passwordNotMatchingError" = "fjalëkalimet nuk përputhen";
+"createAccount.lookingForUsernameAvailability" = "po shihet për pasje…";
+"createAccount.invalidUsername" = "emër përdoruesi i pavlefshëm";
+"createAccount.usernameAlreadyTaken" = "emër përdoruesi tashmë i zënë";
+"createAccount.usernameValid" = "emri i përdoruesit është i lirë";
+"createAccount.loading" = "Po ngarkohet";
+"createAccount.waitCreateAccountTitle" = "Po shtohet llogaria";
+"createAccount.RegisterAUsername" = "Regjistroni një emër përdoruesi";
+"createAccount.ChooseAPassword" = "Fshehtëzoje llogarinë time";
+"createAccount.PasswordInformation" = "Zgjidhni një fjalëkalim për të fshehtëzuar llogarinë tuaj vendore. Mos e harroni, përndryshe s’do të jeni në gjendje të rimerrni llogarinë tuaj";
+"createAccount.EnableNotifications" = "Njoftime";
+"createAccount.Recommended" = "(E këshilluar)";
+"createAccount.UsernameNotRegisteredTitle" = "Gabim rrjeti";
+"createAccount.UsernameNotRegisteredMessage" = "Llogaria u krijua, por emri i përdoruesit s’u regjistrua";
+"createAccount.timeoutTitle" = "Llogaria u Krijua";
+"createAccount.timeoutMessage" = "Regjistrim përdoruesi në kryerje e sipër… Mund të dojë pak çaste.";
+
+//Link To Account form
+"linkToAccount.waitLinkToAccountTitle" = "Lidhje llogarish";
+"linkToAccount.linkButtonTitle" = "Lidhni pajisje";
+"linkToAccount.passwordPlaceholder" = "Fjalëkalim";
+"linkToAccount.pinPlaceholder" = "PIN";
+"linkToAccount.passwordLabel" = "Jepni Fjalëkalimin";
+"linkToAccount.pinLabel" = "Jepni PIN-in";
+"linkToAccount.explanationPinMessage" = "Që të prodhohet kodi PIN, kaloni te ndarja e administrimit të llogarive, te pajisja që përmban llogarinë që doni të përdorni. Te rregullime pajisje, Përzgjidhni \"Lidhni me këtë llogari një pajisje tjetër\". Do të merrni PIN-in e nevojshëm për të plotësuar këtë formular. PIN-i vlen vetëm për 10 minuta.";
+
+//Link To Account Manager form
+"linkToAccountManager.signIn" = "Hyni";
+"linkToAccountManager.passwordPlaceholder" = "Fjalëkalim";
+"linkToAccountManager.passwordLabel" = "Jepni Fjalëkalimin";
+"linkToAccountManager.usernamePlaceholder" = "Emër përdoruesi";
+"linkToAccountManager.usernameLabel" = "Jepni Emër Përdoruesi";
+"linkToAccountManager.accountManagerPlaceholder" = "URL JAM-i";
+"linkToAccountManager.accountManagerLabel" = "Jepni URL JAMS-i";
+
+//Alerts
+"alerts.accountCannotBeFoundTitle" = "S’gjendet dot llogari";
+"alerts.accountCannotBeFoundMessage" = "S’u gjet dot llogaria në rrjetin Jami. Sigurohuni që qe eksportuar në Jami që prej një pajisjeje ekzistuese, dhe që kredencialet e dhëna për hyrjen janë të sakta.";
+"alerts.accountAddedTitle" = "Llogaria u Shtua";
+"alerts.accountNoNetworkTitle" = "S’lidhet dot te rrjeti";
+"alerts.accountNoNetworkMessage" = "S’u shtua dot llogaria, ngaqë Jami s’u lidh dot me rrjetin e shpërndarë. Kontrolloni lidhjen e pajisjes tuaj.";
+"alerts.accountDefaultErrorTitle" = "Gabim i panjohur";
+"alerts.accountDefaultErrorMessage" = "Llogaria s’u krijua dot.";
+"alerts.profileTakePhoto" = "Bëni një foto";
+"alerts.profileUploadPhoto" = "Ngarkoni foto";
+"alerts.profileCancelPhoto" = "Anuloje";
+"alerts.accountLinkedTitle" = "Po lidhet llogaria";
+"alerts.dbFailedTitle" = "Ndodhi një gabim gjatë nisjes së Jami-t";
+"alerts.dbFailedMessage" = "Ju lutemi, mbylleni aplikacionin dhe provoni ta rihapni";
+"alerts.confirmBlockContact" = "Jeni i sigurt se doni të bllokohet ky kontakt? Edhe historiku i bisedave me këtë kontakt do të fshihet përgjithmonë.";
+"alerts.confirmBlockContactTitle" = "Bllokoje Kontaktin";
+"alerts.confirmDeleteConversation" = "Jeni i sigurt se doni të fshihet përgjithmonë kjo bisedë?";
+"alerts.confirmDeleteConversationFromContact" = "Jeni i sigurt se doni të fshihet biseda me këtë kontakt?";
+"alerts.confirmDeleteConversationTitle" = "Fshije Bisedën";
+"alerts.confirmClearConversation" = "Jeni i sigurt se doni të fshihet biseda me këtë kontakt?";
+"alerts.confirmClearConversationTitle" = "Spastroje Bisedën";
+"alerts.noMediaPermissionsTitle" = "S'u akordua leje mbi media";
+"alerts.noLibraryPermissionsTitle" = "S’u akordua hyrje te fototekë";
+"alerts.noLocationPermissionsTitle" = "S’u akordua hyrje te vendndodhje";
+"alerts.errorWrongCredentials" = "S’lidhet dot te përgjegjësi i dhënë i llogarive. Ju lutemi, kontrolloni kredencialet tuaja";
+"alerts.recordVideoMessage" = "Regjistroni një mesazh video";
+"alerts.recordAudioMessage" = "Incizoni një mesazh audio";
+"alerts.uploadFile" = "Ngarkoni kartelë";
+"alerts.uploadPhoto" = "Ngarkoni foto ose film";
+"alerts.locationServiceIsDisabled" = "Për ta lejuar Jami-in të përcaktojë vendndodhjen tuaj, aktivizoni “Shërbime Vendndodhjesh”.";
+"alerts.locationSharing" = "Jepua vendndodhjen time";
+"alerts.alreadylocationSharing" = "Ia keni dhënë tashmë vendndodhjen këtij përdoruesi";
+"alerts.locationSharingDurationTitle" = "Për sa kohë duhet dhënë vendndodhja?";
+"alerts.locationSharingDuration10min" = "10 min";
+"alerts.locationSharingDuration1hour" = "1 orë";
+"alerts.mapInformation" = "Të dhëna harte";
+"alerts.openStreetMapCopyright" = "© Kontribues te  OpenStreetMap";
+"alerts.openStreetMapCopyrightMoreInfo" = "Mësoni më tepër";
+
+//Actions
+"actions.blockAction" = "Bllokoje";
+"actions.deleteAction" = "Fshije";
+"actions.cancelAction" = "Anuloje";
+"actions.clearAction" = "Spastroje";
+"actions.backAction" = "Mbrapsht";
+"actions.doneAction" = "U bë";
+"alerts.incomingCallAllertTitle" = "Thirrje nga";
+"alerts.incomingCallButtonAccept" = "Pranoje";
+"alerts.incomingCallButtonIgnore" = "Shpërfille";
+"actions.startAudioCall" = "Thirrje Audio";
+"actions.startVideoCall" = "Thirrje Video";
+"actions.goToSettings" = "Kalo te Rregullimet";
+"actions.stopLocationSharing" = "Resht së dhëni";
+
+//Calls
+"calls.callItemTitle" = "Thirre";
+"calls.unknown" = "I panjohur";
+"calls.incomingCallInfo" = "dëshiron të flasë me ju";
+"calls.ringing" = "Po thirret…";
+"calls.connecting" = "Po lidhet…";
+"calls.searching" = "Po kërkohet…";
+"calls.callFinished" = "Thirrja përfundoi";
+"calls.currentCallWith" = "Thirre me";
+"calls.haghUp" = "mbylleni";
+"calls.maximize" = "maksimizoje";
+"calls.minimize" = "minimizoje";
+"calls.setModerator" = "vëre moderator";
+"calls.removeModerator" = "hiqe nga moderator";
+"calls.muteAudio" = "hiqi zërin";
+"calls.unmuteAudio" = "ktheji zërin";
+
+//Account Page
+"accountPage.devicesListHeader" = "Pajisje";
+"accountPage.settingsHeader" = "Rregullime";
+"accountPage.username" = "Emër përdoruesi";
+"accountPage.usernameNotRegistered" = "emër përdoruesi: jo i regjistruar";
+"accountPage.credentialsHeader" = "Hollësi Llogarie";
+"accountPage.enableProxy" = "Aktivizo Ndërmjetës";
+"accountPage.blockedContacts" = "Kontakte të bllokuar";
+"accountPage.unblockContact" = "ZHBLLOKOJE";
+"accountPage.proxyAddressAlert" = "Jepni adresë ndërmjetësi";
+"accountPage.enableProxy" = "Aktivizo Ndërmjetës";
+"accountPage.noProxyExplanationLabel" = "Pajisja juaj s’do të marrë njoftime kur ndërmjetësi të jetë çaktivizuar";
+"accountPage.saveProxyAddress" = "Ruaje";
+"accountPage.proxyPaceholder" = "Adresë ndërmjetësi";
+"accountPage.enableNotifications" = "Aktivizoni Njoftime";
+"accountPage.proxyDisabledAlertTitle" = "Shërbyesi Ndërmjetës u Çaktivizua";
+"accountPage.proxyDisabledAlertBody" = "Që të mund të merrni njoftime, ju lutemi, aktivizoni ndërmjetësin";
+"accountPage.revokeDeviceTitle" = "Shfuqizoje pajisjen";
+"accountPage.revokeDeviceMessage" = "Jeni i sigurt se doni të shfuqizohet kjo pajisje? Ky veprim s’mund të zhbëhet.";
+"accountPage.revokeDeviceButton" = "Shfuqizoje";
+"accountPage.revokeDevicePlaceholder" = "Jepni fjalëkalimin tuaj";
+"accountPage.deviceRevoked" = "Shfuqizimi i pajisjes u plotësua";
+"accountPage.deviceRevocationProgress" = "Po shfuqizohet…";
+"accountPage.deviceRevocationSuccess" = "Pajisja u shfuqizua";
+"accountPage.deviceRevocationTryAgain" = "Riprovoni";
+"accountPage.deviceRevocationWrongPassword" = "Fjalëkalim i pasaktë";
+"accountPage.deviceRevocationUnknownDevice" = "Pajisje e panjohur";
+"accountPage.deviceRevocationError" = "Gabim shfuqizimi pajisjeje";
+"accountPage.namePlaceholder" = "Emër";
+"accountPage.linkDeviceTitle" = "Lidhni një pajisje tjetër";
+"accountPage.other" = "Tjetër";
+"accountPage.removeAccountTitle" = "Hiqe llogarinë";
+"accountPage.removeAccountMessage" = "Duke klikuar \"Hiqe\", do ta hiqni këtë llogari nga kjo pajisje! Ky veprim s’mund të zhbëhet. Po ashtu, emri juaj i regjistruar mund të humbë.";
+"accountPage.removeAccountButton" = "Hiqe";
+"accountPage.shareAccountDetails" = "Nda Hollësi Llogarie";
+"accountPage.contactMeOnJamiTitle" = "Lidhuni me mua në Jami!";
+"accountPage.contactMeOnJamiContant" = "Lidhuni me mua duke përdorur \"%s\" në platformën e komunikimeve të shpërndara Jami: https://jami.net";
+"accountPage.registerNameTitle" = "Regjistroni një emër përdoruesi";
+"accountPage.passwordPlaceholder" = "Jepni fjalëkalim llogarie";
+"accountPage.usernamePlaceholder" = "Jepni emrin e dëshiruar të përdoruesit";
+"accountPage.registerNameErrorMessage" = "Emri i përdoruesit i zgjedhur s’është i lirë";
+"accountPage.usernameRegistering" = "Regjistrim";
+"accountPage.usernameRegisterAction" = "Regjistrohuni";
+"accountPage.usernameRegistrationFailed" = "Regjistrimi dështoi. Ju lutemi, kontrolloni fjalëkalimin.";
+"accountPage.createPassword" = "Krijoje fjalëkalimin";
+"accountPage.changePassword" = "Ndryshoni fjalëkalimin";
+"accountPage.oldPasswordPlaceholder" = "Jepni fjalëkalimin e vjetër";
+"accountPage.newPasswordPlaceholder" = "Jepni fjalëkalimin e ri";
+"accountPage.newPasswordConfirmPlaceholder" = "Ripohoni fjalëkalimin e ri";
+"accountPage.changePasswordError" = "Fjalëkalim i pasaktë";
+"accountPage.enableBoothMode" = "Aktivizo Mënyrën Kabinë";
+"accountPage.disableBoothMode" = "Çaktivizo Mënyrën Kabinë";
+"accountPage.disableBoothModeExplanation" = "Ju lutemi, jepni fjalëkalimin e llogarisë tuaj";
+"accountPage.boothModeExplanation" = "Në mënyrën kabinë, historiku i bisedës s’ruhet dhe funksionet e Jami-t kufizohen në bërje thirrjesh. Kur aktivizoni mënyrën kabinë, krejt bisedat tuaja do të hiqen.";
+"accountPage.noBoothMode" = "Që të aktivizohet mënyra Kabinë, lypset të krijoni një fjalëkalim llogarie së pari.";
+"accountPage.boothModeAlertMessage" = "Pas aktivizimit të mënyrës Kabinë, krej bisedat tuaja do të hiqen.";
+"accountPage.peerDiscovery" = "Vetëlidhu në rrjet vendor";
+"accountPage.autoRegistration" = "Regjistrohu automatikisht pas skadimit";
+
+//Account
+"account.sipUsername" = "Emër Përdoruesi";
+"account.sipPassword" = "Fjalëkalim";
+"account.sipServer" = "Shërbyes SIP";
+"account.port" = "Portë";
+"account.proxyServer" = "Ndërmjetës";
+"account.createSipAccount" = "Krijoni një Llogari SIP";
+"account.usernameLabel" = "Jepni Emër Përdoruesi";
+"account.passwordLabel" = "Jepni Fjalëkalimin";
+"account.serverLabel" = "Jepni Adresë";
+"account.portLabel" = "Jepni Numër Porte";
+"account.accountStatus" = "Gjendje Llogarie";
+"account.enableAccount" = "Akitvizo Llogari";
+"account.statusOnline" = "Në linjë";
+"account.statusOffline" = "Jo në linjë";
+"account.statusConnecting" = "Po lidhet";
+"account.statusUnknown" = "I panjohur";
+"account.statusConnectionerror" = "Gabim Lidhjeje";
+"account.needMigration" = "llogari që duhet migruar";
+"account.me" = "Unë";
+
+//Block List Page
+"blockListPage.noBlockedContacts" = "S’ka kontakte të bllokuar";
+
+//Link New Device
+"linkDevice.title" = "Lidhni një pajisje të re";
+"linkDevice.passwordError" = "Fjalëkalimi që dhatë nuk e shkyç këtë llogari";
+"linkDevice.networkError" = "Ndodhi një gabim rrjeti gjatë eksportimit";
+"linkDevice.defaultError" = "Ndodhi një gabim gjatë eksportimit";
+"linkDevice.explanationMessage" = "Që të plotësohet procesi, lypset ta hapni Jami-n në pajisjen e re dhe të zgjidhni mundësinë \"Lidhe këtë pajisje me një llogari.\" PIN-i juaj është i vlefshëm për 10 minuta";
+"linkDevice.hudMessage" = "Po verifikohet";
+
+//Contact Page
+"contactPage.startAudioCall" = "Filloni Thirrje Audio";
+"contactPage.startVideoCall" = "Filloni Thirrje Video";
+"contactPage.sendMessage" = "Dërgoni Mesazh";
+"contactPage.clearConversation" = "Spastroje Bisedën";
+"contactPage.blockContact" = "Bllokoje Kontaktin";
+"contactPage.removeConversation" = "Hiqe Bisedën";
+
+//DataTransfer
+"dataTransfer.readableStatusCreated" = "Po gatitet…";
+"dataTransfer.readableStatusError" = "Gabim";
+"dataTransfer.readableStatusAwaiting" = "Pezull…";
+"dataTransfer.readableStatusRefuse" = "Hidhe tej";
+"dataTransfer.readableStatusOngoing" = "Po shpërngulet";
+"dataTransfer.readableStatusCanceled" = "U anulua";
+"dataTransfer.sendingFailed" = "S’u arrit të dërgohej";
+"dataTransfer.readableStatusSuccess" = "E plotë";
+"dataTransfer.readableStatusAccept" = "Pranoje";
+"dataTransfer.readableStatusCancel" = "Anuloje";
+
+//Notifications
+"notifications.incomingCall" = "Thirrje Ardhëse";
+"notifications.missedCall" = "Thirrje të Humbura";
+"notifications.acceptCall" = "PRANOJE";
+"notifications.refuseCall" = "HIDHE POSHTË";
+"notifications.newFile" = "Kartelë e re";
+"notifications.locationSharingStarted" = "Nisi dhënia e vendndodhjes për thirrje ardhëse";
+"notifications.locationSharingStopped" = "Reshti dhënia e vendndodhjes për thirrje ardhëse";
+"dataTransfer.readableStatusAwaiting" = "Pezull…";
+"dataTransfer.readableStatusRefuse" = "Hidhe tej";
+"dataTransfer.readableStatusOngoing" = "Po shpërngulet";
+"dataTransfer.readableStatusCanceled" = "U anulua";
+"dataTransfer.readableStatusSuccess" = "E plotë";
+"dataTransfer.readableStatusAccept" = "Pranoje";
+"dataTransfer.readableStatusCancel" = "Anuloje";
+"dataTransfer.infoMessage" = "Shtypeni që të fillojë regjistrimi";
+"dataTransfer.sendMessage" = "Dërgoje";
+
+
+//Generated Message
+"generatedMessage.contactAdded" = "Kontakti u shtua";
+"generatedMessage.invitationReceived" = "Ftesa u mor";
+"generatedMessage.invitationAccepted" = "Ftesa u pranua";
+"generatedMessage.outgoingCall" = "Thirrje për";
+"generatedMessage.incomingCall" = "Thirrje ardhëse";
+"generatedMessage.missedOutgoingCall" = "Thirrje ikse të humbura";
+"generatedMessage.missedIncomingCall" = "Thirrje ardhëse të humbura";
+"generatedMessage.liveLocationSharing" = "Dhënie “live” e vendndodhjes";
+
+//General Settings
+"generalSettings.title" = "Rregullime të mëtejshme";
+"generalSettings.videoAcceleration" = "Aktivizo përshpejtim videosh";
+
+//Migrate Account
+"migrateAccount.title" = "Migrim llogarie";
+"migrateAccount.migrateButton" = "Migroni Llogari";
+"migrateAccount.explanation" = "Kjo llogari lypset të migrohet";
+"migrateAccount.passwordPlaceholder" = "Jepni fjalëkalimin";
+"migrateAccount.passwordExplanation" = "Që të vazhdohet me migrimin, lypset të jepni një fjalëkalim që qe përdorur për këtë llogari";
+"migrateAccount.removeAccount" = "Hiqe llogarinë";
+"migrateAccount.error" = "S’u arrit të migrohej llogaria juaj. Mund të riprovoni ose të fshini llogarinë tuaj.";
+"migrateAccount.migrating" = "Po migrohet…";
+"migrateAccount.cancel" = "Anuloje";
+"migrateAccount.migrateAnother" = "Migroni Llogari Tjetër";
+
+

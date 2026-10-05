@@ -1,0 +1,353 @@
+﻿ /*
+ *  Copyright (C) 2017-2019 Savoir-faire Linux Inc.
+ *
+ *  Author: Silbino Gonçalves Matado <silbino.gmatado@savoirfairelinux.com>
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ */
+
+// Global
+"global.homeTabBarTitle" = "Konverzace";
+"global.meTabBarTitle" = "Nastavení účtu";
+"global.ok" = "OK";
+"global.versionName" = "Maloya";
+"global.close" = "Zavřít";
+"global.share" = "Sdílet";
+"global.forward" = "Forward";
+"global.save" = "Uložit";
+"global.resend" = "Resend";
+"global.preview" = "Náhled";
+
+// Scan
+"scan.badQrCode" = "Špatný kód QR";
+"scan.search" = "Hledá se…";
+
+// Smartlist
+"smartlist.yesterday" = "Včera";
+"smartlist.results" = "Public Directory";
+"smartlist.conversations" = "Konverzace";
+"smartlist.searching" = "Hledá se...";
+"smartlist.noResults" = "Žádné výsledky";
+"smartlist.noConversation" = "Žádné konverzace";
+"smartlist.searchBarPlaceholder" = "Zadejte jméno...";
+"smartlist.searchBar" = "Search for new or existing contact...";
+"smartlist.noNetworkConnectivity" = "Chybí připojení";
+"smartlist.cellularAccess" = "Ujistěte se, že je v nastavení zaručen buňkový (místní) přístup";
+"smartlist.accountsTitle" = "Účty";
+"smartlist.addAccountButton" = "+ Přidat účet";
+"smartlist.noNumber" = "Vybraný kontakt nemá žádné číslo.";
+"smartlist.selectOneNumber" = "Vyberte jedno z čísel.";
+"smartlist.invitations" = "Pozvání";
+"smartlist.accountSettings" = "Nastavení účtu";
+"smartlist.advancedSettings" = "Advanced Settings";
+"smartlist.aboutJami" = "O Jami";
+
+//Conversation
+"conversation.messagePlaceholder" = "Write message to ";
+"conversation.explanationSendingLocationTo" = "Právě sdílíte svou polohu s ";
+"conversation.explanationReceivingLocationFrom" = "Právě přijímáte aktuální polohu od ";
+"conversation.errorSavingImage" = "Failed to save image to galery";
+
+//Invitations
+"invitations.noInvitations" = "Žádná pozvání";
+
+// Walkthrough
+
+//Welcome Screen
+"welcome.title" = "Vítejte v Jami!";
+"welcome.text" = "Jami je svobodný software a všeobecný dorozumívací systém, který zachovává soukromí a svobody uživatelů.";
+"welcome.linkDevice" = "Připojit toto zařízení k účtu";
+"welcome.createAccount" = "Vytvořit účet Jami";
+"welcome.connectToManager" = "Připojit se k serveru JAMS";
+
+//Creation Profile Screen
+"createProfile.skipCreateProfile" = "Přeskočit";
+"createProfile.profileCreated" = "Další";
+"createProfile.title" = "Přizpůsobte si svůj profil";
+"createProfile.enterNameLabel" = "Zadejte zobrazené jméno";
+"createProfile.enterNamePlaceholder" = "Zadejte jméno";
+"createProfile.subtitle" = "Váš profil bude sdílen s vašimi kontakty. Toto můžete kdykoli změnit.";
+"createProfile.createYourAvatar" = "Vytvořit vlastního avatara";
+
+//Create Account form
+"createAccount.createAccountFormTitle" = "Vytvořit vlastní účet";
+"createAccount.chooseStrongPassword" = "K ochraně účtu Jami si zvolte silné heslo, které si dovedete zapamatovat.";
+"createAccount.enterNewUsernamePlaceholder" = "Uživatelské jméno";
+"createAccount.newPasswordPlaceholder" = "Heslo";
+"createAccount.repeatPasswordPlaceholder" = "Potvrdit heslo";
+"createAccount.passwordCharactersNumberError" = "Nejméně 6 znaků";
+"createAccount.passwordNotMatchingError" = "Hesla se neshodují";
+"createAccount.lookingForUsernameAvailability" = "Zjišťuje se dostupnost…";
+"createAccount.invalidUsername" = "Neplatné uživatelské jméno";
+"createAccount.usernameAlreadyTaken" = "Uživatelské jméno již zabráno";
+"createAccount.usernameValid" = "username is available";
+"createAccount.loading" = "Nahrávání";
+"createAccount.waitCreateAccountTitle" = "Přidávám účet";
+"createAccount.RegisterAUsername" = "Zaregistrovat uživatelské jméno";
+"createAccount.ChooseAPassword" = "Šifrovat můj účet";
+"createAccount.PasswordInformation" = "Zvolte si heslo k zašifrování dat vašeho místního účtu. Nezapomeňte, že svůj účet nebudete moci obnovit.";
+"createAccount.EnableNotifications" = "Oznámení";
+"createAccount.Recommended" = "(doporučeno)";
+"createAccount.UsernameNotRegisteredTitle" = "Chyba sítě";
+"createAccount.UsernameNotRegisteredMessage" = "Účet byl vytvořen, ale uživatelské jméno nebylo registrováno.";
+"createAccount.timeoutTitle" = "Účet byl vytvořen.";
+"createAccount.timeoutMessage" = "Probíhá registrace uživatelského jména... Může to chvíli trvat.";
+
+//Link To Account form
+"linkToAccount.waitLinkToAccountTitle" = "Připojení účtu";
+"linkToAccount.linkButtonTitle" = "Připojit zařízení";
+"linkToAccount.passwordPlaceholder" = "Heslo";
+"linkToAccount.pinPlaceholder" = "PIN";
+"linkToAccount.passwordLabel" = "Zadejte heslo";
+"linkToAccount.pinLabel" = "Zadejte PIN";
+"linkToAccount.explanationPinMessage" = "Pro vytvoření kódu PIN jděte do nastavení správy účtů na zařízení, jež obsahuje účet, který chcete použít. V nastavení vyberte „Připojit k tomuto účtu další zařízení“. \nDostanete PIN nezbytný k dokončení formuláře. PIN zůstává platný jen po 10 minut.";
+
+//Link To Account Manager form
+"linkToAccountManager.signIn" = "Přidat se";
+"linkToAccountManager.passwordPlaceholder" = "Heslo";
+"linkToAccountManager.passwordLabel" = "Zadejte heslo";
+"linkToAccountManager.usernamePlaceholder" = "Uživatelské jméno";
+"linkToAccountManager.usernameLabel" = "Zadejte uživatelské jméno.";
+"linkToAccountManager.accountManagerPlaceholder" = "URL JAMS";
+"linkToAccountManager.accountManagerLabel" = "Enter JAMS URL";
+
+//Alerts
+"alerts.accountCannotBeFoundTitle" = "Nelze nalézt účet";
+"alerts.accountCannotBeFoundMessage" = "Na síti Jami nebyl účet nalezen. Ujistěte se, že byl exportován na Jami z existujícího zařízení a že jsou přihlašovací údaje správné.";
+"alerts.accountAddedTitle" = "Účet přidán";
+"alerts.accountNoNetworkTitle" = "Nelze se připojit k síti";
+"alerts.accountNoNetworkMessage" = "Nebylo možno přidat účet, protože se Jami nedokázal připojit k rozptýlené síti. Prověřte své síťové připojení.";
+"alerts.accountDefaultErrorTitle" = "Neznámá chyba";
+"alerts.accountDefaultErrorMessage" = "Účet se nepodařilo vytvořit.";
+"alerts.profileTakePhoto" = "Vyfotit";
+"alerts.profileUploadPhoto" = "Nahrát fotografii";
+"alerts.profileCancelPhoto" = "Zrušit";
+"alerts.accountLinkedTitle" = "Připojuje se účet";
+"alerts.dbFailedTitle" = "Při spouštění Jami se vyskytla chyba";
+"alerts.dbFailedMessage" = "Zavřete, prosím, program a zkuste jej otevřít znovu";
+"alerts.confirmBlockContact" = "Jste si jistý, že chcete blokovat tento kontakt? Minulost konverzace s tímto spojením bude rovněž trvale smazána.";
+"alerts.confirmBlockContactTitle" = "Blokovat kontakt";
+"alerts.confirmDeleteConversation" = "Jste si jistý, že chcete tuto konverzaci odstranit trvale?";
+"alerts.confirmDeleteConversationFromContact" = "Jste si jistý, že chcete smazat konverzaci s tímto kontaktem?";
+"alerts.confirmDeleteConversationTitle" = "Odstranit konverzaci";
+"alerts.confirmClearConversation" = "Jste si jistý, že chcete vyprázdnit konverzaci s tímto kontaktem?";
+"alerts.confirmClearConversationTitle" = "Vyprázdnit konverzaci";
+"alerts.noMediaPermissionsTitle" = "Oprávnění médií nebyla udělena.";
+"alerts.noLibraryPermissionsTitle" = "Přístup ke knihovně fotek nebyl udělen.";
+"alerts.noLocationPermissionsTitle" = "Přístup k poloze nebyl udělen.";
+"alerts.errorWrongCredentials" = "Nelze se připojit k danému správci účtů. Prosím zkontrolujte své přihlašovací údaje.";
+"alerts.recordVideoMessage" = "Nahrát video zprávu";
+"alerts.recordAudioMessage" = "Nahrát zvukovou zprávu";
+"alerts.uploadFile" = "Nahrát soubor";
+"alerts.uploadPhoto" = "Nahrát fotografii nebo film";
+"alerts.locationServiceIsDisabled" = "Zapněte „Služby polohy“, aby Jami mohl určit vaši polohu.";
+"alerts.locationSharing" = "Sdílet mou polohu";
+"alerts.alreadylocationSharing" = "Poloha je již sdílena s tímto uživatelem.";
+"alerts.locationSharingDurationTitle" = "Jak dlouho má sdílení polohy trvat?";
+"alerts.locationSharingDuration10min" = "10 minut";
+"alerts.locationSharingDuration1hour" = "1 hodina";
+"alerts.mapInformation" = "Informace o mapě";
+"alerts.openStreetMapCopyright" = "Přispěvatelé © OpenStreetMap";
+"alerts.openStreetMapCopyrightMoreInfo" = "Naučit se více";
+
+//Actions
+"actions.blockAction" = "Blokovat";
+"actions.deleteAction" = "Odstranit";
+"actions.cancelAction" = "Zrušit";
+"actions.clearAction" = "Vyprázdnit";
+"actions.backAction" = "Zpět";
+"actions.doneAction" = "Hotovo";
+"alerts.incomingCallAllertTitle" = "Příchozí hovor od";
+"alerts.incomingCallButtonAccept" = "Přijmout";
+"alerts.incomingCallButtonIgnore" = "Přehlížet";
+"actions.startAudioCall" = "Audio hovor";
+"actions.startVideoCall" = "Video hovor";
+"actions.goToSettings" = "Jít to nastavení";
+"actions.stopLocationSharing" = "Přestat sdílet";
+
+//Calls
+"calls.callItemTitle" = "Volat";
+"calls.unknown" = "Neznámé";
+"calls.incomingCallInfo" = "chce s vámi mluvit";
+"calls.ringing" = "Vyzvání…";
+"calls.connecting" = "Spojuje se…";
+"calls.searching" = "Hledá se…";
+"calls.callFinished" = "Hovor ukončen";
+"calls.currentCallWith" = "Volat s ";
+"calls.haghUp" = "Zavěsit";
+"calls.maximize" = "maximize";
+"calls.minimize" = "minimize";
+"calls.setModerator" = "set moderator";
+"calls.removeModerator" = "unset moderator";
+"calls.muteAudio" = "mute audio";
+"calls.unmuteAudio" = "unmute audio";
+
+//Account Page
+"accountPage.devicesListHeader" = "Zařízení";
+"accountPage.settingsHeader" = "Nastavení";
+"accountPage.username" = "Uživatelské jméno";
+"accountPage.usernameNotRegistered" = "uživatelské jméno: neregistrováno";
+"accountPage.credentialsHeader" = "Podrobnosti účtu";
+"accountPage.enableProxy" = "Povolit proxy";
+"accountPage.blockedContacts" = "Blokované kontakty";
+"accountPage.unblockContact" = "ODBLOKOVAT";
+"accountPage.proxyAddressAlert" = "Poskytnout adresu proxy";
+"accountPage.enableProxy" = "Povolit proxy";
+"accountPage.noProxyExplanationLabel" = "Vaše zařízení nebude přijímat oznámení, když je proxy zakázána";
+"accountPage.saveProxyAddress" = "Uložit";
+"accountPage.proxyPaceholder" = "Adresa proxy";
+"accountPage.enableNotifications" = "Povolit oznámení";
+"accountPage.proxyDisabledAlertTitle" = "Server proxy zakázán";
+"accountPage.proxyDisabledAlertBody" = "Pro přijímání oznámení povolte, prosím, proxy";
+"accountPage.revokeDeviceTitle" = "Odebrat zařízení";
+"accountPage.revokeDeviceMessage" = "Opravdu chcete odebrat toto zařízení? Tento krok nelze vrátit zpět.";
+"accountPage.revokeDeviceButton" = "Odebrat";
+"accountPage.revokeDevicePlaceholder" = "Zadejte své heslo";
+"accountPage.deviceRevoked" = "Odebrání zařízení dokončeno";
+"accountPage.deviceRevocationProgress" = "Odebírá se...";
+"accountPage.deviceRevocationSuccess" = "Zařízení bylo odebráno!";
+"accountPage.deviceRevocationTryAgain" = "Zkusit znovu";
+"accountPage.deviceRevocationWrongPassword" = "Nesprávné heslo";
+"accountPage.deviceRevocationUnknownDevice" = "Neznámé zařízení";
+"accountPage.deviceRevocationError" = "Chyba při odebrání zařízení";
+"accountPage.namePlaceholder" = "Jméno";
+"accountPage.linkDeviceTitle" = "Připojit další zařízení";
+"accountPage.other" = "Ostatní";
+"accountPage.removeAccountTitle" = "Odstranit účet";
+"accountPage.removeAccountMessage" = "Kliknutím na „Odstranit“ odstraníte tento účet na tomto zařízení! Tento krok nelze vrátit zpět. Vámi zaregistrované jméno může být ztraceno!";
+"accountPage.removeAccountButton" = "Odstranit";
+"accountPage.shareAccountDetails" = "Sdílet podrobnosti účtu";
+"accountPage.contactMeOnJamiTitle" = "Spojte se se mnou přes Jami!";
+"accountPage.contactMeOnJamiContant" = "Spojte se se mnou pomocí „%s“ na rozptýleném komunikačním systému Jami: https://jami.net";
+"accountPage.registerNameTitle" = "Zaregistrovat uživatelské jméno";
+"accountPage.passwordPlaceholder" = "Zadejte heslo k účtu.";
+"accountPage.usernamePlaceholder" = "Zadejte požadované uživatelské jméno.";
+"accountPage.registerNameErrorMessage" = "Zvolené uživatelské jméno není dostupné.";
+"accountPage.usernameRegistering" = "Registruje se";
+"accountPage.usernameRegisterAction" = "Zaregistrovat";
+"accountPage.usernameRegistrationFailed" = "Registrace selhala. Prosím zkontrolujte heslo.";
+"accountPage.createPassword" = "Vytvořit heslo";
+"accountPage.changePassword" = "Změnit heslo";
+"accountPage.oldPasswordPlaceholder" = "Zadejte staré heslo.";
+"accountPage.newPasswordPlaceholder" = "Zadejte nové heslo.";
+"accountPage.newPasswordConfirmPlaceholder" = "Potvrďte nové heslo";
+"accountPage.changePasswordError" = "Heslo je nesprávné.";
+"accountPage.enableBoothMode" = "Umožnit režim budky";
+"accountPage.disableBoothMode" = "Znemožnit režim budky";
+"accountPage.disableBoothModeExplanation" = "Prosím poskytněte heslo ke svému účtu.";
+"accountPage.boothModeExplanation" = "V režimu budky není historie konverzace ukládána a funkce Jami jsou omezeny na uskutečňování odchozích hovorů. Umožnění režimu budky odstraní všechny vaše konverzace.";
+"accountPage.noBoothMode" = "Pro umožnění režimu budky je nejdříve potřeba vytvořit heslo účtu.";
+"accountPage.boothModeAlertMessage" = "Po umožnění režimu budky budou všechny vaše konverzace odstraněny.";
+"accountPage.peerDiscovery" = "Automatické připojení na místní síti";
+"accountPage.autoRegistration" = "Auto register after expiration";
+
+//Account
+"account.sipUsername" = "Uživatelské jméno";
+"account.sipPassword" = "Heslo";
+"account.sipServer" = "Server SIP";
+"account.port" = "Port";
+"account.proxyServer" = "Proxy";
+"account.createSipAccount" = "Create a SIP Account";
+"account.usernameLabel" = "Zadejte uživatelské jméno.";
+"account.passwordLabel" = "Zadejte heslo";
+"account.serverLabel" = "Zadejte adresu.";
+"account.portLabel" = "Zadejte číslo portu.";
+"account.accountStatus" = "Stav účtu";
+"account.enableAccount" = "Povolit účet";
+"account.statusOnline" = "Připojen";
+"account.statusOffline" = "Nepřipojen";
+"account.statusConnecting" = "Spojuje se";
+"account.statusUnknown" = "Neznámé";
+"account.statusConnectionerror" = "Chyba spojení";
+"account.needMigration" = "Tento účet musí být převeden.";
+"account.me" = "Já";
+
+//Block List Page
+"blockListPage.noBlockedContacts" = "Žádné blokované kontakty";
+
+//Link New Device
+"linkDevice.title" = "Připojit nové zařízení";
+"linkDevice.passwordError" = "Vámi zadané heslo neodemkne tento účet";
+"linkDevice.networkError" = "Při exportování došlo k chybě sítě";
+"linkDevice.defaultError" = "Při exportování došlo k chybě";
+"linkDevice.explanationMessage" = "Pro dokončení tohoto postupu otevřete Jami na novém zařízení a vyberte volbu „Připojit toto zařízení k účtu“. Váš PIN zůstává platný 10 po minut.";
+"linkDevice.hudMessage" = "Ověřuje se";
+
+//Contact Page
+"contactPage.startAudioCall" = "Začít audio hovor";
+"contactPage.startVideoCall" = "Začít video hovor";
+"contactPage.sendMessage" = "Poslat zprávu";
+"contactPage.clearConversation" = "Vyprázdnit zprávy";
+"contactPage.blockContact" = "Blokovat kontakt";
+"contactPage.removeConversation" = "Odstranit konverzaci";
+
+//DataTransfer
+"dataTransfer.readableStatusCreated" = "Inicializuje se…";
+"dataTransfer.readableStatusError" = "Chyba";
+"dataTransfer.readableStatusAwaiting" = "Čeká na vyřízení…";
+"dataTransfer.readableStatusRefuse" = "Odmítnout";
+"dataTransfer.readableStatusOngoing" = "Přenáší se";
+"dataTransfer.readableStatusCanceled" = "Zrušeno";
+"dataTransfer.sendingFailed" = "Odeslání selhalo";
+"dataTransfer.readableStatusSuccess" = "Dokončeno";
+"dataTransfer.readableStatusAccept" = "Přijmout";
+"dataTransfer.readableStatusCancel" = "Zrušit";
+
+//Notifications
+"notifications.incomingCall" = "Příchozí hovor";
+"notifications.missedCall" = "Zmeškaný hovor";
+"notifications.acceptCall" = "PŘIJMOUT";
+"notifications.refuseCall" = "ODMÍTNOUT";
+"notifications.newFile" = "Nový soubor";
+"notifications.locationSharingStarted" = "Začalo příchozí sdílení polohy.";
+"notifications.locationSharingStopped" = "Přestalo příchozí sdílení polohy.";
+"dataTransfer.readableStatusAwaiting" = "Čeká na vyřízení…";
+"dataTransfer.readableStatusRefuse" = "Odmítnout";
+"dataTransfer.readableStatusOngoing" = "Přenáší se";
+"dataTransfer.readableStatusCanceled" = "Zrušeno";
+"dataTransfer.readableStatusSuccess" = "Dokončeno";
+"dataTransfer.readableStatusAccept" = "Přijmout";
+"dataTransfer.readableStatusCancel" = "Zrušit";
+"dataTransfer.infoMessage" = "Stiskněte pro začátek nahrávání.";
+"dataTransfer.sendMessage" = "Odeslat";
+
+
+//Generated Message
+"generatedMessage.contactAdded" = "Spojení přidáno";
+"generatedMessage.invitationReceived" = "Pozvání přijato";
+"generatedMessage.invitationAccepted" = "Pozvání přijato";
+"generatedMessage.outgoingCall" = "Odchozí hovor";
+"generatedMessage.incomingCall" = "Příchozí hovor";
+"generatedMessage.missedOutgoingCall" = "Nepřijatý odchozí hovor";
+"generatedMessage.missedIncomingCall" = "Zmeškaný příchozí hovor";
+"generatedMessage.liveLocationSharing" = "Sdílení aktuální polohy";
+
+//General Settings
+"generalSettings.title" = "Pokročilá nastavení";
+"generalSettings.videoAcceleration" = "Povolit zrychlení videa";
+
+//Migrate Account
+"migrateAccount.title" = "Převod účtu";
+"migrateAccount.migrateButton" = "Převést účet";
+"migrateAccount.explanation" = "Tento účet musí být převeden.";
+"migrateAccount.passwordPlaceholder" = "Zadejte heslo";
+"migrateAccount.passwordExplanation" = "Pro převedení je potřeba zadat heslo k tomuto účtu.";
+"migrateAccount.removeAccount" = "Odstranit účet";
+"migrateAccount.error" = "Nepodařilo se převést váš účet. Můžete to zkusit znovu nebo svůj účet smazat.";
+"migrateAccount.migrating" = "Převádím…";
+"migrateAccount.cancel" = "Zrušit";
+"migrateAccount.migrateAnother" = "Převést jiný účet";
+
+

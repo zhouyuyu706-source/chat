@@ -4,6 +4,7 @@
 /website/updates/
 /plugins/
 /website/public/assets/zova-hero.mp4
+/client-ios/Ring/Ring/Resources/default.wav
 /.local/
 /.secrets/
 *.msi
