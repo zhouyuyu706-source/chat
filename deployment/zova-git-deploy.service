@@ -5,7 +5,7 @@ Wants=network-online.target
 
 [Service]
 Type=oneshot
-WorkingDirectory=/data/zova/source
+WorkingDirectory=/data/zova/git-source
 ExecStart=/usr/bin/git fetch --prune origin main
 ExecStart=/usr/bin/git reset --hard origin/main
-ExecStart=/data/zova/source/deployment/server-update.sh
+ExecStart=/data/zova/git-source/deployment/server-update.sh

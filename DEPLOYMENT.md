@@ -25,7 +25,7 @@ GitHub 保存源码和部署定义。服务器以只读方式拉取 `main`，验
 
 ## 服务器布局
 
-- Git 工作副本：`/data/zova/source`
+- Git 工作副本：`/data/zova/git-source`
 - 网站目录：`/data/zova/website`
 - 用户名服务：`/data/zova/deploy-names`
 - 发布锁：`/run/lock/zova-deploy.lock`
