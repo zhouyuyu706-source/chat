@@ -1,0 +1,24 @@
+[Unit]
+Description=Zova signed username directory
+After=network.target
+
+[Service]
+User=zova-names
+Group=zova-names
+WorkingDirectory=/opt/zova-names
+Environment=ZOVA_NAMES_DB=/data/zova/names/names.sqlite3
+ExecStart=/usr/bin/gunicorn --bind 127.0.0.1:8491 --workers 1 --threads 2 --timeout 15 --limit-request-line 1024 app:create_app()
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/data/zova/names
+MemoryMax=128M
+CPUQuota=25%
+TasksMax=24
+
+[Install]
+WantedBy=multi-user.target

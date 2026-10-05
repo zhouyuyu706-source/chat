@@ -1,0 +1,11 @@
+[Unit]
+Description=Pull and deploy the latest Zova main branch
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/data/zova/source
+ExecStart=/usr/bin/git fetch --prune origin main
+ExecStart=/usr/bin/git reset --hard origin/main
+ExecStart=/data/zova/source/deployment/server-update.sh

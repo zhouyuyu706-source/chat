@@ -1,0 +1,14 @@
+[Unit]
+Description=Consistent Zova username database backup
+
+[Service]
+Type=oneshot
+User=zova-names
+Group=zova-names
+ExecStart=/usr/bin/python3 /opt/zova-names/backup.py
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/data/zova/backups/names
+UMask=0077

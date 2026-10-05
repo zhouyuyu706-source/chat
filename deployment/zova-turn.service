@@ -1,0 +1,22 @@
+[Unit]
+Description=Zova authenticated and quota-limited TURN relay
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=turnserver
+Group=turnserver
+ExecStart=/usr/bin/turnserver -c /etc/zova-turn.conf --pidfile=
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+MemoryMax=128M
+CPUQuota=25%
+TasksMax=32
+LimitNOFILE=4096
+
+[Install]
+WantedBy=multi-user.target
