@@ -1,0 +1,31 @@
+********* Start testing of qmltestrunner *********
+Config: Using QtTest library 6.2.1, Qt 6.2.1 (x86_64-little_endian-llp64 shared (dynamic) release build; by MSVC 2019), windows 10
+PASS   : qmltestrunner::ProductionButtons027::initTestCase()
+QWARN  : qmltestrunner::ProductionButtons027::test_actionNotDuplicated(MaterialButton) QQmlEngine::setContextForObject(): Object already has a QQmlContext
+QDEBUG : qmltestrunner::ProductionButtons027::test_actionNotDuplicated(MaterialButton) FT_New_Face failed with index 0 : 2
+PASS   : qmltestrunner::ProductionButtons027::test_actionNotDuplicated(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_actionNotDuplicated(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_checkableEnterTogglesOnce(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_checkableEnterTogglesOnce(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_checkedStillHasPressedFeedback(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_checkedStillHasPressedFeedback(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_disableCancelsHeldKey(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_disableCancelsHeldKey(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_focusLossCancelsHeldKey(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_focusLossCancelsHeldKey(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_iconAccessibilityName(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_iconAccessibilityName(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_keyboardFocusRing(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_keyboardFocusRing(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_mousePressedWins(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_mousePressedWins(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::test_outlinedPressedContent()
+PASS   : qmltestrunner::ProductionButtons027::test_quickActionKeyboardAndDisabled(dark)
+PASS   : qmltestrunner::ProductionButtons027::test_quickActionKeyboardAndDisabled(light)
+PASS   : qmltestrunner::ProductionButtons027::test_quickActionThemeAndSize(dark)
+PASS   : qmltestrunner::ProductionButtons027::test_quickActionThemeAndSize(light)
+PASS   : qmltestrunner::ProductionButtons027::test_returnSingleRelease(MaterialButton)
+PASS   : qmltestrunner::ProductionButtons027::test_returnSingleRelease(PushButton)
+PASS   : qmltestrunner::ProductionButtons027::cleanupTestCase()
+Totals: 25 passed, 0 failed, 0 skipped, 0 blacklisted, 1796ms
+********* Finished testing of qmltestrunner *********

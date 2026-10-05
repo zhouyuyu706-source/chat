@@ -1,0 +1,2 @@
+module net.jami.Constants
+singleton JamiTheme 1.1 JamiTheme.qml
