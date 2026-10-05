@@ -1,0 +1,14 @@
+--- a/lib/verify-tofu.c
++++ b/lib/verify-tofu.c
+@@ -527,1 +527,5 @@
++#ifdef _MSC_VER
++		mkdir(local_file);
++#else
+ 		mkdir(local_file, 0700);
++#endif
+@@ -628,1 +632,5 @@
++#ifdef _MSC_VER
++		mkdir(local_file);
++#else
+ 		mkdir(local_file, 0700);
++#endif

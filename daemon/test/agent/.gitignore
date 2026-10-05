@@ -1,0 +1,6 @@
+agent
+*.yml
+*.txt
+*.log
+.gdbinit
+*.gdb
