@@ -1,0 +1,4 @@
+[submodule "3rdparty/qrencode-win32"]
+	path = 3rdparty/qrencode-win32
+	url = https://github.com/BlueDragon747/qrencode-win32.git
+	ignore = dirty

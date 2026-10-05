@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+    <?if $(var.Configuration) = Release ?>
+    <?define Name="Zova" ?>
+    <?else?>
+    <?define Name="Zova (BETA)" ?>
+    <?endif ?>
+
+    <?if $(var.Configuration) = Release ?>
+    <?define ReleaseDir="..\x64\Release"?>
+    <?else?>
+    <?define ReleaseDir="..\x64\Beta"?>
+    <?endif ?>
+
+    <?define AppName="Zova" ?>
+
+    <?define Manufacturer="Zova"?>
+    <?define UcrtDir="C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64"?>
+</Include>

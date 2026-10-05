@@ -1,0 +1,34 @@
+*.user
+doc/Doxyfile
+
+GeneratedFiles/
+.vs/
+.vscode/
+x64/
+x86/
+[wW]in32/
+.qmake.stash
+debug/
+release/
+beta/
+*.dll
+*.qm
+build/
+nuget.exe
+*.autosave
+changelog.html
+obj/
+build/
+build-local/
+*.vcxproj
+*.vcxproj.filters
+*qmlcache.qrc
+
+.deploy.stamp
+
+# auto-gen files
+resources.qrc
+src/constant/JamiResources.qml
+
+# macOS
+.DS_Store
